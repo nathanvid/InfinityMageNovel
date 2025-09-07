@@ -1,0 +1,318 @@
+---
+title: A Midwinter Night (4)
+date: 2025-09-01
+---
+
+"Then what? Do you have some other method in mind?"
+
+Liria pulled out her totem and held it forward.
+
+"While the spirit remains here, I'll isolate this area with law magic. I need to set up a prohibition formation, so help me out. You know how to calculate three-dimensional magic circles, right?"
+
+Dante shrugged as if it were nothing significant.
+
+"Well... it's sort of my specialty."
+
+Since he had majored in magic circles, he was more than qualified to assist Liria with her work.
+
+But Dante still had his doubts.
+
+Would this really be enough?
+
+Even if they managed to isolate the spirit in the old castle ruins, trapping it in a sealing formation afterward was an entirely separate matter.
+
+"This prohibition formation—can we finish it by tomorrow morning?"
+
+"It depends on skill level, but if you and I split the work in half, it should probably be possible. But why?"
+
+Dante looked back at the shopping district where lights were still burning brightly.
+
+Countless couples were probably wandering those streets like moths drawn to flame.
+
+"I think we need to reinforce our forces on this side too."
+
+* * *
+
+After parting ways with Dante, Shirone and Amy became noticeably quieter than before.
+
+It wasn't that the atmosphere had become bleak, though.
+
+Amy was completely absorbed in pondering how to find her own style, taking Dante's advice to heart.
+
+Shirone was also troubled, unable to perfectly control the avatar of rage lurking within him.
+
+'That was truly dangerous earlier.'
+
+Armang had slipped from his control and targeted a person.
+
+It wasn't that Shirone's mental discipline was lacking. Rather, it was more accurate to say the magnitude of his anger had grown stronger than before.
+
+Of course, it's natural for one's personality to change over the course of life.
+
+But this wasn't the direction he had wanted.
+
+'I need more training. During the break, I should visit Teacher Etela and seek her advice.'
+
+Having reached that conclusion for now, Shirone found the lodging called Snow Crystal that Shakora had recommended.
+
+"Here it is, the place I mentioned."
+
+Amy didn't evaluate anything, simply observing the interior atmosphere from outside.
+
+Shirone surveyed the building's exterior.
+
+As Shakora had said, the atmosphere was pleasant. The decorations were luxurious, and he liked the view of endless snowfields stretching into the distance.
+
+Amy had no complaints about the lodging either. But she still had lingering questions.
+
+There was no reason for Shirone, unfamiliar with this place, to go out of his way to search for a special inn.
+
+"Why are you insisting on this place?"
+
+"Oh. I looked into it, and they said the atmosphere is really nice. We should be able to rest comfortably."
+
+"I see..."
+
+If Shirone said so, Amy had no need to argue further.
+
+Though practical by nature, this trip also carried meaning as comfort, so he must have made his own preparations.
+
+That made her feel somewhat sorry.
+
+On a day like today, it would be fine to spend the evening together, but her current state of mind was indescribably complicated.
+
+"Welcome. This is Snow Crystal."
+
+As Shirone entered through the door, he was startled by the dazzlingly bright light.
+
+Countless lamps illuminated the hall like broad daylight.
+
+Past a corridor that bent at right angles lay a spacious terrace where tourists gathered around brazier flames, drinking tea.
+
+A minstrel's music could be heard.
+
+The lyrics contained the desperate feelings of the Ice Queen, who froze everyone around her.
+
+"For two people?"
+
+The employee manning the counter asked with a smile.
+
+"Yes, two people."
+
+While Shirone contracted for rooms with the employee, Amy stood a little apart, looking elsewhere.
+
+If it were a group trip with friends, it wouldn't matter, but somehow it felt strange for a man and woman to enter such a place together.
+
+"Two rooms, please."
+
+The employee glanced back and forth between Shirone and Amy, then nodded knowingly and placed keys on the table.
+
+"Yes, you'll have rooms 311 and 312. Take the stairs to the third floor, then turn right down the corridor. Payment is in advance."
+
+After Shirone paid the fee, he looked back at Amy, and she slowly began walking toward the stairs.
+
+Walking down the third-floor corridor, Shirone said, "Let's unpack our bags first. If you get hungry, should we go out and grab something to eat?"
+
+"No. I just want to rest today. Walking around in the cold for so long made me feel heavy. Is that okay?"
+
+If she was truly physically tired, she could rest as much as she wanted, but Shirone somehow felt she was lying.
+
+Perhaps she was angrier than he had expected.
+
+Even if she had intellectually accepted Dante's advice, emotions were a separate matter.
+
+When they had argued about the graduation exam results and Dante asked about his intentions, he felt he should have taken Amy's side.
+
+"Amy, about earlier..."
+
+Reading Shirone's thoughts, Amy smiled faintly.
+
+"Don't misunderstand. It's not like that. You know I don't hold grudges."
+
+That made Shirone's heart feel even heavier.
+
+The very fact that she mentioned "holding grudges" meant she was holding a grudge, didn't it?
+
+In any case, if Amy's heart was already in chaos, no words would improve her mood.
+
+In such cases, what was needed wasn't conversation, but time.
+
+"Alright, then I'll see you tomorrow."
+
+"Yeah. You rest well too."
+
+Amy unlocked her door and went inside. Watching until then, Shirone also inserted his key into the center of the doorknob.
+
+Opening the door and entering, the first thing that caught his eye was the endless snowfield spread beyond the front glass window.
+
+Far in the distance, hundreds of meters away, torch-like flames flickered where people were ice fishing.
+
+How wonderful it would have been to see this view together with Amy.
+
+The thought made him sigh involuntarily.
+
+"Phew."
+
+"Phew."
+
+Shirone and Amy simultaneously looked toward each other. Then, as if by agreement, they turned toward the door.
+
+"Wh-what is this?"
+
+There were two doors, but one room.
+
+And one bed.
+
+The two stared at each other with bewildered expressions.
+
+A moment of silence followed.
+
+Shirone's mind was saturated with all kinds of thoughts.
+
+Above all, since he had stubbornly insisted on choosing this lodging, he had to come up with some kind of excuse.
+
+'Wh-what should I do? Should I ask them to change rooms? But all the rooms here would probably be like this. Should we just get a refund and leave? But wouldn't that displease Amy? Or is it the opposite? Should I get a refund...'
+
+As Shirone stood with a pale face, not knowing what to do, Amy let out a small sigh.
+
+No wonder he had acted so out of character. And now that things had turned out this way, the decision lay with the woman.
+
+Amy went to the wardrobe and set down her backpack.
+
+"Can't be helped. Let's unpack first."
+
+"Huh? Oh, right!"
+
+Shirone was still flustered.
+
+He was unpacking without even knowing what was in his bag when Amy asked in a casual tone, "Who told you about this place?"
+
+"Huh? What?"
+
+"You absolutely wouldn't have come here knowing what kind of place it was, so someone else recommended it to you, right?"
+
+Shirone confessed honestly despite his embarrassment.
+
+"Actually, your father..."
+
+Amy made a groaning sound with an expression that said she knew it.
+
+With a spy in the family, she couldn't even blame Shirone for this.
+
+"He said the atmosphere was really good. That you'd like it too..."
+
+The night view was certainly beautiful. But precisely because of that, it was a dangerous place for the two of them to be alone.
+
+After roughly organizing her clothes, Amy pointed toward the door and said, "Let's go downstairs and have dinner."
+
+When Shirone and Amy came down to the counter after leaving their room, the employee asked with a mischievous smile, "Do you like the room?"
+
+Amy ignored the question and said, "We'd like a simple meal. Where's the dining room?"
+
+It was around 11 o'clock when Shirone and Amy returned to the lodging after satisfying their hunger.
+
+They had spent as much time as possible outside, but both knew that this place was their final destination.
+
+All the processes of washing and changing clothes felt completely different from usual.
+
+Though their bodies felt heavy as water-soaked cotton from riding in the carriage since yesterday afternoon, their minds grew increasingly alert.
+
+Neither of them went near the single bed.
+
+No one discussed who would sleep in the bed.
+
+In this place, the bed was a forbidden topic.
+
+The two sat side by side, gazing at the horizon of the snowfield where white snow met the black night sky.
+
+They could momentarily forget reality in the mystery of the night view.
+
+But suddenly, strange sounds from the next room dragged their consciousness back to reality and threw it down hard.
+
+When their eyes met, Shirone's face flushed red.
+
+Amy averted her gaze and desperately pretended to be calm.
+
+"What? Why are you blushing?"
+
+"Y-you look a little red too."
+
+Amy realized with certainty.
+
+No matter how she thought about it, this wasn't right.
+
+If she had to continue this atmosphere, it would be better to spread bedding in hell and sleep there.
+
+"Fine! Let's be frank about this. We're not children, so there's no need for this, right? Currently, we're spending the night together at an inn, and we can hear something happening next door. On top of that, there's coincidentally only one bed. This is a very strange situation. But that's enough now. Since we know it's a strange situation, it's no longer a strange situation. Agreed? Now, I'm tired, so let's sleep."
+
+Shirone felt much more at ease. But on the other hand, he was also displeased.
+
+How could emotions be cut off like slicing radish?
+
+"Are you really okay with this? I am a man, you know."
+
+"I know. But nothing will happen, right?"
+
+Of course that would be the case.
+
+But Shirone, his pride somewhat hurt, added in a shrinking voice, "Well, you never know..."
+
+At his timid protest, Amy couldn't help but chuckle. Then she thought of her family, who were probably imagining all sorts of things at home.
+
+'That father of mine, really...'
+
+To arrange for his daughter to share a room with a man at an inn with such an exquisite trap set up.
+
+This was absolutely impossible with a typical noble's way of thinking.
+
+But the Carmis family, which valued individual personality, prided itself on having an open-minded tradition regarding romance.
+
+Of course, no matter how open-minded they were, whether they would accept a commoner remained uncertain.
+
+Nevertheless, the fact that they had made such a decision meant they truly liked Shirone.
+
+Thinking that she wouldn't need to worry about her family's opinions in her relationship with Shirone going forward, she felt somewhat relieved.
+
+'Come to think of it, that's really impressive.'
+
+The Insight of the Carmis family was superior to any other ability in grasping a person's temperament.
+
+But precisely because of that, ordinary talents didn't catch their eye.
+
+Shirone had grown at a terrifying speed worthy of recognition from her demanding father.
+
+Though it came at the cost of her own elimination, he had reached the same level as her—the graduating class—as promised a year ago.
+
+One year.
+
+In just one year, he had caught up to that enormous gap.
+
+But she didn't feel resentful about it.
+
+Even if Shirone could start his life over from the beginning, he would eventually have reached this point anyway.
+
+"Honestly... I was angry at you earlier. When Dante asked, I was hurt that you didn't take my side."
+
+Shirone turned his head to look at Amy.
+
+"I don't really know either. I just felt pathetic about myself. When I heard that Jokre had passed too, honestly, I was so envious. I wondered what it would have been like if I had transferred schools too. I thought maybe I was being stubborn without having the skills. Maybe I don't have the talent to attend a prestigious school."
+
+"Amy, thinking like that..."
+
+"I know. There's no end to negative thinking. That's probably why I got more upset with you. I was scared to admit I was wrong."
+
+"But now you know what the problem is."
+
+"Right. Dante's analysis is accurate. I'm grateful for that. But... I still don't really know. Whether having a style will allow me to graduate. I have no confidence in anything I do."
+
+'Amy...'
+
+This was why defeat was frightening.
+
+The graduating class occupied the highest position in magic school.
+
+The feeling of falling from the peak couldn't compare to how advanced class students felt when they failed promotion exams.
+
+The reason why people who failed their first graduation exam had a lower-than-average probability of passing their second graduation exam was precisely this.
+
+---

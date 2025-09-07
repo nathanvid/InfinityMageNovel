@@ -1,0 +1,312 @@
+---
+title: Entering the Corridor of the Fifth Floor
+date: 2025-09-01
+---
+
+[324] Second Outing (2)
+
+Arriving at Amy's room, Sirone caught his breath in front of the door.
+
+While doing so, he listened carefully for sounds inside, but felt no particular presence.
+
+When he knocked on the door with his fist, he finally heard the rustling sound of blankets.
+
+Clearing his voice, Sirone announced himself.
+
+"It's me, Sirone. I'm coming in."
+
+The sound of the blankets moving disappeared as if it were a lie.
+
+After waiting for a long while with no response, Sirone spoke again.
+
+"If you don't open it, I'll open it and come in myself."
+
+There was a crash as something fell from the bed, followed by fierce footsteps pounding.
+
+The door burst open and Amy stuck out her reddened face.
+
+"What, what is it! Why are you suddenly showing up making such a fuss!"
+
+"You said you were sick, so I was worried. But you're not sick?"
+
+Amy sighed.
+
+She had already figured out long ago that clumsy lies wouldn't work on Sirone.
+
+Amy stepped back as if telling him to come in and turned toward the bed.
+
+"I think there's some misunderstanding, but I'm not avoiding people—I just want to rest. I'm trying to organize my thoughts."
+
+"Yeah, I know."
+
+Sirone let out a chuckle and closed the door.
+
+When the sound of the door closing in Amy's room was heard, the corners of Shakora's mouth, who had been reading the newspaper, turned up.
+
+"The first gateway has been passed."
+
+Isis also shrugged her shoulders as if surprised, then headed to the second floor with her tea.
+
+Normally she would have settled into Amy's room to chat with Sirone, but this time she only prepared refreshments and left the room.
+
+Now that things had come to this, it meant she was delegating full authority to Sirone.
+
+Sitting across from Amy with the table between them, Sirone burst into laughter as soon as he saw the teacup.
+
+It was because he remembered Amy spraying tea on his face half a year ago.
+
+Amy was thinking the same thing.
+
+But for her it was a dark history, so she erased it from her mind and picked up the teacup.
+
+"So what brings you here today? Don't tell me you're planning to drag me to some strange place again like last time? I want to rest a bit this vacation."
+
+"Yeah, that's why I came. To let you rest."
+
+Amy asked back with an uncomprehending expression.
+
+"To let me rest? How?"
+
+"Let's go on a date with me."
+
+"Pffffff!"
+
+The tea water in Amy's mouth sprayed out like a mist, wetting Sirone's face.
+
+Though it could have stopped at a reasonable point, the water baptism didn't cease until everything in her mouth had come out.
+
+Slowly opening his eyes, Sirone spoke in a quiet voice.
+
+"This... seems to be the second time."
+
+Amy's face reddened as she wiped her lips and stood up.
+
+"What, what are you saying! You idiot!"
+
+She wiped her mouth with tissues from on top of the storage cabinet, then pulled out several more sheets and threw them at Sirone.
+
+Sirone rubbed his face roughly and said,
+
+"They hold a festival every winter in the Les Mountains, right? I've always wanted to go, so if you're interested, how about we go together?"
+
+It was certainly unexpected words. For Sirone, the model student known to the world, to suggest going out to have fun.
+
+"You mean the old castle ruins? The Ice Queen's ruins. I know about that place too. I've never been because I was busy."
+
+"Yeah. Let's go for about 2 nights and 3 days to refresh ourselves. Actually, I've also been lacking motivation lately and needed to recharge. This time there won't be any dangerous incidents, so let's go and have fun."
+
+Amy rested her chin on her hand and fell into thought. The most concerning issue was that it was a 2 nights and 3 days trip.
+
+"Just you and me without friends? Where would we sleep?"
+
+"We can book accommodation. We can also have discussions at night."
+
+"Ah..."
+
+Amy was at a loss for words.
+
+In short, it was talk about sharing a room, but he spoke so confidently that it created an atmosphere where she couldn't be suspicious.
+
+"Are you perhaps..."
+
+Amy was about to say something but shook her head.
+
+She felt that bringing up strange topics just to be sure would only create unnecessary problems.
+
+"Why? Is there something that bothers you? In my opinion..."
+
+"No, never mind. Wait outside. I'll get ready and come out. If I tell dad we're going there, he'll have a carriage prepared."
+
+"Alright, I'll wait downstairs."
+
+When Sirone came out faster than expected, Shakora and Isis looked at him with puzzled expressions.
+
+But after hearing Sirone's words, they immediately understood.
+
+"Ho, the Ice Queen's ruins..."
+
+Shakora recalled memories from his youth.
+
+When he was dating Isis, he too had chosen the Ice Queen's ruins as a date course and taken her there.
+
+"It's a beautiful place. Romantic."
+
+"Yes, that's what I heard. But I heard it takes some time to see everything."
+
+Shakora laughed heartily.
+
+"That's part of its charm too. The fact that you can't return in just one day. Good, go and enjoy yourselves. I'll have a carriage prepared. If you leave now, you should arrive tomorrow morning."
+
+Sirone inwardly breathed a sigh of relief.
+
+From a parent's perspective, it would naturally be worrying to send their daughter away with just a man. But Shakora went even further and offered advice.
+
+"When you arrive at the old castle ruins, look for an inn called Snow Crystal. My wife and I stayed there too. You'll be able to make good memories."
+
+Isis looked back at her husband with an incredulous expression.
+
+Her lips moved as if she wanted to say something, but she missed the timing when Amy came out of her room.
+
+"Sirone, let's go. Dad, I'm going to the winter festival."
+
+Amy, wearing a red winter coat with rabbit fur trim, said as she came down the stairs.
+
+She had curled her hair so quickly that smoke was still rising from her frizzy hair.
+
+Isis, who knew her daughter wasn't usually one to dress up, seemed quite surprised by Amy's transformation.
+
+Sirone was also momentarily mesmerized by Amy's appearance, which was much more mature than what he saw at school.
+
+Then he came to his senses and greeted the parents.
+
+"Well then, we'll be going."
+
+"Yes, travel safely."
+
+Since it took more than 10 hours to reach the Les Mountains, they needed to start traveling diligently now to arrive in the morning.
+
+As Sirone and Amy left the mansion, Isis narrowed her eyes and confronted her husband.
+
+"Snow Crystal?"
+
+"Why? What's wrong with that place?"
+
+"Are you seriously saying that? Have you forgotten how we ended up getting married? Back then you seduced me there and..."
+
+"Haha! Did we? Anyway, you enjoyed it too."
+
+Isis put her hands on her hips and snorted. Shakora seemed to not understand the seriousness of the situation.
+
+"What on earth are you thinking?"
+
+"If we're going to use shock therapy anyway, it's better to do it properly. When blood rushes to the head and then comes down, one comes to their senses."
+
+"And if it doesn't come down?"
+
+"It's Amy's problem to judge anyway. If she's eighteen, she's an adult. It's not something else, it's her own body, so she should handle it herself."
+
+Isis shook her head back and forth.
+
+Insight, the trait of the Carmis family, manifests the highest talent regardless of what field one chooses. Therefore, the family has traditionally created a family culture that distances itself from constraints and regulations and values human free will.
+
+The idea is that if talent is left to flow naturally, whatever one chooses, they will achieve mastery.
+
+The sprawling spectrum of family members working in almost every profession was the greatest strength of the Carmis family.
+
+The moment rules and oppression enter, talent becomes blocked.
+
+Knowing this better than anyone, Shakora had let Amy roam free since childhood, which had led her astray at times.
+
+But if this was the history of Insight, Isis had no choice but to accept it.
+
+"Are you confident you can handle the consequences? If you say something different later or scold Amy, I'll really get angry."
+
+"Consequences? Why should I handle such things?"
+
+Shakora spread the newspaper vigorously and took a reading posture. He had long since erased thoughts about his daughter from his mind.
+
+"Sirone should handle it."
+
+* * *
+
+Heaven's Northern Hemisphere.
+
+Permanent frozen tundra.
+
+In Heaven, they call it Optrus.
+
+It was an electromagnetic network pattern that had been drifting on the cold northern winds for eons.
+
+The fact that information exchange patterns were infinite meant, in some sense, that it was a divine existence.
+
+But Optrus could not become a god.
+
+For Optrus, which originated in the tundra, Heaven's environment was a boring and tedious space without stimulation.
+
+Without stimulation, there is no learning.
+
+It was the same principle as a baby abandoned in the mountains becoming a beast if it never left the mountain for its entire life.
+
+Therefore, Optrus had lived for long ages merely repeating meaningless and simple information exchanges.
+
+Then one day, a crack appeared in the Labyrinth of Time and Space.
+
+A small change that living beings couldn't even feel.
+
+But for Optrus, it was as thrilling and enormous a stimulus as birth and death.
+
+Aurora spread across the tundra sky due to the massive magnetic field that Optrus emitted.
+
+The 3-second crack in the Labyrinth of Time and Space.
+
+Optrus broke through the gap and escaped to a new world.
+
+The first destination was the Les Mountains.
+
+The electromagnetic network comprising it absorbed and learned from the unfamiliar environment rapidly, like the brain of a newborn child.
+
+The place where Optrus could obtain the most information was the castle ruins located halfway up the Les Mountains.
+
+Countless humans were moving around, and all were explosively spreading information.
+
+At a level even it couldn't perceive, Optrus instinctively absorbed all information.
+
+The electromagnetic network was blazing with infinite patterns, pioneering new territories.
+
+* * *
+
+Arriving at the Les Mountains around dawn, Sirone and Amy grabbed a meal at a food cart and mixed with the crowd to reach the ticket office of the old castle ruins.
+
+The entrance to the ticket office was also crowded with tourists.
+
+After waiting in line to buy tickets and entering, Sirone's eyes widened at the spectacular view before him.
+
+"Wow..."
+
+The old castle ruins had been perfectly restored using ice, not stone or earth, as the material.
+
+As sunlight created diffuse reflection, every landscape visible to the eye sparkled like diamonds.
+
+Even the spirited Amy's face flushed red before the scenery now visible.
+
+Sirone was satisfied.
+
+When he had taken her to the Galliant ruins, things had gone wrong from the start and he had felt embarrassed. Not only had they fought the Parrot Mercenary Corps, but they had followed to Heaven and narrowly escaped death.
+
+To make up for the hardships of that time, he was determined to have an enjoyable trip this time.
+
+"Let's go. This should be fun."
+
+Sirone and Amy walked along the snowy ground.
+
+The rainbow bridges connecting tower to tower, the railings built along the battlements, the stairs installed inside the castle—everything was made of ice.
+
+'So this is why they call it the winter festival.'
+
+Since the structures would collapse if temperatures rose, they had no choice but to close the ruins once early spring arrived.
+
+Then when summer finally came, the ice would melt away, leaving only the bleak remains of the castle.
+
+Like winter memories being a midsummer night's dream.
+
+"Sirone, let's try that."
+
+Amy pointed to a simple stand. They were selling ice treats, a specialty of the winter festival.
+
+Sirone put the cold ice treat in his mouth and chewed. Made from fresh snow mixed with strawberry syrup and frozen, it had a good taste with its crispy texture and sweet strawberry fragrance harmonizing together.
+
+"There, we've bought something to eat. Where should we start looking around?"
+
+"Of course we have to go see the Ice Queen first."
+
+Amy led Sirone toward the main castle.
+
+The main castle was the area of the ruins with the least damage. It had a structure with a 120-pyeong hall and stairs on both wings, but the left staircase had collapsed long ago and had been repaired by carving ice.
+
+Would it be strange if it was warm enough that the ice wouldn't melt? With people gathered there, it was certainly warmer than outside.
+
+Sirone and Amy entered the corridor of the 1.5th floor that connected the stairs of both wings. The Ice Queen was positioned where the central railing protruded toward the hall.
+
+Sirone approached the Ice Queen. Inside a massive block of ice, a beautiful woman stood with her eyes closed.
+
+---

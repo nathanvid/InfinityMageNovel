@@ -1,0 +1,240 @@
+---
+title: Chapter 344 - Protagonist of Life (4)
+date: 2025-09-01
+---
+
+# Chapter 344 - Protagonist of Life (4)
+
+As the law was released and the tourists regained their human forms, they were horrified to see their naked bodies. Chaos erupted. Women screamed while covering themselves, and men frantically searched for places to hide. Shirone's group had to request help from people outside the fortress walls to barely manage getting everyone to shelter in the inns.
+
+Shirone sat on the railing of the cafe terrace, looking at the tourists packed into every building.
+
+Some threatened to file complaints with the tourism board, while others bellowed for the manager to be brought forward.
+
+They too had encountered beings from heaven. It was impossible to predict what kind of repercussions today's incident would cause.
+
+Shirone looked back at Gangnan. She was also facing the tourists, but her expression showed she was thinking about something else entirely.
+
+"What do we do now? Are we going to convince these people?"
+
+"Is there a need for that?"
+
+"Pardon?"
+
+"We don't need to worry about such trivial matters. People from the association will come. They'll handle it."
+
+"But if time passes, it'll be difficult to control. What if rumors spread?"
+
+"Just announce it as if the Ice Queen's myth was real. Whether they believe it or not, we're contaminating the information. But even if we tell the truth, it doesn't matter. It's not like ordinary people can do anything about it even if they know."
+
+Gangnan had experienced situations like this often. When information about heaven spreads to the world, it might seem like great chaos would ensue, but she could say with certainty that nothing would happen.
+
+People would still worry about what to eat today, lose sleep over important contracts tomorrow, and only concern themselves with how to raise their growing children.
+
+Gangnan looked back at Jokre's group. Even though she hadn't given any special orders, they stayed close and wouldn't leave her side.
+
+They knew too. That this wasn't a situation they could handle.
+
+But to Gangnan, it was merely bothersome.
+
+"The association will decide your treatment too. So don't follow me and go away. You can run if you want to."
+
+Jokre's group hung their heads dejectedly.
+
+They knew full well what it meant to make the Magic Association their enemy. Even if they went to prison, as long as they belonged to the Red Line, their mage licenses wouldn't be revoked. But the moment they ran, the only place they could belong was the Black Line. Jokre's group didn't have the ability to survive in a world of those consumed by madness.
+
+"Yes. We're sorry. We'll turn ourselves in when the association people come."
+
+Amy silently watched Jokre's group walking away. The life they could share with them ended here. Whatever happened, they ultimately had to live on and fight fiercely to become the protagonists of their own lives.
+
+After the follow-up measures were somewhat completed, Gangnan prepared to leave. Before speaking, she stared intently at Shirone.
+
+Now that he had released his Armament, he looked much younger than expected. Of course, she wasn't foolish enough to judge someone by their appearance.
+
+But she thought that such characteristics might be troublesome once he entered the association.
+
+Gaold's proposal was that revolutionary.
+
+"Shirone. We need to depart now. I'll wait in the carriage, so finish up quickly and follow me."
+
+"Yes. I'll be right there."
+
+Shirone was planning to follow Gangnan to the Magic Association. The opportunity to meet face-to-face with Gaold was rare, but he was also curious about Miro's situation.
+
+'If I go to the capital, I can meet Rian too. And Tess.'
+
+Shirone shouldered his backpack and approached Amy.
+
+"I'm sorry. For things turning out this way."
+
+He couldn't face Amy properly. This time, he had wanted to enjoy a proper vacation, but once again he had put her in danger.
+
+"I'm telling you clearly - I'm never traveling with you again."
+
+"Haha! I'm really sorry. I have nothing to say."
+
+Amy smiled and shook her head.
+
+"Thank you, Shirone. Thanks to you, I gained confidence. I think I can work hard again now."
+
+Shirone felt it too. Not only her skill in subduing Jokre's group, but the ultra-high temperature Inferno was magic that would be difficult for anyone Amy's age to implement without her abilities.
+
+She had gained insight during battle, but he didn't ask about it. If there were a hundred people, there would be a hundred different insights, and if it was Amy's style, no one could follow it. Someday there would come a day when they could chat leisurely and he could hear about it.
+
+"I'll contact you when I get back. And Dante, thanks for accepting my request. Please take good care of Amy."
+
+Dante shrugged his shoulders. He had suddenly ended up escorting his rival's girlfriend, but it wasn't entirely a loss. Both heaven and the Labyrinth of Time and Space - Shirone and Amy seemed to have some understanding of them. He planned to ask about heaven during the journey, as there would be plenty of time.
+
+"I don't know what kind of business it is, but go well and come back safely."
+
+"Yeah. See you at school then."
+
+After Shirone left, Dante and Amy also turned to leave. On the way to the exit, Dante pointed to a cafe and asked.
+
+"How about a cup of coffee before we go? Of course, you're buying."
+
+"How far are you going to mooch off me! You buy it! You have plenty of money anyway!"
+
+"Now, now. I'm escorting you all the way home, so at least a coffee... huh?"
+
+Dante felt a presence and turned around. Liria was standing there with a large backpack, just like when he first saw her.
+
+Since she had sealed the Lawgiver, she would have to return to the Archanis Divine Order to report. Probably after today, there would be no reason for her to meet Dante again. Mages and dark mages were like light and shadow - people whose paths were different from the beginning.
+
+But Liria had lingering feelings. If she hadn't met Dante, this mission would likely have ended in failure. It was hard to imagine a wandering dark mage forming attachments to someone, but she had relied on him greatly, so she couldn't cut away her feelings as cleanly as with a sword.
+
+"I'll buy the coffee."
+
+"Hmm."
+
+Dante read the affection for him revealed in Liria's gaze. She really was a woman who couldn't hide her emotions. While he didn't particularly enjoy romance, he also wasn't the type to refuse women who came to him, so Dante wrapped his arm around her shoulder and pointed somewhere.
+
+"Good. Forget the coffee. How about we go somewhere quiet?"
+
+Liria's face flushed red as she looked at what Dante was pointing to. There was a sign that clearly read "Inn."
+
+For Liria, who was naive about worldly matters, she couldn't help but be shocked by this instant-style approach to romance.
+
+"R-right now... what are you... saying..."
+
+"Haha! No need to be coy. We're old enough to know what we know anyway. Let's not waste time."
+
+Liria made a groaning sound. She thought she could accept his self-centered personality, but his womanizing was an unacceptable aspect.
+
+"What a playboy! Let go of me!"
+
+When Liria shook him off, Dante obediently backed away.
+
+"A playboy? What have we done for it to already be cheating?"
+
+"Forget it! I must have temporarily lost my mind! I don't need any of this - I'm going back to the Divine Order!"
+
+Dante chuckled. If their connection only went this far, there was no reason to hold onto her.
+
+"Alright. Go carefully."
+
+'Heartless bastard...'
+
+When Dante really let her go, Liria felt hurt. But she didn't look back until the end. If she turned her head here, it felt like there would really be no turning back.
+
+"Write me if anything interesting happens!"
+
+At Dante's voice from far away, Liria blinked and then burst into laughter.
+
+Dante Airhine. Age 18.
+
+Kingdom of Tormia mage candidate, ranked 2nd.
+
+'Hehe. I'll remember that.'
+
+After seeing off Liria walking toward the horizon with a bright expression, Dante and Amy headed for the exit again.
+
+They were about to leave the castle ruins that had become disgusting just to look at, when Jokre's group was waiting by the ticket gate.
+
+They had quite dignified faces. While they couldn't completely hide their fear, they seemed unwilling to show weakness.
+
+Vivian approached Amy.
+
+"I'm sorry."
+
+Amy waved her hand. This incident wasn't child's play. She felt that the situation's balance was achieved by their arrest.
+
+"It's fine. You and I both fought according to our convictions. You don't need to apologize just because you lost."
+
+"No. I mean for saving me at the end. If I had died then, there wouldn't have been a next time."
+
+"Well, that..."
+
+Amy turned her head awkwardly. Honestly, it wasn't entirely for Vivian's sake. It was for the success of the Jade Emperor's sealing formation, and what she shouted at the end was also what she wanted to say to herself.
+
+"I don't know why you said those words to me, but work hard. Make sure to become a mage in the next graduation exam. You have enough qualifications to become a protagonist."
+
+Amy choked up. She knew it was a cruel thought, but words from the mouth of a defeated person gave her more confidence than any consolation she had heard so far.
+
+Vivian dropped her shoulders weakly and returned to her friends. Amy, who had been watching the miserable end of the defeated, opened her mouth.
+
+"Hey."
+
+When Vivian turned around, Amy loosened one shoulder strap of her bag and approached, rummaging through her belongings.
+
+"Here. Take this."
+
+In Amy's hand was the Ice Queen doll she had received as a prize at the mini arcade. Vivian, who received it with trembling hands, stared at the Ice Queen for a long time. In a life where no one had paid attention to her, the face of the Ice Queen, who had been the only one to embrace her, was smiling as innocently as a child.
+
+"Sob. Sniff."
+
+Vivian shed tears while hugging the Ice Queen to her chest. Jokre approached and patted her back. Then he looked at Amy briefly before taking Vivian and walking away.
+
+Amy watched them leave for a long time. They would continue fighting in their own lives until the end. If they did that, wouldn't there come a day when even they could become protagonists?
+
+'Right. I've only failed once. If this is my life, I'll fight and win no matter what.'
+
+Amy clenched her fist and turned around. Her steps toward Dante were without hesitation, unlike yesterday.
+
+---
+
+# Divine Transcendence (1)
+
+At the Kaizen Sword School in the capital city of Bashka.
+
+Kuan, a currently certified 6th-grade swordsman who was called the Death Magician before injuring his Achilles heel, was battling nightmares of a past he could never return to.
+
+Born into a military family, Kuan lost his entire family in war when he was around six years old. His uncle took him in and raised him, but only stole his inheritance and sent him away to a sword school in a foreign land.
+
+But he didn't resent anyone.
+
+Though he had nowhere to rely on, he had the genius to become a certified 6th-grade swordsman at the mere age of 20.
+
+The nightmare began with an incident from ten years ago.
+
+When he was 21 years old, he was appointed as the 2nd company commander of a search battalion to capture Cointra, the founder of the Dark Cult.
+
+The members didn't welcome Kuan. It was natural for a 21-year-old rookie to transfer into a veteran unit with an average age of 38.
+
+Kuan didn't care either. To him as a commander, soldiers were merely consumables necessary to win wars.
+
+Without time to greet the members, Kuan led his forces into the Forest of Ghosts immediately after his appointment.
+
+Numerous search units had entered before, but all had lost contact without exception.
+
+The previous company commander had returned to his home country on medical leave, terrified, which led to Kuan's emergency deployment.
+
+But Kuan was confident.
+
+Even if ghosts really existed in the forest, there was nothing in the world that couldn't be cut by his sword.
+
+'I'll catch you. This so-called ghost.'
+
+The first day passed safely.
+
+But when the 2nd company finished camping and was conducting maintenance around dawn, trouble struck.
+
+"Attack! We're under attack!"
+
+The sentry's cry ended after just once. Realizing they had already been breached, Kuan grabbed his sword and went outside the barracks.
+
+Other members were also vigilant against enemies approaching from the dawn darkness outside, each equipped with their weapons.
+
+A strong wind blew. No, there was actually no wind. It was just ringing in everyone's ears. Kuan reflexively slashed at the darkness, but there was nothing caught on his blade.
+
+---

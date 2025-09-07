@@ -1,0 +1,232 @@
+---
+title: If We Can Increase the Success Rate by Even 0.1 Percent, Shouldn't We Use Everything at Our Disposal?
+date: 2025-09-01
+---
+
+[343] The Protagonist of Life (3)
+
+Gangnan took off her glasses and tucked them into her inner pocket. Then, as if mimicking a wolf, she raised both fists up to her face, extended her left foot forward, and began to bounce lightly to a rhythm.
+
+Shirone's group was bewildered. Even without knowing about Rammuai, they could guess it was some kind of fighting stance. But standing before the massive Thousand-Armed Avalokiteshvara, it looked rather ridiculous.
+
+Unable to bear watching any longer, Liria frowned and approached.
+
+"Hey! What are you doing right now—!"
+
+At the same moment, Gangnan's body became blurred. A high kick so fast it was nearly invisible traced a path through the air, with dust trailing like a thread. Her instep passed through at a right angle, snapping the Thousand-Armed Avalokiteshvara's face.
+
+The Thousand-Armed Avalokiteshvara's expression changed to one of bewilderment. After rolling its eyes around for a moment, its hand movements slowed. Then finally, as if falling into sleep, it was sucked into the depths of the Jade Emperor's sealing formation.
+
+"Wh-what was that...?"
+
+The shock Shirone's group received was beyond imagination. Although it had been trapped in the Jade Emperor's sealing formation, the moment they saw a neck broken by a kick, they were so surprised their hearts nearly jumped out of their mouths.
+
+Shirone lowered his gaze to look at her thigh beneath her tight-fitting business skirt. At the moment of impact, the stockings on her instep had burned and curled up, fully revealing her right leg. Her muscles rippled like sculptures, but soon the soft subcutaneous fat returned, revealing smooth, beautiful leg lines.
+
+'Who exactly is she?'
+
+He thought she might be a government official. If exorcists from foreign countries were visiting, it was insightful to think that some department in their own country would have adequately predicted the situation.
+
+"Whew."
+
+Gangnan exhaled with relief. Then she took out her glasses from her inner pocket and put them back on. Shirone, who had been watching quietly, exchanged glances with his friends and approached her.
+
+"Excuse me, who are you? Are you perhaps from the Kingdom... Urk!"
+
+Shirone's face turned red as a beet when Gangnan suddenly lifted her skirt. Rolling down her stockings, she took out new ones. Whether she knew about the boys' subtle side glances or not, she spoke while changing her stockings.
+
+"The enemy you faced is a mental entity that inhabits beyond the northern boundary of Heaven, with the code name 'Lawgiver.'"
+
+"Heaven?"
+
+Dante tilted his head. He thought there really were many crazy people in the world. But Shirone and Amy couldn't dismiss it lightly. Moreover, if she knew about Heaven, this woman was no ordinary person either.
+
+"Actually, the Lawgiver isn't that dangerous. It's just a simple phenomenon like the aurora. But it becomes troublesome when the environment changes. The golden time is 72 hours from the start of occurrence. After that, it evolves exponentially. You cut it close."
+
+Gangnan pulled her stockings up to her navel, then patted down her skirt to smooth out the wrinkles.
+
+"Since you made a good judgment, I'll overlook your independent action. If the Lawgiver had expanded its radius of activity, the army would have been deployed. You saved the lives of countless people."
+
+Having said that much, Gangnan turned around and put on her high heels. Then she straightened her clothes that had been disheveled from the kick.
+
+"But could you first tell us who you are?"
+
+When Shirone approached while removing his hood, Gangnan's eyes narrowed slightly as she confirmed his face.
+
+'He's even younger in person. To think he really could defeat a Lawgiver...'
+
+Even an early-stage case, an awakened Lawgiver was ranked at phenomenon class B as set by the Valkyries. Since Archangels were A-class, it was like fighting a formidable enemy equivalent to a fallen angel.
+
+'But how did he block the law?'
+
+The <Magic Sword Armang> received as a gift from Princess Uorin could have defended against the law to some degree. But she was certain that alone could never defeat a Lawgiver.
+
+'Could it be...?'
+
+There was only one thing Gangnan could think of.
+
+'Mental Transcendence? No, that can't be. It's not a level an eighteen-year-old could reach.'
+
+According to what Gangnan had heard, all living beings eventually move toward understanding Incarnation. But because the period is too long, most fail to find themselves within their given lifespan and meet death.
+
+The exception was Heaven.
+
+In that place where lifespan is determined by Ankera, there exist humans who live hundreds of years, as well as plants that live hundreds of thousands of years.
+
+This was why Avatar Technique was called Heaven's technology.
+
+The time it takes to reach enlightenment is said to differ by species, with humans averaging 220 years, cats 400 years, monkeys 600 years, snakes 700 years, and foxes 1,000 years.
+
+Ultimately, if Shirone had realized the realm of Mental Transcendence, it would mean he had leaped over roughly 200 years of time.
+
+'It seems the Association's evaluation wasn't exaggerated.'
+
+Gangnan was not an idle person. Moreover, she was one of the agents who received absolute trust from the Association.
+
+If it hadn't been for direct orders from her superior Gaold, she would never have come to find a magic school student for a simple interview.
+
+Gangnan recalled the situation at that time.
+
+"Shirone... are you talking about Arian Shirone from Alpheas Magic School?"
+
+"Yeah. That junior attending my detestable alma mater. I wonder how that school still hasn't collapsed."
+
+Though Gaold was being sarcastic, Gangnan grasped her superior's intention and sharply pressed forward.
+
+"You're not thinking of involving him in this project, are you?"
+
+As expected, Gaold gave no answer.
+
+"I'm opposed. The risk is too great. This isn't a decision to make based on Ataraxia alone. Are you planning to turn 20 years of preparation into bubbles?"
+
+Gaold, who had become serious, opened his heavy mouth.
+
+"I heard his growth rate is fast."
+
+Gangnan countered with a snort. When it came to Shirone, no one in the Association knew more than she did.
+
+"Of course, he's one of the promising talents representing the Kingdom. He's an Unlocker who uses omniscience that grants mass to light. If he diligently builds up achievements, he'll probably earn 6th class around age twenty. Excellent managers are lacking in any organization."
+
+Gangnan narrowed her eyes and watched Gaold's reaction. As expected, he seemed to understand and kept his mouth tightly shut.
+
+"Are you joking now? At best, he's 6th class. Even Romy Ethella, who's teaching that Shirone, and Olivia Siena earned certified 6th class at twenty. But even they weren't the youngest. They're just geniuses you can find a few of anywhere in the Kingdom. If you're not planning to wait another ten years here, it's right to give up on Shirone."
+
+"I don't know. Youngest or whatever, I'm not a genius."
+
+Gaold put a cigar in his mouth and looked up at Gangnan while leaning his neck against the backrest.
+
+"But right now, I'm the best, aren't I?"
+
+Gangnan couldn't deny it. As far as she knew, Gaold wasn't supposed to have been an outstanding student. But now he was undoubtedly the Kingdom of Tormia's greatest mage.
+
+"That's just an exceptional case..."
+
+Gaold raised his hand to stop her words.
+
+"Ah, forget it. Do as I say. Whether he becomes 6th class at 20 or at 40, that kind of thing isn't important."
+
+"No. The reality is that countless scouts judge talent based on results relative to time period. If that's not important, then what is?"
+
+Gaold, with his cigar between his fingers, fell into thought while exhaling thick smoke.
+
+"In the end... what matters is what you accomplish."
+
+Gangnan was about to argue back but closed her mouth. Though he was an insane human, sometimes he made statements like this that left her speechless.
+
+"Mutt. Now that I've climbed to the pinnacle of magic..."
+
+Gaold arrogantly lifted his chin. Indeed, he was the only person who could call the last descendant of the wolf tribe a mutt.
+
+"Being the best doesn't mean being first place. It means being completely detached from the ranks. Of course, quickly following paths laid out by others might be talent if you call it talent. But look at the world. Those we call the best are lighting fires in unknown territories that humanity couldn't reach even dedicating their entire lives. It's not a matter of 1st place or 2nd place. It's something for which there's no one to compare rankings with. That's completely different from quickly following existing paths."
+
+Gangnan mulled over Gaold's words several times.
+
+"Do you think Shirone can become the best?"
+
+"I can't guarantee it. But his growth speed is fast enough to destroy common sense, and he can use Ataraxia. If these two factors align at the right timing, he might momentarily reach it in specific situations. Then he might be able to create at least one more variable."
+
+Though it was a project prepared for 20 years, the difficulty was still challenging the absolutely impossible. In such a situation, even one variable was worth obtaining at any sacrifice.
+
+But Gangnan couldn't accept it. In matters so critical as to be exchanged for the lives of all humanity, having unfounded faith in an uncertain subject wasn't good.
+
+"I understand. But you know what? Precise timing, specific situations, momentarily, at minimum. Most of what you just said consists of assumptions."
+
+Only then did Gaold seem to relax as he raised the corners of his mouth.
+
+"I know. That's why I'm telling you to meet him. Confirm it with your own eyes. If we can increase the success rate by even 0.1 percent, shouldn't we use everything at our disposal?"
+
+Gangnan emerged from her recollection and spoke to Shirone.
+
+"I am Ahoya Gangnan, Secretary General of the Magic Association."
+
+"S-Secretary General of the Magic Association?"
+
+Shirone's eyes widened. His friends watching from behind couldn't hide their surprised emotions either. The Secretary General could be considered the second in command of the Magic Association. It was someone who would be difficult to meet face-to-face even if you lived your entire life as a mage, standing right before them.
+
+Shirone quickly bowed his head.
+
+"Ah, hello. I am..."
+
+Gangnan cut straight to the point.
+
+"Shirone, it's a national emergency. There's someone who wants to meet you. Come with me to the capital."
+
+Shirone wore a blank expression.
+
+Not only the mention of a national emergency, but the fact that someone would seek out a mere student in such a situation was also strange.
+
+"Who is it that wants to meet me?"
+
+Gangnan said matter-of-factly.
+
+"The President of the Tormia Magic Association, Mikea Gaold."
+
+"What? Mikea Gaold?"
+
+Shirone's heart began beating rapidly. Among all the people he had never met in his life, it was the name he had heard most often.
+
+It wasn't just Shirone. In the Kingdom of Tormia, there was no one involved in magic who didn't know Mikea Gaold.
+
+Dante asked with interest.
+
+"Why would such a high-ranking person seek out Shirone?"
+
+Shirone was equally curious. But in one corner of his mind, there was a part he could somewhat guess.
+
+"Is it related to the Ice Queen?"
+
+"Right. The Ice Queen is a being from Heaven. Do you understand what it means for such a being to descend to this world?"
+
+Shirone's eyes lit up. The moment he heard that a being from Heaven had descended, the first thing that came to mind was the final war.
+
+"C-could it be?"
+
+"That's right. A crack has formed in Miro's space-time."
+
+If a crack had appeared in the only protective barrier holding back Heaven's army, then Gangnan's mention of a national emergency made sense.
+
+Liria quietly interjected.
+
+"Wait a moment. This space-time of Miro you're talking about - does it refer to the barrier of law mentioned in the prophecies?"
+
+Gangnan, who had been looking Liria up and down, asked.
+
+"Divine Order?"
+
+"Archanis."
+
+"I see."
+
+Gangnan nodded and continued her explanation.
+
+"It's not an immediately serious problem for now. It was a small crack and is currently restored. But cracks are always the beginning of collapse, so the situation won't get any better than it is now. We need to prepare for that."
+
+"Then Mr. Miro is currently..."
+
+Gangnan raised her hand to cut off Shirone's words.
+
+"That's all I can tell you. For the rest, either hear it directly from that guy who's my superior or not. Come with me to the capital."
+
+Shirone fell into thought with a cautious expression.
+
+---

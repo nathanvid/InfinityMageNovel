@@ -1,0 +1,48 @@
+# Environment and secrets
+.env
+**/.env
+*.key
+*.pem
+**/secrets/
+**/*secret*
+**/*_key*
+**/*private*
+**/*token*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Database files
+*.bin
+*.sqlite3
+*.db
+demo/livres_db/*
+logs/*
+
+# RAG system generated files
+RAG/character_profiles_db/*
+RAG/characs_profiles_db/*
+RAG/simple_rag_db/*
+RAG/test_db/*
+
+# IDE and tools
+.claude
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large files and models (LFS or local only)
+*.model
+*.weights
+*.h5
+*.pkl
+data/models/*
+data/embeddings/*

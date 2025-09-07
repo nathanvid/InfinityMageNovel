@@ -1,0 +1,18 @@
+# Core dependencies for Infinity Mage Translation System
+requests>=2.31.0
+pyperclip>=1.8.2
+
+# GUI Automation (optional - for full automation features)
+pyautogui>=0.9.54
+
+# RAG System Dependencies
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+chromadb>=0.4.0
+python-dotenv>=1.0.0
+openai>=1.0.0
+tiktoken>=0.5.0
+numpy>=1.24.0
+pandas>=2.0.0
+tabulate>=0.9.0

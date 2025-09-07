@@ -1,0 +1,272 @@
+---
+title: Creating a One Percent Mutation
+date: 2025-09-01
+---
+
+# [345] Divine Transcendence (2)
+
+"Form a square formation!"
+
+Forty members gathered in a circle. In situations where the enemy couldn't be identified, avoiding being picked off individually was most important.
+
+Kuan finally spotted the enemy.
+
+Twenty meters away, a pitch-black curtain wavered, then white masks flipped in sequence, revealing their forms.
+
+"What's that?"
+
+Figures wearing owl-like masks swirled at a certain point like a whirlpool, then rose in triangular formation.
+
+*Shing!*
+
+Thirty drew their swords simultaneously, yet it sounded like one. Seeing them stand perfectly still in identical stances, weapons aimed diagonally, information about a certain group from his commander training days came to mind.
+
+"No way..."
+
+The Windstorm, the world's strongest swordsmanship collective.
+
+'Why is the Windstorm here?'
+
+The Windstorm were the guardian knights of Teraze, the empress of the Kashan Empire. If they had appeared, there was only one reason. Cointra, leader of the Dark Cult, was under Teraze's protection.
+
+"What are you scheming, Kashan?"
+
+"When you reach the afterlife..."
+
+The Windstorm's trademark collective killing intent was unleashed.
+
+"You will know."
+
+"Aaahhh!"
+
+A scream from the 2nd Company was heard. Even Kuan felt the tremendous killing intent. No matter how veteran they were, this wasn't a level of aura ordinary soldiers could face.
+
+"Tch!"
+
+As Kuan kicked off the ground and charged, the Windstorm scattered like wind and regrouped. Dozens of swords created thousands of afterimages, and Kuan's body moved as if ignoring gravity.
+
+'Damn. Just how many external gravity points are there?'
+
+The Windstorm's skill was truly astounding. These were people who embodied fluid dynamics with human bodies. His sense of direction disappeared, and it felt like crossing swords in the middle of zero gravity.
+
+But those who were truly surprised were the Windstorm.
+
+'This is taking long. How many swings was that?'
+
+'Roughly twenty-three thousand.'
+
+Those who could withstand the Windstorm's swordsmanship for over 1,000 strikes were extremely few. In other words, they could cut down any existence within one second.
+
+'How mischievous the gods are.'
+
+If this world were 100 percent perfect, all living beings would be happy as insignificant creatures. But nature always creates a 0.1 percent mutation. That 0.1 percent existence relegates the remaining 99.9 percent to worthless beings.
+
+'Born as a product of chance... a specially chosen existence.'
+
+That was the impression one member of the Windstorm felt about Kuan.
+
+Technique, skill, physical balance, ability to manipulate gravity, the inspiration to create new routes.
+
+'This man is a genius.'
+
+The moment he thought this, the Windstorm members spread like wings. Then they became a strong wind again, coiling around Kuan like a snake.
+
+'We kill the genius.'
+
+The Windstorm's swords devoured all space. They were so fast they seemed to approach slowly.
+
+"Aaahhh! Charge! Charge!"
+
+At that moment, the company members rushed forward. The instant they entered the Windstorm's radius, their flesh was ground up like meat caught in machinery. Kuan escaping from the sword screen was almost instinctual.
+
+'These crazy...!'
+
+Kobira, the oldest man in the company, passed by Kuan's side last. There wasn't even time for parting words, but his smiling eyes conveyed a thousand words.
+
+'Live on, Company Commander.'
+
+Watching his company members being annihilated in an instant, Kuan realized why they had to die.
+
+'I see. At least one person must escape.'
+
+There was a need to inform headquarters of Kashan's involvement. Otherwise, more search party members would fall into the Windstorm's trap.
+
+'This is for the best. If someone must survive, I have the highest possibility.'
+
+Kuan, distancing himself with the power of external gravity, indifferently watched the pitch-black storm raging in the darkness. Members he hadn't known for even a day, hadn't even made eye contact with, had all left this world.
+
+'Why...'
+
+He felt something hot inside. In a place he thought had already been extinguished, leaving only ashes, a massive flame blazed.
+
+"Why the hell! Damn it!"
+
+As Kuan burst his external gravity and flew away, the Windstorm, scattered like feathers, regrouped in triangular formation twenty meters away.
+
+"You all... don't think about returning alive."
+
+The Windstorm didn't respond. Their minds were working complexly in this unexpected situation.
+
+'The mission failed.'
+
+No, it almost failed.
+
+If Kuan had decided to flee, the Windstorm couldn't have caught him. The worthless lives of forty men had created an irreversible precedent for the world's strongest Windstorm.
+
+The lead Windstorm member slowly raised his hand to remove his mask, and Kuan's brow twitched. A woman's face was revealed—eyebrows so faint they were barely there, thick eyelids, and eyes narrowly slitted.
+
+"This is the first time a living person has seen the Windstorm's face."
+
+"So what? Want me to be moved?"
+
+"Join the Windstorm. We will guide you."
+
+It was a shocking proposal even for Kuan, acknowledged by the world. Above all, they were direct subordinates of Teraze of the Three Emperors. Accepting the proposal would mean vertical ascension to the highest position a swordsman could reach.
+
+Kuan finally sheathed his sword and slung it over his shoulder.
+
+"I refuse."
+
+The woman's head tilted slightly. What swordsman in the world would refuse the Windstorm's proposal? He must have lost his sense of reality due to his comrades' deaths.
+
+"Your subordinates' deaths are regrettable. But a new future awaits you. Don't bury your talent in the past."
+
+Kuan snorted. No matter how great the Windstorm were, there could only be one supreme under heaven.
+
+"Don't be mistaken. My subordinates simply fulfilled their mission as soldiers. The foolish one is the commander who couldn't control his emotions."
+
+"Then why do you refuse?"
+
+Kuan's sword pointed at the woman's forehead again.
+
+"I've always wondered—aren't you embarrassed? Calling yourselves the strongest while ganging up to cut people down?"
+
+"...Decisive."
+
+As the woman put on her owl mask, the thirty Windstorm scattered like wind and flew at Kuan.
+
+'Wait. I'll take at least one with me.'
+
+Having abandoned his subordinates' expectations and remained behind, how could he face them in the afterlife if he couldn't even make a companion for the journey?
+
+Kuan spread external gravity in all directions and plunged into the Windstorm's tempest. The movements created by masters of external gravity transcended combat, approaching artistry.
+
+'I see. The answer was in an unexpectedly simple place.'
+
+Kuan leaped over the wall. It was a realm he could reach only because he wasn't trying to live. Even the Windstorm had to be tense this time. The Forest of Ghosts trembled at the ghostly wails of dozens of swords.
+
+'Is swordsmanship truly this beautiful?'
+
+At the peak of ecstasy, Kuan's sword split trajectories. A Windstorm member's neck separated from his body, and simultaneously another's heart stopped with a blade pierced through it.
+
+'Two. That's enough to earn my keep.'
+
+*Whoooooosh!*
+
+The Windstorm's flow exploded like turbulence upon realizing their comrades' deaths. Two members being killed simultaneously was an extremely rare event in the entire history of the Windstorm.
+
+Kuan calmly watched their anger rage in the form of hot wind. But they didn't kill Kuan. Instead, they carved out his Achilles heel like fish flesh.
+
+"Aaahhh!"
+
+Kuan screamed. Not because of pain. Everything that comprised him, including his recent enlightenment, vanished as thirty grams of flesh fell away.
+
+The nickname "Battlefield Magician" came from his miraculous swordsmanship that could take an opponent's neck anytime, anywhere, but it was possible because of his genius-level mobility and agility.
+
+Without the Achilles heel, there was no genius. He was no longer the Battlefield Magician.
+
+"Graahhh...!"
+
+Kuan couldn't stand. He was unable to stand. Nevertheless, he stretched out his arms and crawled up the mountainside. He heard the ghostly wails of the Windstorm circling around him. The voices of twenty-eight members each uttering one syllable would be unforgettable for a lifetime.
+
+- You've become nothing but a lowly creature.
+
+Kuan continued crawling. Having lost everything, death wasn't frightening. But he couldn't abandon the forty company members and give up on life himself.
+
+- Struggle like a worm.
+
+"Aaahhh! Shut up!"
+
+- Bark like a dog.
+
+"Kill me! Kill me!"
+
+- Tell your master. That the Windstorm spared you. Report it while wagging your tail.
+
+As the Windstorm's wind intensified, the sound of flames blazing was heard. To Kuan, it was as if the world was burning.
+
+With his face buried in the ground, he clenched both fists. He could endure no more. He couldn't prevent the beliefs he'd devoted his life to from falling into the abyss.
+
+"Aaaaaahhh!"
+
+Kuan's anguish echoed through the Forest of Ghosts after the Windstorm had disappeared.
+
+"..."
+
+Kuan opened his eyes. His face was still impassive, but cold sweat beaded on his forehead.
+
+"Damn it."
+
+He couldn't move a finger, as if paralyzed by sleep. It was always like this after dreaming of the Windstorm. He had to lie stiff like a corpse for ten minutes. Just like that day ten years ago when his Achilles heel was severed.
+
+Kuan, who barely escaped the Forest of Ghosts, lost consciousness immediately upon return and was urgently transported to Tormia.
+
+He reported that Teraze was protecting the Dark Cult, but as expected, it had no effect on the political situation.
+
+The search battalion continued desultory local battles while surrounding the mountains for about a month before disbanding.
+
+There seemed to have been some agreement with the Kashan Empire, but from there it was politicians' business, not something for Kuan to interfere with.
+
+Kuan couldn't become a hero. The events of that day disappeared into the back alleys of history without even mentioning the Windstorm's name.
+
+The military did offer him a cavalry battalion commander position. It was a two-rank promotion, but he knew it was meant to silence him.
+
+Kuan chose discharge. His mind was already destroyed beyond the point of being able to hold a sword.
+
+He lived like a cripple for a while. Thinking of his men, he couldn't even dream of suicide, yet there was no suitable helper either.
+
+Then one day, at the suggestion of his only friend Kiyora Ellis, he came to work at Kaizen Sword School.
+
+'Now I can move.'
+
+Kuan got out of bed and limped to the window on his right leg. When he drew back the curtains, morning sunlight illuminated the old desk.
+
+Countless papers were scattered about.
+
+'Psychoanalytic Views on Mental Transcendence Phenomena,' 'Incarnation,' 'The Correlation Between Will and Phenomena'—though the titles differed, the themes were connected.
+
+In the corner of the desk, memo papers recording his own thoughts were stuck all over.
+
+Kuan looked down at them with dry eyes, then swept them all away with his hand.
+
+He had collected all materials on Mental Transcendence, but still he couldn't reach it. Moving the body through willpower—let's say that's possible. But what exactly is will? Even now he was limping. No matter how much he tried to walk properly, what couldn't be done couldn't be done.
+
+'Ogent Rian.'
+
+Who could have predicted it?
+
+That what Kuan, a genius acknowledged by the world, couldn't achieve would be accomplished by a boy in whom no talent could be found.
+
+'Surely he won't just become an idiot?'
+
+Kuan shook his head. He actually knew the truth. That his sword was already broken. That the moment his Achilles heel was severed, the God of Swords had also turned away from him.
+
+'Another year has ended.'
+
+Today was the last day of the sword school's second semester. The evaluation subject he was in charge of for the cadets was martial combat, specifically wrestling.
+
+Even if Rian could use Divine Transcendence, he wouldn't be able to withstand the enhanced strength of Schema users.
+
+Today would probably be another miserable day for him, but on the other hand, he was curious about six months' worth of progress.
+
+* * *
+
+Tess entered the changing room with the female cadets from her group.
+
+Wrestling was an evaluation item that inevitably required physical contact, but since gender distinctions had no meaning at the sword school, everyone had to remove their upper garments during evaluation.
+
+However, women were allowed to wear tank tops.
+
+Tess was having trouble putting on her tank top. Not only was her frame naturally large, but she had good volume, so she had to practically stuff her chest in.
+
+---

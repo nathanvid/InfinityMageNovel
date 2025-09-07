@@ -1,0 +1,334 @@
+---
+title: Winter Night (7)
+date: 2025-09-01
+---
+
+The Ice Queen, who had been contemplating Jokre's words, gently bent her waist and looked down at him.
+
+"Do you want to become strong too?"
+
+Jokre blinked blankly, unable to understand the Ice Queen's intention.
+
+The legendary woman was a magician so powerful that even the kingdom would find her difficult to handle. Wasn't that why she had been exiled to such a place?
+
+But right now, survival came first. If he got caught up in unnecessary leading questions and offended the queen's mood, it would be disastrous.
+
+"I want to become strong!"
+
+Suddenly, Vivian shouted.
+
+Jokre turned around with a horrified expression.
+
+'This fool!'
+
+Was she still not sober from the alcohol?
+
+Of course, he couldn't say he didn't understand her feelings.
+
+How much had she suffered from frustration her entire life?
+
+If a god appeared one day and offered to grant her wish, the people in this field would give up wealth, honor, and even a lifelong lover just to ask for magic.
+
+But the timing wasn't good this time.
+
+What could they expect from a woman who had frozen everything around her and even imprisoned herself in ice?
+
+Perhaps it was because the current situation was too surreal.
+
+That's why her life philosophy of treating life as a play might have kicked in.
+
+Whether she knew of Jokre's burning anxiety or not, Vivian was looking up at the Ice Queen with desperate eyes.
+
+Even if this might become a trap in her life, she knew this wasn't an opportunity that came to just anyone.
+
+"Please teach me, Your Majesty. Teach me magic!"
+
+As sorrowful emotions welled up, her suppressed intoxication surged all at once.
+
+But her mind was clearer than ever before in her life.
+
+The Ice Queen silently raised her hand.
+
+The information acquired when she was Optrus was now stored in the space called memory.
+
+Also, since she had birthed herself, she accepted this world's rules as pure information, and therefore could control them.
+
+The Wave of Law.
+
+A strong wind spread out, causing the atmosphere to form concentric circles.
+
+However, Jokre's group couldn't feel the wind. They only realized that something constituting themselves had changed.
+
+Jokre's group looked at their hands and trembled uncontrollably, as if they couldn't believe it.
+
+The world they felt was completely different from just moments before.
+
+The Ice Queen spoke indifferently.
+
+"Is that the law you desire?"
+
+Jokre, overwhelmed with emotion, couldn't even answer and kept nodding his head repeatedly.
+
+You can't feel it or realize it. Not until that situation arrives.
+
+But you will definitely feel and realize it. If that situation comes.
+
+That was the change of law.
+
+'This is impossible. How can something like this be possible?'
+
+Jokre clenched both hands.
+
+Vivian's thinking had been right.
+
+Today's event was the greatest and most perfect reversal that could happen in his life.
+
+**Wave of Law (1)**
+
+The next morning.
+
+Shirone and Amy toured the prison of the old castle ruins.
+
+The flow of time had caused it to crumble and erode, so now it was half-exposed above ground.
+
+While the history of magic was ancient, its academic definition was relatively recent. Eight hundred years ago, there was insufficient contemplation about omniscience, so primitive magic was predominant.
+
+Especially at that time, the power of the holy order was immense, and it was the period when the foundation of current divine magic was established.
+
+As such, magicians were persecuted.
+
+Abilities that didn't borrow the name of god were considered demonic powers, and countless magicians were abandoned by their families.
+
+The two entered the prison where magicians had been captured and tortured.
+
+In front of a device that stretched the spine after binding the limbs, Shirone shuddered with chills.
+
+"Ugh, how did they think of such a device? It must have been truly painful."
+
+"It must have been hard for the magicians too. Magic isn't something you can do just because you want to. Now it's a blessed talent, but back then it would have been like a curse."
+
+Shirone and Amy left the underground prison.
+
+As they climbed the stairs connecting to the surface, people were all looking up at the sky. Massive dark clouds were rolling in from the distant sky.
+
+Winter in the Res Mountains was famous for clear weather because the westerly winds became high pressure as they rose along the mountain range.
+
+Although local low pressure occasionally brought snow, even the people who visited the winter festival every year had never seen such dense dark clouds gather.
+
+"What is it? It doesn't look like it's going to rain."
+
+The wind wasn't strong. Yet the dark clouds were approaching at a rapid speed like smoke and covering the sky.
+
+The temperature began to drop rapidly.
+
+When a cold wave struck that even people dressed in thick clothes could feel, anxiety finally appeared on the tourists' faces.
+
+"What, what is it? Has the weather gone crazy?"
+
+Shirone and Amy also pulled their collars tight and watched the situation.
+
+The temperature was abnormal enough that it couldn't be dismissed as simply a weather whim.
+
+"Amy, something's strange. Temperature can't drop this quickly in natural conditions."
+
+"Right. It's just like magic, isn't it?"
+
+Thunder erupted from the Ice Queen's essence. The powerful wave that was born then pushed away the dark clouds and raced forward.
+
+The way the atmosphere folded along its grain was clearly visible.
+
+"Dangerous!"
+
+Shirone blocked Amy's path.
+
+There wasn't even time to dodge. The wave rushing at high speed was approaching, sweeping from the outer edges of the crowd.
+
+"Move aside!"
+
+A woman in a robe blocked Shirone and Amy.
+
+It was the sorceress Liria.
+
+She quickly moved her fingers to form hand seals.
+
+The three basic hand seals of exorcism—prohibition, reversal, and destruction—were formed in succession like flowing water, and a barrier of law unfolded.
+
+The moment the powerful wave swept over them, a shockwave exploded with a bang in front of Liria's eyes.
+
+"Kyah!"
+
+Liria's body flew backward like a cannonball.
+
+All the tourists looked at her. The wave had swept past them, but she was the only one who had actually received the impact.
+
+"What, what is it? What's happening?"
+
+Liria rolled around even after falling to the ground.
+
+Dante appeared, crossing over and crouching low. He caught her precisely in his chest.
+
+"Are you okay?"
+
+Liria, leaning against Dante's back, bit her lip. She had performed countless exorcisms, but this was the first time she had encountered a spirit using such powerful law.
+
+Shirone and Amy discovered Dante and ran over.
+
+They had sensed it intuitively—the fact that the woman in Dante's group had protected them from something.
+
+"Dante, what is it? What's happening?"
+
+Dante postponed his answer and helped Liria to her feet.
+
+Unlike magic, law has no physical impact. Whether Shirone and Amy were normal was something Liria had to answer.
+
+"How did it go? Did you succeed?"
+
+"It was close. How about you?"
+
+The Wave of Law spread rapidly, and Liria couldn't protect both locations. No matter how skilled a magician, it was impossible to block law without mastering the will of prohibition, reversal, and destruction.
+
+Dante took out the totem hanging around his neck.
+
+"Thanks to this."
+
+A pendant shaped like a monster's face hung on a cord made of twisted birch bark.
+
+Even though it looked fierce, it was a guardian deity that drove away evil spirits.
+
+There was a diagonal crack along the guardian deity's forehead—a wound that occurred from exposure to the Wave of Law.
+
+When he placed it in his palm, it finally couldn't endure and split in half with a crack.
+
+Dante held out the totem with an embarrassed expression.
+
+"You said there was only one, right? Sorry."
+
+Liria shook her head vigorously.
+
+"You don't need to be sorry. That's what totems are for. It means it was such a powerful law that it could split a rakshasa. We're lucky we blocked it."
+
+Shirone couldn't understand the two's conversation. Anyway, since the situation seemed serious, he interrupted.
+
+"Dante, what's going on?"
+
+Liria answered.
+
+"You were lucky. You two should be fine."
+
+Amy asked back with a frustrated expression.
+
+"So what exactly is fine?"
+
+Liria looked back and forth between Shirone and Amy.
+
+It was already foreseen that a spirit that had gained ego would change the surrounding laws for survival. In such a situation, the number of people Liria could save from the law in a split second was at most 2-3 people.
+
+Even just this place had hundreds of people gathered.
+
+And among them, there were certainly people mixed in who had the abilities needed for this exorcism.
+
+Was it really the right choice?
+
+She couldn't predict what consequences would result from abandoning them all and protecting a couple not even twenty years old.
+
+"Dante, who are these kids? I didn't follow your words to save your friends."
+
+Dante looked back at the Ice Queen's essence and said.
+
+"I said second place."
+
+"Second place? What's second place?"
+
+Dante squinted one eye.
+
+What he had learned after spending the night was that Liria really had no sense.
+
+He didn't want to explain at length. What would be left for him after telling the whole story?
+
+"That kid is first place. First in the kingdom."
+
+Liria looked back at Shirone with a surprised expression.
+
+The reason she had formed an alliance with Dante despite not being a professional yet was because he was an outstanding talent recognized in the kingdom.
+
+Since sorcerers don't have a competitive system like magicians, she had no particular impression when she heard "second place."
+
+In a kingdom with so many people, what difference did it make whether it was first or second place?
+
+Second place was just a very excellent student.
+
+But they were here.
+
+The fact that first and second place in this vast kingdom were in one place was shocking to her.
+
+'This child really beat Dante?'
+
+He had a kind impression. Except for the fact that his eyes were alive, she couldn't find the aura of national first place anywhere.
+
+She had personally experienced Dante's skills yesterday dawn.
+
+His practical response ability, judgment, and excellent skills were comparable to professionals.
+
+Honestly, as a sorceress, Liria couldn't imagine what kind of skill could surpass him.
+
+Dante pointed to the Ice Queen's essence and said.
+
+"She's coming. Shirone and Amy, get ready too. You probably won't understand, but it would be good to stay tense."
+
+A woman wearing the exact same dress as the Ice Queen was flying across the sky toward this place.
+
+"That, that's the Ice Queen, isn't it?"
+
+The Ice Queen, who had arrived in the sky, slowly descended to the ground.
+
+Light flashed in the distance, then the flash of spatial movement flew over in a curved path and crashed beside her.
+
+Amy's eyes widened.
+
+"Jokre? Why are you...?"
+
+Jokre smirked and prostrated himself behind the Ice Queen. Then Rudbans and Vivian landed.
+
+No one understood the situation.
+
+At least Shirone and Amy felt a sense of crisis, but the tourists rather seemed to have their tension released as they showed smiles.
+
+"Haha! It's really the Ice Queen! Is this some kind of event?"
+
+"Wow, she looks really similar? How did they find someone so identical among the magicians?"
+
+It was natural to think of it as part of the festival.
+
+Otherwise, there was no way the Ice Queen would actually be walking around before their eyes.
+
+If Shirone hadn't seen the shockwave that exploded in front of Liria's eyes, he would have thought the organizers had put on the grandest performance.
+
+As the Ice Queen stepped toward the crowd, tourists clapped and cheered.
+
+The winter festival was held every year, but this year's special event seemed fresh even to them.
+
+To think of reviving the legendary Ice Queen.
+
+Even the wax Ice Queen had secured numerous fans who were captivated by her beauty. But the appearance of the woman playing the role was incomparably more beautiful than the wax doll.
+
+It was the brilliant power that the force called life possessed.
+
+"Whew! Ice Queen! Please shake my hand just once!"
+
+When a pot-bellied man grinned and extended his hand, someone nearby stopped him as if to say "really."
+
+"Hey, how impudent. You might freeze."
+
+People burst into laughter. No one realized that this was an actual situation.
+
+Even amid the flying jokes, the Ice Queen just moved her steps with an indifferent face.
+
+Liria watched the Ice Queen's every move while maintaining her hand seals.
+
+'What is it? What law did she touch?'
+
+The Wave of Law had changed the laws of everyone except Shirone's group.
+
+Nothing special had happened yet, but given the power of the wave, the scope of change would be enormous.
+
+---

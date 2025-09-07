@@ -1,0 +1,240 @@
+---
+title: Chapter 321 - Crack in the Moment (3)
+date: 2025-09-01
+---
+
+Shirone lay on his bed, enjoying the leisurely afternoon.
+
+Since he would be entering the graduating class next semester, he could skip performance evaluations. But conversely, this vacation was his last chance to work on his fundamentals. That's why Iruki and Nade had declined to play around and returned straight to their families.
+
+"I should rest for now."
+
+Shirone laughed at the absurdity of his own words. But he truly didn't want to do anything right now.
+
+This was the first time he'd felt this way, so it was bewildering, but the fact that he didn't feel anxious suggested there was a good reason for it.
+
+"Come to think of it, I worked incredibly hard."
+
+Looking back over the past year, he couldn't believe how he'd made it through that process. It felt like yesterday when he was at the bottom of Class Seven, yet here he was already in the upper ranks of Class Four.
+
+"I certainly suffered for it."
+
+All the magic school students had done their best, but Shirone in particular had faced many incidents and accidents.
+
+Through life-and-death battles, he had grown stronger. Honestly, he was confident he wouldn't easily fall behind even when entering the graduating class.
+
+Shirone got up from his bed and approached the Magic Sword Armand. Just seeing it standing upright without even a stand was satisfying.
+
+With Remote Control, carrying it around wouldn't be a problem. But during school, there would be no occasion to use that sword.
+
+When he drew Armand from its sheath, a clear high-frequency tone escaped along the blade. Though shorter than a longsword, it was sharp enough for practical use and well-balanced.
+
+'Why is it so quiet? Don't tell me it's dead?'
+
+It had sent mental waves every night, but since returning home, it had been silent. The reaction was so much less than expected that he wondered if the contract had somehow been dissolved.
+
+He hadn't activated Armament since showing it to his friends. There hadn't been any particular need, but it also felt awkward somehow.
+
+When you share something with a human, it becomes difficult to treat it purely as an object. If he activated Armament without special reason, he felt like it might look down on him.
+
+Of course, he knew there was no need to think that way. It was something he'd have to gradually adapt to.
+
+'Should I try? It's my sword anyway...'
+
+It was frustrating to have received an S-class Objet and not even be able to use it. Not that he wanted to fight anyone, but imagining himself in action with Armand made his heart swell with excitement.
+
+Shirone watched the sword with a proud heart and then spoke the activation word.
+
+"Armament."
+
+Despite his anxiety that nothing might happen, the blade inevitably split open and swallowed Shirone.
+
+The transformation occurred instantly. A hood covered his face and a fibrous cloak emerged like flames, fluttering around him. Glass orbs protruded from the gauntlet's palms, and finally the artificial brain Oe spun rapidly around Shirone.
+
+"Whoa!"
+
+Shirone loved this feeling.
+
+An unprecedented clarity of mind. A deepening focus that made him feel he could amplify any magic with fullness.
+
+Armand, which shared its brain with the user, changed abilities according to the situation, but since this wasn't combat-related, no special status changes occurred.
+
+Shirone approached the full-length mirror and looked at himself. In the shabby robe that didn't look new, with his face hidden by the hood, he looked like a proper magician. Moreover, the Oe looked more impressive than any magical equipment.
+
+Even if not right now, the thought of someday becoming a professional magician and exploring the world in this form made his heart race.
+
+Shirone clenched both fists and pretended to draw up magical power.
+
+I am a magician of Immortal Function. Someday I'll become the Infinity Mage and reach the world's highest position.
+
+"Uoooooh!"
+
+Shirone, who had been shouting toward the ceiling, froze when he saw the door reflected in the mirror. Vincent had opened the door and was looking at Shirone with a bewildered expression.
+
+"Ah, Dad!"
+
+Flustered, Shirone stamped his feet.
+
+Fortunately, he was wearing the hood. If his face had been exposed, his flushed face might have exploded.
+
+"Mom says to come eat. Hurry down."
+
+"Oh, okay."
+
+As Vincent closed the door and left, he threw out a comment.
+
+"Aren't you past that age?"
+
+His face burning hot, Shirone hung his head.
+
+When he heard the door close, he finally removed the hood and grabbed his head.
+
+"Agh! How embarrassing! That was my first time doing it!"
+
+Thinking that unsuitable behavior indeed brings trouble, Shirone deactivated Armand. The fibers and crystal orbs were sucked back in, returning to the magic sword.
+
+After sheathing it with Remote Control, Shirone put Armand away in a corner and went down to the first floor.
+
+The smell of soup on the dining table melted his stomach. Suddenly famished, Shirone sat at the table and grabbed his spoon first. Olina smiled and ladled soup into his bowl.
+
+"You must be hungry. Go ahead and eat."
+
+"Yes. Thank you for the meal!"
+
+The food at magic school contained all the nutrients necessary for magicians, but nothing beat the taste of home cooking.
+
+Olina watched fondly as her son devoured a bowl of soup in a hurry, then ladled more soup and asked.
+
+"How will you spend this vacation? Do you have any plans?"
+
+"I'm going to rest for a while, then start training in earnest. But before that, there's something I want to do."
+
+"Something you want to do?"
+
+"Yes. There's a regional festival held in the Les Mountains every winter, right? May I go there?"
+
+Vincent interjected.
+
+"Oh ho, you mean that old castle ruins. You wanted to go there before too."
+
+"Really? I don't remember."
+
+"You were very young then. It must have stayed in your mind somehow. Go ahead. We couldn't afford to take you sightseeing back then."
+
+Olina rested her chin on her hand with a mischievous smile.
+
+No matter how much her son pretended otherwise, he couldn't fool his mother's eyes.
+
+"So, who are you going with?"
+
+Shirone flinched as if ambushed. Even though he hadn't done anything wrong, his face felt hot.
+
+"Well... Amy. I haven't brought it up with her yet though."
+
+"Oh ho, so it's a date."
+
+"It's not! She seems troubled, so I thought I'd help cheer her up... M-maybe she won't even want to go!"
+
+He knew Amy had failed the graduation exam. Olina wasn't concerned. The Amy she'd met in Kasula was a considerate and upright girl.
+
+Moreover, she'd heard that the Carmis family also thought well of Shirone. Hadn't they gone to an island together over the summer?
+
+"Alright, go ahead. The old castle ruins take about three days to properly explore. There are plenty of places to stay so don't worry, but you must take good care of Amy. You can't take her to comfort her and then expect to be comforted yourself."
+
+"...Yes."
+
+Olina's last comment was subtly irritating, but Shirone just answered that he understood. Animal instinct warned him it would be dangerous to dig deeper.
+
+After clearing the dishes and going up to his room, Shirone packed his things. It would take quite a while to reach Creas, so he needed to leave before noon.
+
+He could get there faster than a carriage using teleportation, but he didn't want to break school rules over something trivial.
+
+Wearing his winter coat and wool scarf, Shirone shouldered his backpack and headed for the door.
+
+As he grabbed the doorknob, his head suddenly rang. When he turned around, sure enough Armand was sending mental waves. Though he couldn't hear a voice, it was the resonance of protest.
+
+Shirone sighed and said.
+
+"Sorry, but no. Commoners can't carry swords around. I don't have a weapon possession license either."
+
+For commoners to carry weapons, they needed a weapon possession license issued by specific guilds. While magicians could automatically obtain one, Shirone, still a student, couldn't even do that. The S-class Armand was problematic in many ways.
+
+Armand didn't give up and continued sending mental waves.
+
+The ego is difficult because it has pride. He didn't know what previous owners it had been through, but it seemed unable to understand why its current owner wouldn't carry it around after making a contract.
+
+During its time as Zion's possession, it might have been in a state of resignation. That's probably why it sent seductive light even while having another owner.
+
+'Thinking about it that way makes me feel sorry for it. I'm not cherishing it more than its previous owner.'
+
+Shirone approached Armand as if he had no choice.
+
+Honestly, carrying Armand would be reassuring in any situation. Even if stopped for inspection, he could hide it elsewhere with Remote Control.
+
+"Sigh, fine. Let's go."
+
+Shirone opened his coat and called Armand.
+
+The sword flew over like an arrow and settled at his waist. Being shorter than a longsword also had the advantage of being easier to conceal. When he covered it with his coat, only the tip of the sheath showed slightly. A casual observer might not even notice the sword.
+
+As Armand's mental waves disappeared, Shirone shook his head and left the room. Since there were plenty of magic swords that killed their masters, he had no choice but to overlook this much as charming behavior.
+
+* * *
+
+Kingdom of Tormia.
+
+The Magic Association located in the capital Bashka.
+
+The Alog district was an area where major institutions were concentrated in the capital, and anyone passing through at noon would frown. This was because numerous high-rise buildings reflected sunlight.
+
+Particularly the Magic Association, one of the tallest buildings, seemed like burning gold.
+
+At the main entrance of the Magic Association, a neatly dressed woman had been waiting for someone for thirty minutes, looking toward the main street.
+
+She had tanned skin and curly blonde hair tied back, wearing red horn-rimmed glasses. Her nose was small but prominent, and her pink lips were firmly closed, revealing her personality. Though her slightly drooping eye corners gave her a strong impression, overall she had a mysterious charm not found in Tormia.
+
+Tormia Magic Association Secretary General, Ahoya Gangnan.
+
+The southern nation located near the equator was an alliance of numerous tribes. Gangnan was the last descendant of the now-extinct wolf tribe, a warrior who practiced the ancient martial art Rammuai.
+
+She was also exceptionally intelligent, and despite starting her studies late after coming to Tormia at fifteen, she overcame fierce competition to become the Magic Association's Secretary General.
+
+However, Tormia's old and lecherous nobles didn't acknowledge her.
+
+Their perspective of Gangnan was that of a commoner woman with exotic looks and perfect proportions. Countless men who didn't know her personality and tried to hit on her ended up with their abdominal muscles torn by her knee kicks.
+
+Some were even high-ranking nobles, but the Magic Association never fired her. She was a typical example of ability covering personality.
+
+But today, even Gangnan planned to exercise restraint. The person she was waiting for was no less than the chief envoy from the neighboring Yakma Republic.
+
+When a luxuriously decorated carriage appeared at the end of the street, she adjusted her attire once more. After checking if her high heels had dust on them and adjusting her horn-rimmed glasses, the carriage arrived.
+
+When armored guards opened the door, a corpulent man appeared. His neck was so fat that his chin was buried in it, and his belly protruded like a cannonball. However, the eyes buried in his eye bags glinted sharply.
+
+'He's a nation's chief envoy. I mustn't treat him carelessly.'
+
+Gangnan walked with clicking sounds, moving properly. She tucked the document folder in her arms under her arm and bowed ninety degrees.
+
+"Welcome. I am Gangnan, Secretary General of the Magic Association."
+
+"Aha? So you're Gangnan. Nice to meet you. I'm Ordon."
+
+Ordon extended his hand, requesting a handshake.
+
+While it was good manners for a chief envoy to offer a handshake to a secretary general first, his true intentions were different.
+
+Stories of Gangnan sending numerous nobles to their doom had spread even to foreign social circles. With her exotic appearance, commoner status, and the added title of an unbreakable flower, Ordon couldn't help but be interested.
+
+When Gangnan shook hands, Ordon slowly rubbed her smooth hand with his thumb.
+
+Gangnan's expression didn't change at all. She had heard rumors about Ordon, so she was prepared for some harassment.
+
+"The association president is waiting. I'll guide you."
+
+Ordon entered the Magic Association while admiring Gangnan's slender waist.
+
+Seeing how she remained fine even after beating up Tormia nobles, the Magic Association must be backing her, but she couldn't be rude to a foreign nation's chief envoy.
+
+'I'll be the one to pluck that flower.'
+
+---

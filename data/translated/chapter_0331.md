@@ -1,0 +1,278 @@
+---
+title: A Midwinter Night (2)
+date: 2025-09-01
+---
+
+Her appearance, as if she might freeze to death at any moment, was an amusing sight for the drunken revelers.
+
+However, the woman paid no attention to the stares directed at her and continued preaching her message to the people.
+
+"The end of the world is approaching. This place is dangerous. Everyone must leave the castle ruins quickly."
+
+'The end? What nonsense is she talking about out of nowhere?'
+
+Dante didn't take it seriously.
+
+In any historic ruins, there were always people who had lost their minds to pseudo-religions and given up on life itself.
+
+The Ice Queen herself was a fabricated legend created for the festival, so the idea of danger made no sense at all.
+
+The tourists seemed to share the same thought, as not a single person could be found seriously listening.
+
+"If it's the end anyway, wouldn't it be the same wherever we go? If we leave here, where should we go? You're not telling us to die in the arms of our annoying wives waiting at home, are you? Hahaha!"
+
+"Now that you mention it, that's right. That would never do. Miss, if you need attention, how about stopping the nonsense and dancing instead?"
+
+The woman seemed accustomed to such dismissal, showing no change in expression as she looked straight at them and retorted.
+
+"It's not a lie. This is an oracle I received from the goddess Arkeanis, who governs the melody of time."
+
+"Arkeanis? Never heard of such a religion."
+
+"You must believe me! Soon the genesis of the end will occur in this place. Everyone will die!"
+
+"Yeah, yeah, we got it. We'll believe you, so let's go inside first. Let's talk over some drinks."
+
+When a burly man wrapped his arm around the woman's shoulder, she pushed him away with both hands and shouted.
+
+"Don't lay your profane hands on me!"
+
+"Hey! This girl really. Don't be like that and come inside. Am I some kind of bad person?"
+
+The woman reached into a cylindrical container slung horizontally below her backpack, pulled out something, and thrust it at the man's throat.
+
+At first glance, it looked like a quiver, but upon seeing the contents, it was a thin iron spike about 50 centimeters long.
+
+The tip was sharp like an awl, and a small jingling bell hung from a ring on the opposite end.
+
+Feeling the truly threatening intent to stab, the large man hastily removed his hands from the woman and backed away.
+
+"Goodness, what a temper."
+
+As the situation escalated, even the tourists who had been treating it lightly became interested and gathered around.
+
+Dante heard the men standing behind exchanging frivolous jokes.
+
+"She's crazy. She looks normal though. What do you think, should we take her and play with her tonight?"
+
+"Cut it out. You could get hurt dealing with a woman like that. How do you know what might happen?"
+
+"Still, it's a shame. She's quite a rare beauty."
+
+Dante studied the woman carefully.
+
+"Arkeanis..."
+
+It was a name even Dante, who had great interest in spiritual matters, had never heard before.
+
+Well, there were tens of thousands of religions in the world, so it was impossible to know all the names of the gods they believed in.
+
+The woman kept repeating the same story like a parrot.
+
+"The end is approaching. Please leave the old castle ruins quickly! Otherwise, everyone will die. My words are true!"
+
+"Will leaving solve the problem?"
+
+Everyone's attention focused on Dante.
+
+He drew even more attention as he was the first person to seriously consider the woman's story.
+
+Dante stepped forward and said.
+
+"If the end really comes, shouldn't there be some way to solve it? It doesn't seem like something that would end just by running away."
+
+The woman confirmed that Dante was a boy younger than herself and turned to the people with a disappointed expression.
+
+"I am Lilia, a mage and totemist of the Arkeanis shrine. Tonight, an exorcism will be attempted in this place. In the unlikely event of failure, it could be dangerous. So please leave this place quickly."
+
+Rather than feeling ignored, Dante was more interested in her claim of being a mage.
+
+Mages were those who worked in exorcism societies, and the sealing formations they used had many similarities to the magic circles of wizards.
+
+That's why Dante, who majored in information magic, had studied exorcism at least superficially.
+
+If wizards materialized phenomena through equivalent exchange, mages strengthened one aspect of logic through the power of will.
+
+The two were similar but different.
+
+In a situation where fire needed to be extinguished, a wizard would create water. But a mage would strengthen the will of water to suppress the will of fire.
+
+Dominating the balance of origins.
+
+Mages called this the Law.
+
+Though it lacked the sharp edge of magical transformation, it was an ability that could encompass more extensive and wide-ranging phenomena.
+
+The reason it didn't receive attention in the mainstream was because the ability called Law itself was not logical.
+
+Mages, specifically white mages, were those who fought to destroy the evil of the world.
+
+But good and evil were merely artificial distinctions created after humans were born.
+
+So how could mages seal evil?
+
+Due to this ambiguity of proof, people in general regarded the Law as a derivative of magic, essentially dismissing it as alternative magic.
+
+"There's no time! Please leave this place before today ends. Your lives are at stake!"
+
+Despite Lilia's desperate plea, people paid no attention.
+
+Dante looked around, and when no one stepped forward, he approached her again.
+
+"Should I help you?"
+
+Lilia didn't even look back at Dante and sighed quietly.
+
+'Kids these days, really.'
+
+While traveling around performing exorcisms, she had encountered boys who pestered her like this more than once or twice.
+
+The profession of exorcist itself seemed to arouse considerable curiosity among young people.
+
+Looking at the boy's appearance, he was handsome and had good style. He seemed quite experienced, even having piercings in his ears.
+
+'But this time you picked the wrong opponent, kid.'
+
+Lilia glared at Dante with cold eyes.
+
+"This isn't something for a child like you to get involved in. You should go home quickly too. Unless you want to commit a great sin against your parents."
+
+As Dante was about to respond, someone among the spectators spoke up.
+
+"Huh? That kid... isn't that Dante? The kingdom's top magical prodigy, Airhine Dante."
+
+The middle-aged man knew Dante's face because he worked at a trading company that supplied magical materials.
+
+Even if they weren't wizards, most people working in magic-related fields subscribed to academic journals.
+
+Hundreds of new magical tools were developed each year, and analyzing students' needs was necessary to get ahead in producing popular products.
+
+"Hm? That boy is a wizard? He doesn't look like it."
+
+"No, he's still a student. But I heard even professionals can't casually mess with his skills."
+
+Wizards were mysterious beings to ordinary people.
+
+Moreover, the title of being the kingdom's best in any field wasn't given to just anyone, so people's attention focused.
+
+Only then did Lilia correct her expression and examine Dante.
+
+She too, as a mage, knew much more about the magical world than ordinary people, so her dismissive feelings completely disappeared.
+
+"The kingdom's top student?"
+
+Dante smacked his lips and shrugged his shoulders.
+
+"Well, no... I'm probably about second place now?"
+
+The man working at the magical trading company also knew that a boy named Shirone had defeated Dante.
+
+But nostalgia for champions doesn't fade easily.
+
+Especially since Dante had boasted an undefeated record since childhood, his popularity with the public didn't cool easily.
+
+Lilia didn't care whether Dante was first or second place. What mattered was that he was a wizard with some professional knowledge and was the first to seriously listen to her words.
+
+Dante pointed to the three-story tavern and said.
+
+"This place is a bit awkward. Should we go inside and have a drink?"
+
+Lilia looked at Dante with suspicious eyes.
+
+Even if he was an outstanding wizard, if he was going to pester her like this, the story would be different.
+
+"If you're thinking of hitting on me, find someone else."
+
+"What are you talking about? Hitting on you?"
+
+"Then why are you trying to help me?"
+
+"My major is magic circles. You handle sealing formations too, right? I got interested. It might help with my major."
+
+"Magic circles?"
+
+If the boy's words were true, it would certainly be helpful for her work.
+
+Moreover, if he was the kingdom's top prodigy, didn't that mean he was at least the best at handling magic circles at the student level?
+
+"Fine. Let's go inside first. But I won't be drinking alcohol."
+
+"Whatever you prefer. I'll be fine with just one beer."
+
+Only then did Lilia brush the snow that had piled thickly on her head and follow Dante into the tavern.
+
+"Damn... stolen by some wet-behind-the-ears kid."
+
+The old castle ruins were not only a dating course for couples but also a place for lonely singles to find connections.
+
+The numerous young men who had tried to hit on Lilia looked at the two with envious expressions.
+
+* * *
+
+8 PM.
+
+The old castle ruins were eerily quiet.
+
+Moonlight flowed brilliantly over the ice statues.
+
+Even the laughter echoing from the distant shopping district sounded reverent in this place.
+
+Breaking the silence of the night, two shadows nimbly leaped over the collapsed walls and entered the deserted castle ruins.
+
+Dante's expression was serious.
+
+If what he had heard at the tavern was true, the old castle ruins were far from safe.
+
+'Seeing the future? Is such a thing really possible?'
+
+According to Lilia, the leader of the Arkeanis shrine was a 70-year-old woman named Portiter.
+
+She had been born with the ability to recall future events as if they were déjà vu.
+
+When she was young, rumors spread that she had a mental illness. She herself suspected she had delusions of grandeur.
+
+But what were the odds that a future scene that suddenly came to mind would match reality, even by coincidence?
+
+On a certain day when she was eighteen, Portiter watched the village burn exactly as she had envisioned, attacked by bandits, and realized it.
+
+She had the ability to see the future.
+
+She didn't know by what method future events came to her in advance, but she said it wasn't precognitive ability.
+
+Rather, like someone walking in the future recalling past events, images like old memories would suddenly arise.
+
+"And such a person said disaster would befall the old castle ruins?"
+
+Lilia nodded with trusting eyes.
+
+"It's not just any disaster. She said a being capable of bringing about the end of this world would appear."
+
+"The end of the world. If such a tremendous opponent is involved, there's nothing we can do, is there?"
+
+"No. That's what makes Leader Portiter great. The future can be changed. I don't know what kind of disaster it is, but we can deal with it before it manifests. Remove the egg before it hatches."
+
+"I see. Have you thought of a method?"
+
+"I'll use spirit summoning. Right now, its energy is permeating this place. I'll materialize it and immediately trap it in a sealing formation."
+
+"But will it work easily? What if it's stronger than expected?"
+
+Lilia reached into the container at her waist, pulled out a needle, and shook her wrist to make a bell sound.
+
+"That's why I, a totemist, was dispatched. This totem has a birch core embedded in it. If I strengthen the power of Law with this, it will be caught without fail."
+
+Lilia planted the totem in the ground. Then she moved to another spot, pulled out another totem, and said.
+
+"It's true that we were short on manpower due to the sudden oracle. There's much more evil rampant in the world than people think. Not just me, but most exorcists are wandering the world without even being able to go home."
+
+Lilia used 20 totems to draw a giant circle with a 20-meter diameter and walked to the center.
+
+Dante followed behind and asked.
+
+"I've been curious about something. How do you do it?"
+
+"Hm? Do what?"
+
+"If it's a magic circle that provides physical restraint, I can design that too. But sealing formations aren't like that, right? They only react to evil. When something enters a sealing formation, how do you distinguish whether it's good or evil? What's the definition of evil?"
+
+---

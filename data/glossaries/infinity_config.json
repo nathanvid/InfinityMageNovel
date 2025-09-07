@@ -1,0 +1,63 @@
+{
+  "version": "1.0",
+  "created_date": "2024-01-01",
+  "paths": {
+    "korean_chapters_dir": "Infinity Mage Chapters 1-1277",
+    "translated_chapters_dir": "translated_chapters",
+    "glossary_file": "translation_glossary.json",
+    "progress_file": "translation_progress.json",
+    "backup_dir": "backups"
+  },
+  "translation": {
+    "quality_checks_enabled": true,
+    "consistency_validation": true,
+    "auto_backup": true,
+    "batch_size": 1,
+    "wait_time_minutes": 3,
+    "chapter_pause_seconds": 10,
+    "max_terms_per_category": 15,
+    "context_chapters": 10
+  },
+  "automation": {
+    "claude_cli_automation": true,
+    "pastbin_integration": true,
+    "arc_browser_shortcut": "capslock+a",
+    "max_retries": 3,
+    "screenshot_debugging": false,
+    "element_detection_timeout": 10
+  },
+  "api_keys": {
+    "pastbin_api_key": "1",
+    "anthropic_api_key": ""
+  },
+  "quality": {
+    "minimum_translation_length": 100,
+    "maximum_translation_ratio": 3.0,
+    "minimum_translation_ratio": 0.5,
+    "require_consistency_check": true,
+    "auto_detect_korean_text": true,
+    "placeholder_detection": true
+  },
+  "output": {
+    "markdown_format": true,
+    "include_metadata": true,
+    "date_format": "%Y-%m-%d",
+    "filename_pattern": "chapter_{chapter:03d}.md",
+    "volume_filename_pattern": "volume_{volume:02d}_chapter_{chapter:03d}.md"
+  },
+  "glossary": {
+    "auto_update": true,
+    "backup_on_update": true,
+    "export_readable": true,
+    "track_usage_statistics": true,
+    "validate_consistency": true,
+    "gender_validation": true
+  },
+  "debug": {
+    "verbose_logging": false,
+    "save_prompts": true,
+    "save_responses": true,
+    "timing_analysis": false,
+    "error_screenshots": true
+  }
+}

@@ -1,0 +1,274 @@
+---
+title: A Midwinter Night (3)
+date: 2025-09-01
+---
+
+Liria answered without hesitation.
+
+"Think of it simply. Evil is everything that rejects good."
+
+"Is that so? Then what is this 'good' you speak of?"
+
+"Everything that rejects evil."
+
+"……."
+
+Understanding Dante's silence, Liria explained.
+
+"I get that question a lot. But you can't understand it because you're trying to analyze it in only one way. Logic is ultimately just one method humans use to understand the world. When you look at the bigger picture, you come to accept what exists before logic."
+
+Liria raised both index fingers and crossed them in an X shape.
+
+"Good and evil prove each other's existence by pointing to one another. If there were no good, how could you know what evil is? Conversely, because evil exists, the concept of good becomes clear."
+
+"Hmm, so two conflicting concepts support each other's reality."
+
+"Exactly. Mages call this the Number of Laws."
+
+"The Number of Laws?"
+
+"All numbers contain meaning. In the beginning, there was nothing. Or perhaps there was infinity. The number that expresses this is 0. Then, as unique names were given—good, evil, Dante, Liria—something came to exist. That's 1. That's why sealing formations must always include the caster's name."
+
+"Hmm, unique names. Then what is 2?"
+
+"The reason you couldn't define good and evil is because you viewed good and evil as separate 1s. But when you combine good and evil to create the concept of 2, that becomes law."
+
+Liria held up three fingers and continued.
+
+"Liria is 1, and law is 2. Therefore, 3 is the number of finding your perfect self within the law. The divine order calls this the Trinity. Of course, reaching perfect Trinity is difficult."
+
+Liria interlocked her fingers to form a triangle.
+
+"Everything in this world begins from the number 3. This is the Number of Laws. It's the true meaning of the Archanis Divine Order and the first koan given to exorcists."
+
+Using the Number of Laws, one could express all the principles of creation.
+
+It was like how Dante structured the world with 0s and 1s.
+
+And this was precisely the insight of the mages.
+
+Liria continued.
+
+"Sealing formations are different from magic circles. Those who haven't disciplined their minds through endless cultivation can never contain evil. That's why it's a spiritual power. Of course, for that reason, it's not recognized by the academic world."
+
+Dante, having organized his thoughts, nodded.
+
+"I understand. So what should I do from now on?"
+
+"I'll need help if the calamity becomes materialized through necromantic spirit summoning. Once it's materialized, it will affect reality. You should also set up magic circles, and if I become endangered, protect me. You don't necessarily need to save my life, but if the technique is interrupted before the sealing is complete, it would be fatal. How much time do you need to prepare?"
+
+"Hmm, not much. I could start right now, actually."
+
+When Liria looked puzzled, Dante chuckled.
+
+"I don't like large magic circles. I mainly use instant magic circles."
+
+Liria nodded readily.
+
+Instant magic circles might lack power, but they had the flexibility to handle unexpected situations.
+
+In fact, exorcists also sometimes performed exorcisms with hastily constructed sealing formations when circumstances weren't favorable.
+
+"Alright. Then I'll begin."
+
+As Liria knelt and prepared to pray, Dante stepped back to prepare for what was about to unfold.
+
+"Spirit lingering in the void, I bind your hands with chains of sacred power. Remain in place. Do not turn around. As substance devotes itself, a thousand masks shall all be removed."
+
+Liria's prayer continued endlessly.
+
+She strengthened the will of substance to pressure the insubstantial. Speaking will through the mouth to increase intensity was similar to incantation magic.
+
+The necromantic spirit summoning unfolded with the mage's signature.
+
+"In Liria's name, I command you to reveal your substance."
+
+Dante expanded his Spirit Zone and assumed combat position.
+
+For one minute after that, nothing happened.
+
+But since Liria remained in a prayer position, he didn't relax his guard.
+
+Soon after, he felt the earth trembling.
+
+The vibration wasn't large in magnitude, but its radius was enormous. In the distance, snow piled on the Ice Queen's castle was falling like dust.
+
+'Damn! If you're going to come out, then come out.'
+
+Dante surrounded the area with defensive magic circles.
+
+As time passed, the vibrations gradually intensified. But still, no substance showed signs of appearing.
+
+"Hngh...!"
+
+A groan escaped Liria's lips.
+
+She was using all her strength to squeeze out every drop of mental power, pushing something into reality.
+
+Suddenly the scenery flashed blue. And finally, a massive electrical network spread across the night sky.
+
+Dante looked up with a disgusted expression.
+
+Even at first glance, it wasn't a network made by humans, but a form created by indeterminate connections between electrical charges.
+
+"Hah!"
+
+Liria jerked her upper body and exhaled roughly.
+
+Dante couldn't make sense of it. Was that the substance of the calamity? If so, should he fight it?
+
+No, how could one possibly fight such a thing?
+
+"What is it? You need to tell me so I can act."
+
+Liria shook her head with a somber expression.
+
+"I was mistaken. That's not an evil spirit. It's a pure mental entity."
+
+"Mental entity? Explain it so I can understand."
+
+"It has a neutral will that isn't biased toward either side. In this state, I can't seal it. But it seems to be rapidly absorbing the laws of this place."
+
+Dante examined how signals were exchanged through the electromagnetic network.
+
+As patterns increased exponentially, the sky flashed brilliantly with blue light.
+
+'Damn, what the hell is this?'
+
+There wasn't a single identical pattern.
+
+This was evidence that the entropy of information the law was learning was extremely low.
+
+How could that be possible?
+
+Even a newborn baby's brain isn't this active. That's because learning about nature is already done at the genetic level.
+
+"...It's not of this world. It came from somewhere else."
+
+There was no other way to explain it.
+
+To a mental entity, the information being collected here would be as premium as state secrets to a human.
+
+Liria didn't know about entropy. But she was thinking somewhat similarly to Dante.
+
+If the mental entity were of this world, it couldn't have been born in such a pure neutral state.
+
+"Then all the more reason we must seal it now! If we leave it alone, it will rapidly absorb the evil of this world! I'll attempt a sealing formation!"
+
+The moment Liria knelt again, a sound like fingernails scraping metal plates echoed from the sky.
+
+The sharp sound found its unique frequency and created bizarre sound waves that humans couldn't produce.
+
+"Who... am I?"
+
+Dante's face became serious.
+
+The question "Who am I?" meant that self-awareness had been born.
+
+So what would happen next?
+
+Before he could organize his thoughts, a simple yet blind shockwave with no personality crashed down to earth.
+
+"Damn it!"
+
+Dante installed a defensive magic circle where Liria was.
+
+The mental entity's shockwave crashed into the ground with tremendous density, then spread out in a ring pattern, generating fierce winds.
+
+Caught in the powerful wind, Dante was blown away.
+
+"Dante!"
+
+Startled, Liria ran to Dante.
+
+Though the mental entity had fled into the night sky like an escape, she couldn't even think of pursuing it.
+
+"Dante! Dante! Wake up!"
+
+Tears welled up in Liria's eyes.
+
+She was the one who had dragged Dante into this. Moreover, he had precisely fulfilled his promise to protect her until the sealing formation was complete.
+
+Dante had fallen into danger because she had mistaken the enemy's true nature from the beginning.
+
+If something went wrong, it would all be her fault.
+
+"Ow, my head. That was startling."
+
+At that moment, Dante sat up and rubbed his head.
+
+Liria looked at him with a blank expression.
+
+"Dante, are you okay?"
+
+"Phew, this is why instant magic circles are good."
+
+Dante showed his palm. A defensive magic circle the size of a gold coin was carved there, emitting blue light.
+
+At the critical moment, he had constructed a defensive magic circle in the shortest time possible, splitting the shockwave.
+
+Liria finally understood the situation.
+
+But she wondered if such a thing was possible in that split second without even a moment's leisure.
+
+Strength drained from her body, and she collapsed from her standing position, landing hard on her rear.
+
+"Hah, thank goodness. I'm sorry. Do you know how startled I was, thinking you were dead?"
+
+"If I were going to die from this much, I would have died a hundred times already. But what the hell was that? How can a mental entity produce shockwaves?"
+
+Liria regained her composure and stood up.
+
+"Probably a law. It seemed like a defensive instinct that suddenly emerged when self-awareness was born."
+
+"A law? How does using a law produce such monstrous destructive power? It was almost magical-level force."
+
+Mages who use laws strengthen opposing concepts to pressure the concepts they wish to attack.
+
+Therefore, while magic artificially overturns phenomena, laws could be said to overturn phenomena according to nature's order.
+
+That's why they're not bound by equivalent exchange, but their physical power is indeed inferior to magic.
+
+"It's probably a law that transcends human categories. In terms of the 'Number of Laws,' if humans accept law as 2, then to that thing, it's 1. It was originally law itself. It probably remained as just a mental entity for eons. Since such a being has materialized, the intensity of its law must be different."
+
+"So that's why the information entropy was remarkably low. If it were of this world, there's no way it wouldn't have appeared until now. Anyway, since the entropy is low, changes will occur rapidly."
+
+Even if she was an outsider regarding information entropy, Liria shared the same thought from the perspective of time being short.
+
+"That's exactly the problem. We need to catch it as quickly as possible. Since it's materialized, it will surely transform into something that will destroy the world."
+
+"But... it's still in its early stages, right? There's no guarantee that thing will necessarily turn evil."
+
+Liria firmly shook her head.
+
+"Master Foriter can't see every calamity in the world. But once he sees the future, it's never wrong. He said it's a being that will bring about the end times. I can say with certainty that mental entity will eventually become evil."
+
+"Hmm, I see. Well... without that Foriter person, we wouldn't have known something was here either. Alright, then what should we do now?"
+
+Liria was about to say something but then looked at Dante.
+
+Before beginning the exorcism in earnest, there was something that absolutely needed to be addressed.
+
+"But you... you're really strong. Honestly, since you're a student, I didn't expect much help."
+
+"What's with the sudden comment? You don't need to say such things—I'll help, so don't worry and just tell me the plan."
+
+"No, I'm serious. As a member of the Exorcist Society, I've been through countless exorcism operations. I know full well how powerful that shockwave was. If it hadn't been for you, we couldn't have maintained the situation this far. On behalf of the Archanis Divine Order that follows good, I want to express my gratitude."
+
+Liria politely clasped her hands and bowed her head.
+
+But Dante didn't even care.
+
+Expressions like "amazing" and "thank you" were things he'd heard too much since childhood—now they made him want to yawn.
+
+"Fine, I get it. So what are we going to do now? Since it's already materialized, that necromantic spirit summoning thing won't work anymore, right?"
+
+"For a mental entity that's just been born, this place is like a cradle. It can't easily leave. Of course, we don't have time to be leisurely."
+
+"Hmm, how about going outside to get help instead? Earlier no one believed us, but now we can confirm the calamity's existence with our own eyes."
+
+Liria shook her head with a regretful expression.
+
+"It's too late. By the time we go to the city and return, everything will be over. If the mental entity enters the stage of intellectual reasoning, even I won't be able to hold it back."
+
+---

@@ -1,0 +1,356 @@
+---
+title: A Midwinter Night (6)
+date: 2025-09-01
+---
+
+[335] A Midwinter Night (6)
+
+4 AM.
+
+The Ice Queen's castle.
+
+A brown liquor bottle shattered against the castle wall.
+
+"You bastards! Come out! Come and fight me!"
+
+Drunk Jokre was screaming at the top of his lungs. His pupils were completely dilated and his steps swayed in zigzag patterns.
+
+Rudbans and Vivian supported him from both sides.
+
+"Jokre, stop it. What if we get caught? We're not supposed to be here at this hour."
+
+His melancholy mood had transformed into rage through intoxication.
+
+Jokre needed someone to fight, and his fighting spirit against the world eventually drove him beyond the restricted area.
+
+"Haha! Who's going to touch me? I'm a mage! A certified mage! Come on! I'll blow away guards with a single spell!"
+
+Jokre shook off his friends as he thrashed about.
+
+Vivian and Rudbans couldn't stop him. They didn't know how much he'd drunk, but they were also in a state where their minds were coming and going.
+
+At least Rudbans, who wasn't as belligerent when drunk, clung to Jokre again and guided him inside the castle.
+
+"It's cold. Let's go inside first. If we keep making noise here, we'll be in big trouble."
+
+"Alcohol! Rudbans! Let's drink! Let's drink to our heart's content!"
+
+"Fine. So be quiet and follow me."
+
+The hall, emptied of people, was desolate.
+
+The furnishings that they had passed by carelessly during the day were now emanating an eerie feeling as if they had come to life.
+
+The Ice Queen's figure, illuminated by the cold moonlight streaming through the windows, was particularly spine-chilling.
+
+Vivian rubbed her shoulders and said.
+
+"Some lighting magic, please."
+
+Jokre wasn't in any state to cast magic, so Rudbans and Vivian cast lighting spells.
+
+But since they were also drunk, they only succeeded after several trial and error attempts.
+
+With a popping sound, two lights rose to the ceiling and the hall instantly brightened.
+
+Jokre crawled up the slippery ice stairs.
+
+Entering the corridor on the 1.5th floor, he picked a fight with the Ice Queen's wax figure trapped in giant ice.
+
+"Hey, Ms. Ice Queen? Are you sleeping? Want to drink with me?"
+
+There was no response.
+
+"Haha! See! Even legendary mages are nothing special. At most, you're just sleeping trapped in ice! Is that even magic?"
+
+—Magic. The law that overturns phenomena. Ice Queen. Mage.
+
+The mental entity absorbed Jokre's information.
+
+Obtrus, materialized by Liria's necromantic soul summoning, instinctively fled to the place where the most familiar thoughts were concentrated.
+
+That place was the Ice Queen's castle.
+
+Among the information tourists spouted, the Ice Queen occupied the largest portion.
+
+Obtrus was rapidly adapting to this world based on countless pieces of information.
+
+After passing a certain point, cognition arose in the mental entity that had only possessed sensation.
+
+As sensation and cognition communicated with each other, simple preservation of knowledge began to transition into the stage of thought.
+
+—I think, therefore I exist.
+
+Obtrus reached the conclusion that it needed a form to prove its existence. And it found a special vessel that could materialize its thoughts.
+
+The Ice Queen suddenly opened her eyes.
+
+Jokre wasn't surprised. He knew that the eyes would open when someone stood on the wax figure's platform.
+
+The Ice Queen's beautiful appearance made his wounds, carelessly discarded by women, throb even more.
+
+Jokre knocked on the ice as if knocking on a door.
+
+"Hey, Your Majesty. Want to date me? Huh? Hehehe."
+
+Vivian clicked her tongue while looking at Jokre's drunken behavior with disdain.
+
+"He's completely lost it. Hey, get a grip. If you lose consciousness here, you'll freeze to death."
+
+Jokre rolled up his sleeves and took a fighting stance against the Ice Queen.
+
+"Alright, let's fight. A battle between mage and mage. But if I win, you have to date me."
+
+As all the information collected so far was categorized as experience, Obtrus reached the stage of judging the world by its own standards.
+
+—What is strength? The superiority of certain characteristics. Control of properties. Alteration, transformation, and change of the physical world.
+
+Then suddenly, one question arose.
+
+—Then... am I strong?
+
+"That's enough now. Let's go back. Let's get some sleep too. How long are we going to stay here like this?"
+
+Seeing Jokre's eyes half-closed, Rudbans hugged him from behind and dragged him away.
+
+Vivian, who had been sighing with her arms crossed, glanced at the Ice Queen and followed behind Rudbans.
+
+And the moment she took a step, she turned her head as if it would break, her face filled with horror.
+
+"Uh, uhh?"
+
+The Ice Queen's eyes, which should have been looking straight ahead, were looking at her.
+
+Vivian thought she wasn't sober yet.
+
+But no matter how much she gathered her wits, the Ice Queen's gaze was clearly turned to the side.
+
+She felt her hair stand on end. Her heart pounded as if it would burst, causing shock.
+
+"H-hey, guys..."
+
+Jokre's voice grew distant down the stairs.
+
+"Mmph, let's date... mm?"
+
+Don't leave me behind!
+
+Vivian was paralyzed with fear and couldn't make a sound.
+
+The Ice Queen's gaze, which was definitely made of wax, was now moving freely and looking around.
+
+It seemed like she was analyzing what material was imprisoning her.
+
+Vivian felt like she was dying even though nothing hurt.
+
+No, it was even more terrifying than dying.
+
+As she thought the distance from her friends was growing with each passing moment, her desire to live pushed air into her stomach.
+
+Vivian screamed at the top of her lungs.
+
+"Ahhhhhhh!"
+
+The hall echoed thunderously with her scream.
+
+The moment Rudbans, who had been going down the stairs, turned his head with a surprised expression, light flashed from where the Ice Queen was.
+
+"What?"
+
+Rudbans let go of Jokre and climbed the stairs.
+
+The Ice Queen was surrounded by brilliant light, and pale-faced Vivian was watching it with her jaw trembling.
+
+"R-Rudbans... this, this..."
+
+The Ice Queen's wax skin was cracking and light was leaking through the gaps.
+
+As her body vibrated, the ice block cracked and split into thousands of fractures as if it would explode at any moment.
+
+'I have to get away. I have to get away...'
+
+The ice block exploded with a roar. At the same time, Rudbans grabbed Vivian and threw himself.
+
+Ice fragments scattered to the end of the hall.
+
+Jokre, who had been on the stairs, hastily covered his face as fragments flew toward him. Then he looked up with a surprised expression.
+
+Even as Vivian hit the ground hard, she couldn't take her eyes off the Ice Queen.
+
+Inside the shattered wax figure was a golden burning phosphorescence.
+
+It slowly walked over and approached the railing.
+
+As the light gradually subsided, an Ice Queen appeared with incomparably more vitality than before.
+
+Vivian muttered in disbelief.
+
+"The Ice Queen... has been resurrected?"
+
+Having witnessed the Ice Queen's resurrection from closest range, she clearly saw the wax skin break like a mold and a new Ice Queen fill the inside.
+
+Jokre, who had reached the opposite corridor, tried to run to Vivian but hastily stopped.
+
+Like Vivian, his face also turned pale.
+
+"Ice Queen?"
+
+Were the legends true?
+
+If the current situation wasn't a dream, he was now confronting the mage who had driven countless people to their deaths.
+
+"Haaaaah."
+
+The Ice Queen opened her mouth and exhaled air. Frost leaked out and the atmosphere began to freeze solid like thin ice.
+
+"This is the freezing phenomenon."
+
+It was a beautiful voice.
+
+But Jokre, who met the Ice Queen's lifeless eyes, felt the blood flowing through his veins freeze.
+
+The Ice Queen, who had been examining Jokre with indifferent eyes, said.
+
+"If you defeat me, I shall do it—this thing called romance."
+
+"Ugh... Ahhhhh!"
+
+Jokre's nerves raced toward death.
+
+Conversely, his desire to live instantly eliminated the alcohol's effects and deployed the magic he had trained longest.
+
+A fireball was born above his palm.
+
+Jokre's specialty was close-range flame magic.
+
+While not particularly fast in firing speed, he was confident that its power was second to none.
+
+"Jokre! Don't do it!"
+
+Vivian screamed. From a third party's perspective, it was utterly reckless behavior.
+
+But if she had actually made eye contact with the Ice Queen, she would have been forced to do exactly the same thing as Jokre.
+
+"D-die!"
+
+The fireball Jokre threw scored a direct hit on the Ice Queen's head.
+
+No, it seemed she had no intention of dodging from the start. With a bang, everything above her neck burst into flames.
+
+"Kyaaaahhh!"
+
+Since it had originally been a wax figure, Vivian, who imagined a human candle, screamed.
+
+Anyway, the water had already been spilled.
+
+Rudbans, who was at least rational, cautiously observed the Ice Queen's movements and muttered.
+
+"Is she dead?"
+
+The Ice Queen didn't even twitch. All her nerves were concentrated in her brain.
+
+The sensation she was experiencing for the first time since gaining form was interesting.
+
+Since she had transformed the law into biological form, the pain of her face burning was terrible.
+
+But to her, who couldn't clearly define pain, the sensation was merely an abnormal sensory state.
+
+'Is this heat? It absorbs energy to suppress it.'
+
+As she absorbed energy through the law, the fire instantly disappeared and the surrounding atmosphere froze.
+
+The Ice Queen's hideously distorted face was revealed.
+
+Jokre, who had caused this, felt his legs go numb and ended up falling on his bottom.
+
+"Ugh, p-please spare me..."
+
+The Ice Queen savored the nervous system in her face having convulsions.
+
+Pain was truly an unpleasant sensation.
+
+'The brain...'
+
+The Ice Queen's face began to regenerate bit by bit as she approached Jokre.
+
+"It almost melted."
+
+If the brain melts, one dies.
+
+That is life.
+
+"Please spare me! I was wrong!"
+
+Jokre prostrated himself flat and begged for his life. Fighting a mage who remained alive even after having her face burned was insane.
+
+"Jokre!"
+
+Vivian and Rudbans ran over and blocked Jokre's front.
+
+Though they couldn't possibly be a match for the Ice Queen either, Jokre felt his friends protecting him were like saviors.
+
+Vivian knelt and pleaded.
+
+"Please spare us! My friend did that because he was drunk! He never intended to challenge Your Majesty."
+
+"Drunk?"
+
+Alcohol. Brain. Disruptive substance.
+
+"I see."
+
+Learning that the reason she had been caused pain was due to a brain-disrupting substance, the Ice Queen lost interest.
+
+"Absorbing something called alcohol doesn't seem particularly beneficial for living beings."
+
+"Yes! Yes! We're sorry."
+
+"Then what will you do now?"
+
+The Ice Queen asked with pure curiosity.
+
+She had been born as a human and met humans. Then she was curious about what these beings would do to her.
+
+Since purity and madness had something in common, the Ice Queen's honest question came across as terror to Jokre.
+
+"We'll do anything you command. So please just spare our lives."
+
+"You'll do what I command?"
+
+"Yes, anything..."
+
+The Ice Queen tilted her head.
+
+"Why?"
+
+Jokre looked up at the Ice Queen with bewildered eyes.
+
+Coming to his senses, he thought her manner of speaking and behavior was strange.
+
+But if the legends were true, she had been dormant for a full 800 years. There was a strong possibility she had lost her memory.
+
+"N-naturally, because Your Majesty is the ruler. You're also a great mage. So you should rule again."
+
+"Rule?"
+
+The Ice Queen's head tilted further. Then, as if something displeased her, she frowned.
+
+Though she had gained individuality by borrowing human form, her information processing speed had dropped dramatically.
+
+But even such neural inconsistency was merely accepted as a characteristic that living beings possessed, not as displeasure.
+
+"I see. I rule. Because I am strong."
+
+Jokre let out a sigh of relief.
+
+As expected, the Ice Queen was the Ice Queen. If he had tried to be clever, he would have surely lost his life.
+
+"Your words are absolutely right. We're on a completely different level from weaklings like us."
+
+Jokre bowed endlessly.
+
+This was the point where he had finally achieved his first success after a lifetime of effort.
+
+If he died a meaningless death in a strange place before even getting to enjoy life as a mage, he wouldn't be able to close his eyes even as a corpse.
+
+---
