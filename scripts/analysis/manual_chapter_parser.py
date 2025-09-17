@@ -10,7 +10,11 @@ import json
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, Optional, Tuple
-from infinity_response_parser import InfinityResponseParser
+
+# Add parent directory to path to import from other script modules
+sys.path.append(str(Path(__file__).parent.parent))
+
+from translation.infinity_response_parser import InfinityResponseParser
 from infinity_glossary_manager import InfinityGlossaryManager
 
 class ManualChapterParser:

@@ -9,29 +9,31 @@ import sys
 import time
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional
 import argparse
-import pyautogui
+
+sys.path.append(str(Path(__file__).parent.parent))
 
 from infinity_glossary_manager import InfinityGlossaryManager
-from infinity_prompt_generator import InfinityPromptGenerator
-from infinity_response_parser import InfinityResponseParser
-from infinity_automation_macro import InfinityAutomationMacro
+from translation.infinity_prompt_generator import InfinityPromptGenerator
+from translation.infinity_response_parser import InfinityResponseParser
+from translation.infinity_automation_macro import InfinityAutomationMacro
 
 class InfinityTranslator:
-    def __init__(self, config_path: str = "infinity_config.json"):
+    def __init__(self, config_path: Optional[str] = None):
         # Load configuration
+        self.project_root = Path(__file__).parent.parent.parent
         self.config = self._load_config(config_path)
         
         # Initialize core components
-        self.glossary_manager = InfinityGlossaryManager(self.config.get('glossary_path', 'translation_glossary.json'))
+        self.glossary_manager = InfinityGlossaryManager(self.config.get('glossary_path'))
         self.prompt_generator = InfinityPromptGenerator(self.glossary_manager)
         self.response_parser = InfinityResponseParser(self.glossary_manager, self.config.get('output_dir', 'translated_chapters'))
         self.automation_macro = InfinityAutomationMacro()
         
         # Chapter tracking
-        self.korean_chapters_dir = Path(self.config.get('korean_chapters_dir', 'Infinity Mage Chapters 1-1277'))
-        self.progress_file = Path('translation_progress.json')
+        self.korean_chapters_dir = self.project_root / self.config.get('korean_chapters_dir')
+        self.progress_file = self.project_root / 'data' / 'glossaries' / 'translation_progress.json'
         self.progress = self._load_progress()
         
         # Quality settings
@@ -40,13 +42,12 @@ class InfinityTranslator:
         
     def _load_config(self, config_path: str) -> Dict:
         """Load configuration from file or create default"""
-        config_file = Path(config_path)
         
         default_config = {
             'version': '1.0',
-            'korean_chapters_dir': 'Infinity Mage Chapters 1-1277',
+            'korean_chapters_dir': 'data/source/chapters_raw',
             'output_dir': 'translated_chapters',
-            'glossary_path': 'translation_glossary.json',
+            'glossary_path': None,  # Will use default data/glossaries/ path
             'quality_checks_enabled': True,
             'auto_backup': True,
             'batch_size': 1,
@@ -55,6 +56,11 @@ class InfinityTranslator:
             'claude_cli_automation': True,
             'parallel_processing': False
         }
+        if config_path is None:
+            # Get the project root (parent of scripts directory)
+            config_path = self.project_root / "data" / "glossaries" / "infinity_config.json"
+
+        config_file = Path(config_path)
         
         if config_file.exists():
             try:

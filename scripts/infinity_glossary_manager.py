@@ -12,8 +12,17 @@ from typing import Dict, List, Set, Optional, Tuple
 from collections import defaultdict, Counter
 
 class InfinityGlossaryManager:
-    def __init__(self, glossary_path: str = "translation_glossary.json"):
+    def __init__(self, glossary_path: str = None):
+        # Default to data/glossaries structure
+        if glossary_path is None:
+            # Get the project root (parent of scripts directory)
+            project_root = Path(__file__).parent.parent
+            glossary_path = project_root / "data" / "glossaries" / "translation_glossary.json"
+
         self.glossary_path = Path(glossary_path)
+        # Ensure the directory exists
+        self.glossary_path.parent.mkdir(parents=True, exist_ok=True)
+
         self.glossary = self.load_glossary()
         self.chapter_history = []  # Track last 10 chapters
         
@@ -348,8 +357,15 @@ class InfinityGlossaryManager:
         """Get current glossary statistics"""
         return self.glossary['metadata'].get('statistics', {})
     
-    def export_readable_glossary(self, output_path: str = "readable_glossary.md"):
+    def export_readable_glossary(self, output_path: str = None):
         """Export a human-readable markdown glossary"""
+        if output_path is None:
+            # Default to data/glossaries structure
+            project_root = Path(__file__).parent.parent
+            output_path = project_root / "data" / "glossaries" / "readable_glossary.md"
+        output_path = Path(output_path)
+        # Ensure the directory exists
+        output_path.parent.mkdir(parents=True, exist_ok=True)
         lines = [
             "# Infinity Mage Translation Glossary",
             f"*Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*\n",

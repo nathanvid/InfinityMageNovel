@@ -1,5 +1,5 @@
 {
-  "last_translated_chapter": 348,
+  "last_translated_chapter": 349,
   "total_chapters": 1277,
   "completed_chapters": [
     1,
@@ -332,23 +332,23 @@
     347,
     348,
     271,
-    281
+    281,
+    349
   ],
   "failed_chapters": [
     15,
     334,
     340,
-    349,
-    350
+    350,
+    349
   ],
   "skipped_chapters": [],
-  "last_update": "2025-09-02T18:29:58.810563",
+  "last_update": "2025-09-17T11:43:33.638661",
   "statistics": {
     "total_terms_discovered": 0,
-    "average_processing_time": 197.9863361011852,
+    "average_processing_time": 179.9714533632452,
     "quality_scores": [],
     "processing_times": [
-      198.10567617416382,
       198.12376809120178,
       198.15540194511414,
       198.17014908790588,
@@ -357,7 +357,8 @@
       198.15628600120544,
       198.15491461753845,
       197.26089000701904,
-      197.25306296348572
+      197.25306296348572,
+      0.006549835205078125
     ]
   }
 }

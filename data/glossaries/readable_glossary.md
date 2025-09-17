@@ -1,0 +1,993 @@
+# Infinity Mage Translation Glossary
+*Generated: 2025-09-17 11:23:18*
+
+**Total Terms**: 970
+**Chapters Processed**: 999
+
+## Characters
+
+- **아리안 시로네** → Arian Shirone *(Used 389x, First: Ch.1)* *[male]*
+- **알페아스** → Alpheas *(Used 154x, First: Ch.2)* *[male]*
+- **네이드** → Nade *(Used 127x, First: Ch.39)* *[male]*
+- **이루키** → Iruki *(Used 125x, First: Ch.36)* *[male]*
+- **카르미스 에이미** → Carmis Amy *(Used 96x, First: Ch.4)* *[female]*
+- **카니스** → Canis *(Used 92x, First: Ch.74)* *[male]*
+- **에텔라** → Ethella *(Used 83x, First: Ch.20)* *[female]*
+- **아린** → Arin *(Used 82x, First: Ch.74)* *[female]*
+- **시이나** → Siena *(Used 80x, First: Ch.20)* *[female]*
+- **에이미** → Amy *(Used 73x, First: Ch.239)* *[unknown]*
+- **오젠트 리안** → Ozent Rian *(Used 66x, First: Ch.6)* *[male]*
+- **사드** → Thad *(Used 62x, First: Ch.20)* *[male]*
+- **빈센트** → Vincent *(Used 56x, First: Ch.1)* *[male]*
+- **단테** → Dante *(Used 53x, First: Ch.226)* *[unknown]*
+- **엘자인 테스** → Elzaine Tess *(Used 51x, First: Ch.122)* *[unknown]*
+- **미로** → Miro *(Used 51x, First: Ch.999)* *[unknown]*
+- **지온** → Zion *(Used 44x, First: Ch.270)* *[unknown]*
+- **포트리스 세리엘** → Fortress Seriel *(Used 40x, First: Ch.20)* *[female]*
+- **레이나** → Reina *(Used 35x, First: Ch.273)* *[unknown]*
+- **마크** → Mark *(Used 34x, First: Ch.30)* *[male]*
+- **아리우스** → Arius *(Used 28x, First: Ch.273)* *[unknown]*
+- **클로저** → Closer *(Used 26x, First: Ch.226)* *[unknown]*
+- **클레이 마르샤** → Clay Marsha *(Used 25x, First: Ch.146)* *[female]*
+- **올리나** → Olina *(Used 24x, First: Ch.1)* *[female]*
+- **지스** → Gis *(Used 24x, First: Ch.126)* *[male]*
+- **팔코아** → Falcoa *(Used 24x, First: Ch.126)* *[male]*
+- **우오린** → Woorin *(Used 24x, First: Ch.270)* *[unknown]*
+- **올리비아** → Olivia *(Used 23x, First: Ch.239)* *[unknown]*
+- **카냐** → Kanya *(Used 22x, First: Ch.179)* *[female]*
+- **사비나** → Sabina *(Used 22x, First: Ch.226)* *[unknown]*
+- **오젠트 레이나** → Ozent Reina *(Used 21x, First: Ch.11)* *[female]*
+- **레나** → Rena *(Used 21x, First: Ch.179)* *[unknown]*
+- **이카엘** → Ikael *(Used 21x, First: Ch.204)* *[unknown]*
+- **보일** → Boyle *(Used 21x, First: Ch.232)* *[unknown]*
+- **오르캄프** → Orcamp *(Used 20x, First: Ch.270)* *[unknown]*
+- **클럼프** → Clump *(Used 19x, First: Ch.18)* *[male]*
+- **페오페** → Phoebe *(Used 19x, First: Ch.194)* *[unknown]*
+- **테무란** → Temuran *(Used 16x, First: Ch.6)* *[male]*
+- **빌토르 아케인** → Viktor Arcane *(Used 16x, First: Ch.74)* *[male]*
+- **카리엘** → Kariel *(Used 16x, First: Ch.202)* *[unknown]*
+- **제노거** → Zenogger *(Used 16x, First: Ch.286)* *[unknown]*
+- **광안의 아르민** → Armin of the Light Eye *(Used 15x, First: Ch.57)* *[male]*
+- **루카스** → Lucas *(Used 15x, First: Ch.77)* *[male]*
+- **에리나** → Erina *(Used 15x, First: Ch.88)* *[female]*
+- **이기린** → Igirin *(Used 14x, First: Ch.196)* *[unknown]*
+- **에를랑 마리아** → Erlang Maria *(Used 13x, First: Ch.30)* *[female]*
+- **미케아 가올드** → Michea Gaold *(Used 13x, First: Ch.51)* *[female]*
+- **유나** → Yuna *(Used 13x, First: Ch.146)* *[female]*
+- **킬라인** → Killine *(Used 13x, First: Ch.226)* *[unknown]*
+- **조크레** → Jokre *(Used 13x, First: Ch.326)* *[unknown]*
+- **엘리자** → Eliza *(Used 12x, First: Ch.270)* *[unknown]*
+- **이미르** → Ymir *(Used 11x, First: Ch.206)* *[unknown]*
+- **아케인** → Arcane *(Used 11x, First: Ch.211)* *[unknown]*
+- **판도라** → Pandora *(Used 11x, First: Ch.232)* *[unknown]*
+- **리리아** → Liria *(Used 11x, First: Ch.332)* *[unknown]*
+- **거핀** → Guffin *(Used 10x, First: Ch.211)* *[unknown]*
+- **세리엘** → Seriel *(Used 10x, First: Ch.242)* *[unknown]*
+- **비비안** → Vivian *(Used 10x, First: Ch.326)* *[unknown]*
+- **카둠** → Kadum *(Used 9x, First: Ch.171)* *[male]*
+- **오젠트 라이** → Ozent Rai *(Used 8x, First: Ch.7)* *[male]*
+- **사누엘** → Samuel *(Used 8x, First: Ch.43)* *[male]*
+- **케이라** → Kaira *(Used 8x, First: Ch.57)* *[female]*
+- **샤코라** → Shakora *(Used 7x, First: Ch.121)* *[unknown]*
+- **이카사** → Ikasa *(Used 7x, First: Ch.203)* *[unknown]*
+- **바알브** → Baalb *(Used 7x, First: Ch.216)* *[unknown]*
+- **마리아** → Maria *(Used 7x, First: Ch.239)* *[unknown]*
+- **금강태** → Diamond Body *(Used 7x, First: Ch.267)* *[unknown]*
+- **루드반스** → Rudbans *(Used 7x, First: Ch.326)* *[unknown]*
+- **오젠트 비쇼프** → Ozent Bishop *(Used 6x, First: Ch.6)* *[male]*
+- **알토르** → Altor *(Used 6x, First: Ch.69)* *[male]*
+- **루미나** → Lumina *(Used 6x, First: Ch.69)* *[female]*
+- **마틴** → Martin *(Used 6x, First: Ch.69)* *[male]*
+- **이시스** → Isis *(Used 6x, First: Ch.121)* *[unknown]*
+- **마하투** → Mahatu *(Used 6x, First: Ch.170)* *[unknown]*
+- **타부** → Tabu *(Used 6x, First: Ch.202)* *[unknown]*
+- **쿠안** → Kuan *(Used 6x, First: Ch.264)* *[unknown]*
+- **카이트** → Kite *(Used 5x, First: Ch.8)* *[unknown]*
+- **제이크** → Jake *(Used 5x, First: Ch.24)* *[male]*
+- **울크** → Ulk *(Used 5x, First: Ch.74)* *[male]*
+- **사로프** → Saroph *(Used 5x, First: Ch.88)* *[male]*
+- **맥클라인 거핀** → McClain Guffin *(Used 5x, First: Ch.176)* *[unknown]*
+- **오르도스** → Ordos *(Used 5x, First: Ch.260)* *[unknown]*
+- **보순** → Bosun *(Used 5x, First: Ch.306)* *[unknown]*
+- **아르디노 페르미** → Ardino Fermi *(Used 4x, First: Ch.64)* *[male]*
+- **아델** → Adel *(Used 4x, First: Ch.120)* *[unknown]*
+- **아레스** → Ares *(Used 4x, First: Ch.121)* *[unknown]*
+- **루이스** → Louis *(Used 4x, First: Ch.123)* *[male]*
+- **아슈르** → Ashur *(Used 4x, First: Ch.214)* *[unknown]*
+- **이그나이트** → Ignite *(Used 4x, First: Ch.298)* *[unknown]*
+- **베히모스** → Behemoth *(Used 4x, First: Ch.303)* *[unknown]*
+- **풍장** → Pungjang *(Used 4x, First: Ch.311)* *[unknown]*
+- **사키리** → Sakiri *(Used 3x, First: Ch.108)* *[male]*
+- **하시드** → Hashid *(Used 3x, First: Ch.171)* *[male]*
+- **아드리아스 미로** → Adrias Miro *(Used 3x, First: Ch.211)* *[unknown]*
+- **제롬 올리비아** → Jerome Olivia *(Used 3x, First: Ch.226)* *[unknown]*
+- **리트니 워커** → Ritney Walker *(Used 3x, First: Ch.283)* *[unknown]*
+- **아이마르 보순** → Aimar Bosun *(Used 3x, First: Ch.283)* *[unknown]*
+- **엑카시** → Ekkashi *(Used 3x, First: Ch.306)* *[unknown]*
+- **아호야 강난** → Ahoya Gangnan *(Used 3x, First: Ch.321)* *[unknown]*
+- **테스** → Tess *(Used 3x, First: Ch.346)* *[unknown]*
+- **바위어** → Bavier *(Used 3x, First: Ch.346)* *[unknown]*
+- **카르미스 샤코라** → Carmis Shacola *(Used 2x, First: Ch.4)* *[male]*
+- **타이라** → Taira *(Used 2x, First: Ch.24)* *[female]*
+- **다이안** → Diane *(Used 2x, First: Ch.121)* *[unknown]*
+- **아돌프 12세** → Adolf XII *(Used 2x, First: Ch.87)* *[unknown]*
+- **아가도 프리먼** → Agado Freeman *(Used 2x, First: Ch.146)* *[male]*
+- **캉** → Kang *(Used 2x, First: Ch.999)* *[unknown]*
+- **몽인 루버** → dream person Rubor *(Used 2x, First: Ch.209)* *[unknown]*
+- **유리엘** → Uriel *(Used 2x, First: Ch.211)* *[unknown]*
+- **마르샤** → Marsha *(Used 2x, First: Ch.221)* *[unknown]*
+- **제임스** → James *(Used 2x, First: Ch.257)* *[unknown]*
+- **테라제 우오린** → Theraze Uorin *(Used 2x, First: Ch.269)* *[unknown]*
+- **엘 크라우치** → El Crawchi *(Used 2x, First: Ch.311)* *[unknown]*
+- **오르돈** → Ordon *(Used 2x, First: Ch.321)* *[unknown]*
+- **코인트라** → Cointra *(Used 2x, First: Ch.344)* *[unknown]*
+- **야크라** → Yakra *(Used 1x, First: Ch.10)* *[unknown]*
+- **슈라이만** → Schreiman *(Used 1x, First: Ch.11)* *[male]*
+- **루이스 집사장** → Head Butler Luis *(Used 1x, First: Ch.18)* *[male]*
+- **마르코** → Marco *(Used 1x, First: Ch.18)* *[male]*
+- **아델리아** → Adelia *(Used 1x, First: Ch.40)* *[female]*
+- **길베르토** → Gilberto *(Used 1x, First: Ch.40)* *[male]*
+- **세인트 드래곤 그라미슈** → Saint Dragon Gramish *(Used 1x, First: Ch.50)* *[male]*
+- **올리아** → Olia *(Used 1x, First: Ch.64)* *[female]*
+- **노아** → Noah *(Used 1x, First: Ch.64)* *[male]*
+- **하우란** → Hauran *(Used 1x, First: Ch.69)* *[unknown]*
+- **브레드** → Bread *(Used 1x, First: Ch.70)* *[male]*
+- **엘자인 베론** → Elzaine Beron *(Used 1x, First: Ch.122)* *[unknown]*
+- **라프네** → Raphne *(Used 1x, First: Ch.88)* *[female]*
+- **콜리** → Collie *(Used 1x, First: Ch.109)* *[unknown]*
+- **아토레** → Atore *(Used 1x, First: Ch.171)* *[female]*
+- **페오페니** → Phoebe *(Used 1x, First: Ch.193)* *[unknown]*
+- **유레카** → Eureka *(Used 1x, First: Ch.211)* *[unknown]*
+- **프리먼** → Freeman *(Used 1x, First: Ch.221)* *[unknown]*
+- **빅터 사비나** → Victor Sabina *(Used 1x, First: Ch.241)* *[unknown]*
+- **메르코다인 알비노** → Mercandine Albino *(Used 1x, First: Ch.244)* *[unknown]*
+- **비앙카** → Bianca *(Used 1x, First: Ch.250)* *[unknown]*
+- **자코뱅** → Jacobin *(Used 1x, First: Ch.252)* *[unknown]*
+- **오젠트 클럼프** → Ogent Clump *(Used 1x, First: Ch.264)* *[unknown]*
+- **오르캄프 4세** → Orcampf IV *(Used 1x, First: Ch.267)* *[unknown]*
+- **루젠 고딘** → Ruzen Godin *(Used 1x, First: Ch.267)* *[unknown]*
+- **테라제 지온** → Theraze Zion *(Used 1x, First: Ch.269)* *[unknown]*
+- **루버** → Ruber *(Used 1x, First: Ch.299)* *[unknown]*
+- **포리테르** → Foriter *(Used 1x, First: Ch.332)* *[unknown]*
+- **우오린 공주** → Princess Uorin *(Used 1x, First: Ch.343)* *[unknown]*
+- **로미 에텔라** → Romy Ethella *(Used 1x, First: Ch.343)* *[unknown]*
+- **올리페르 시이나** → Olivia Siena *(Used 1x, First: Ch.343)* *[unknown]*
+- **고딤** → Godim *(Used 1x, First: Ch.347)* *[unknown]*
+- **모리건 아리우스** → Morrigan Arius *(Used 1x, First: Ch.271)* *[unknown]*
+
+## Places
+
+- **알페아스 마법학교** → Alpheas Magic School *(Used 78x, First: Ch.2)*
+- **크레아스** → Creas *(Used 46x, First: Ch.2)*
+- **토르미아** → Tormia *(Used 44x, First: Ch.39)*
+- **도서관** → Great Library *(Used 39x, First: Ch.2)*
+- **바슈카** → Bashka *(Used 31x, First: Ch.74)*
+- **토르미아 왕국** → Kingdom of Tormia *(Used 28x, First: Ch.7)*
+- **갈리앙트** → Galliant *(Used 28x, First: Ch.124)*
+- **건널 수 없는 다리** → Unbridgeable Bridge *(Used 20x, First: Ch.34)*
+- **연옥** → Purgatory *(Used 20x, First: Ch.176)*
+- **카즈라 왕국** → Kingdom of Kasula *(Used 19x, First: Ch.260)*
+- **라둠** → Radum *(Used 17x, First: Ch.86)*
+- **갈리앙트 섬** → Galliant Island *(Used 16x, First: Ch.120)*
+- **성취와 희생의 방** → Room of Achievement and Sacrifice *(Used 16x, First: Ch.138)*
+- **그랜드 홀** → Grand Hall *(Used 15x, First: Ch.93)*
+- **화전민촌** → Slash-and-burn Village *(Used 14x, First: Ch.1)*
+- **대세계전** → Great World Hall *(Used 14x, First: Ch.205)*
+- **케르고 유적** → Kergo Ruins *(Used 12x, First: Ch.122)*
+- **자치 구역** → autonomous zone *(Used 12x, First: Ch.138)*
+- **노르의 쉼터** → Norse Refuge *(Used 12x, First: Ch.187)*
+- **제불** → Jebul *(Used 12x, First: Ch.193)*
+- **인페르노** → Inferno *(Used 11x, First: Ch.77)*
+- **샤마인** → Shamain *(Used 10x, First: Ch.184)*
+- **카샨** → Kashan *(Used 10x, First: Ch.269)*
+- **아라보트** → Arabot *(Used 8x, First: Ch.192)*
+- **대직도** → great straight road *(Used 7x, First: Ch.6)*
+- **카이젠 검술학교** → Kaizen Sword School *(Used 7x, First: Ch.117)*
+- **신전** → Temple *(Used 7x, First: Ch.133)*
+- **내성** → inner castle *(Used 7x, First: Ch.267)*
+- **크레아스 도시** → Creas City *(Used 6x, First: Ch.53)*
+- **잉그리스** → Ingris *(Used 6x, First: Ch.176)*
+- **속된 자의 숲** → Forest of the Profane *(Used 6x, First: Ch.176)*
+- **제7천** → Seventh Heaven *(Used 6x, First: Ch.184)*
+- **카샨 제국** → Kashan Empire *(Used 6x, First: Ch.284)*
+- **토아 산** → Mount Toa *(Used 5x, First: Ch.138)*
+- **제1천** → First Heaven *(Used 5x, First: Ch.184)*
+- **낭떠러지** → precipice *(Used 4x, First: Ch.35)*
+- **마법 창고 이스타스** → Magic Warehouse Estas *(Used 4x, First: Ch.41)*
+- **카즈라 왕성** → Kazura Royal Castle *(Used 4x, First: Ch.299)*
+- **레스 산맥** → Les Mountains *(Used 4x, First: Ch.321)*
+- **대연무장** → great training ground *(Used 3x, First: Ch.8)*
+- **지저 산맥** → Underground Mountain Range *(Used 3x, First: Ch.74)*
+- **제3천 셰하킴** → Third Heaven Shehaqim *(Used 3x, First: Ch.192)*
+- **이천번 실습장** → Advanced Practice Hall *(Used 3x, First: Ch.241)*
+- **야크마 공화국** → Yakma Republic *(Used 3x, First: Ch.264)*
+- **아인스 마법학교** → Eins Magic School *(Used 3x, First: Ch.326)*
+- **계단식 제단** → stepped altar *(Used 2x, First: Ch.137)*
+- **이스타스** → Estas *(Used 2x, First: Ch.176)*
+- **제6천 제불** → Sixth Heaven Jebul *(Used 2x, First: Ch.203)*
+- **여명의 골짜기** → Valley of Dawn *(Used 2x, First: Ch.264)*
+- **별관** → Annex *(Used 2x, First: Ch.277)*
+- **렘 영역** → REM domain *(Used 2x, First: Ch.299)*
+- **귀신의 숲** → Forest of Ghosts *(Used 2x, First: Ch.344)*
+- **마도 상점** → magic item shop *(Used 1x, First: Ch.2)*
+- **남촌** → southern district *(Used 1x, First: Ch.4)*
+- **신도서관** → new library *(Used 1x, First: Ch.6)*
+- **아르투스나 산맥** → Artusna mountain range *(Used 1x, First: Ch.10)*
+- **14훈련장** → Training Ground 14 *(Used 1x, First: Ch.24)*
+- **기관통제실** → control room *(Used 1x, First: Ch.35)*
+- **델폰스** → Delphons *(Used 1x, First: Ch.57)*
+- **어둠의 미궁** → Labyrinth of Darkness *(Used 1x, First: Ch.74)*
+- **알포네스 산맥** → Alphonse Mountains *(Used 1x, First: Ch.122)*
+- **코로나 왕국** → Corona Kingdom *(Used 1x, First: Ch.122)*
+- **고대 신들의 고향** → Home of the Ancient Gods *(Used 1x, First: Ch.87)*
+- **3번 도크** → Dock 3 *(Used 1x, First: Ch.126)*
+- **중앙 사원** → central temple *(Used 1x, First: Ch.137)*
+- **코트리아** → Cotria *(Used 1x, First: Ch.174)*
+- **샤이닝 스폿** → Shining Spot *(Used 1x, First: Ch.184)*
+- **마루 계곡** → Maru Valley *(Used 1x, First: Ch.184)*
+- **부채 개울** → Fan Creek *(Used 1x, First: Ch.184)*
+- **조사실** → Investigation Office *(Used 1x, First: Ch.999)*
+- **케르고 유적지** → Kergo Ruins site *(Used 1x, First: Ch.999)*
+- **요금소** → toll booth *(Used 1x, First: Ch.999)*
+- **화염의 스폿** → flame spot *(Used 1x, First: Ch.187)*
+- **무스펠** → Muspell *(Used 1x, First: Ch.187)*
+- **세계수** → World Tree *(Used 1x, First: Ch.196)*
+- **중앙 가도** → central avenue *(Used 1x, First: Ch.203)*
+- **제5천 마테이** → Fifth Heaven Matei *(Used 1x, First: Ch.206)*
+- **제4천 마코놈** → Fourth Heaven Makhon *(Used 1x, First: Ch.206)*
+- **여명의 고원** → Dawn Plateau *(Used 1x, First: Ch.267)*
+- **코센트** → Cosent *(Used 1x, First: Ch.270)*
+- **알칸티라** → Alcantira *(Used 1x, First: Ch.286)*
+- **팔코아** → Falcoa *(Used 1x, First: Ch.288)*
+- **분지** → basin *(Used 1x, First: Ch.97)*
+- **진명의 계곡** → Valley of True Names *(Used 1x, First: Ch.311)*
+- **파동의 산맥** → Undulating Mountains *(Used 1x, First: Ch.311)*
+- **알로그 구역** → Alog district *(Used 1x, First: Ch.321)*
+- **남방** → Southern Nation *(Used 1x, First: Ch.321)*
+- **토슈카** → Toshka *(Used 1x, First: Ch.271)*
+
+## Magic Terms
+
+- **마법** → magic *(Used 361x, First: Ch.2)*
+- **스피릿 존** → Spirit Zone *(Used 154x, First: Ch.3)*
+- **이모탈 펑션** → Immortal Function *(Used 77x, First: Ch.48)*
+- **순간 이동** → Teleportation *(Used 66x, First: Ch.30)*
+- **통찰** → insight *(Used 64x, First: Ch.2)*
+- **포톤 캐논** → Photon Cannon *(Used 51x, First: Ch.81)*
+- **스키마** → Schema *(Used 42x, First: Ch.146)*
+- **홍안** → Insight *(Used 40x, First: Ch.120)*
+- **아타락시아** → Ataraxia *(Used 38x, First: Ch.226)*
+- **암흑 마법** → dark magic *(Used 34x, First: Ch.74)*
+- **어비스 노바** → Abyss Nova *(Used 23x, First: Ch.77)*
+- **안티매직** → Anti-Magic *(Used 20x, First: Ch.10)*
+- **이미지 존** → Image Zone *(Used 20x, First: Ch.20)*
+- **교차** → crossing *(Used 20x, First: Ch.165)*
+- **공간 이동** → spatial teleportation *(Used 19x, First: Ch.77)*
+- **초경** → insight *(Used 18x, First: Ch.108)*
+- **이탈** → detachment *(Used 18x, First: Ch.165)*
+- **스피드 건** → Speed Gun *(Used 16x, First: Ch.43)*
+- **어둠의 권능** → Power of Darkness *(Used 16x, First: Ch.77)*
+- **메타게이트** → Metagate *(Used 14x, First: Ch.174)*
+- **스케일** → Scale *(Used 14x, First: Ch.273)*
+- **파이어볼** → Fireball *(Used 13x, First: Ch.140)*
+- **수열식** → sequence magic *(Used 13x, First: Ch.999)*
+- **이그나이트** → Ignite *(Used 12x, First: Ch.41)*
+- **플리커** → Flicker *(Used 12x, First: Ch.273)*
+- **금강불괴** → Diamond Body *(Used 11x, First: Ch.133)*
+- **스나이퍼 모드** → sniper mode *(Used 11x, First: Ch.140)*
+- **레이저** → laser *(Used 11x, First: Ch.999)*
+- **언로커** → Unlocker *(Used 11x, First: Ch.267)*
+- **금강무장** → Armament *(Used 11x, First: Ch.289)*
+- **광폭** → Photon Cannon *(Used 10x, First: Ch.179)*
+- **전송** → transmission *(Used 10x, First: Ch.215)*
+- **봉마진** → sealing formation *(Used 10x, First: Ch.303)*
+- **파이어 스트라이크** → Fire Strike *(Used 9x, First: Ch.25)*
+- **플라이** → Fly *(Used 9x, First: Ch.34)*
+- **마정탄** → magic bullet *(Used 9x, First: Ch.140)*
+- **사방식** → four-way type *(Used 9x, First: Ch.999)*
+- **윈드 커터** → Wind Cutter *(Used 9x, First: Ch.236)*
+- **천둥패기** → Thunder Strike *(Used 8x, First: Ch.2)*
+- **아토믹 봄** → Atomic Bomb *(Used 8x, First: Ch.40)*
+- **언령 마법** → incantation magic *(Used 8x, First: Ch.43)*
+- **스톱** → Stop *(Used 8x, First: Ch.57)*
+- **시간 역장** → time barrier *(Used 8x, First: Ch.57)*
+- **플레임 스트라이크** → Flame Strike *(Used 8x, First: Ch.140)*
+- **소나** → sonar *(Used 8x, First: Ch.154)*
+- **패시브 스킬** → passive skill *(Used 8x, First: Ch.236)*
+- **조명 마법** → illumination spell *(Used 7x, First: Ch.34)*
+- **더블 스피릿 존** → Double Spirit Zone *(Used 7x, First: Ch.47)*
+- **정신 지배** → mental domination *(Used 7x, First: Ch.81)*
+- **다크 포트** → Dark Port *(Used 7x, First: Ch.81)*
+- **눈의 기술** → eye techniques *(Used 7x, First: Ch.133)*
+- **광자화** → photonization *(Used 7x, First: Ch.999)*
+- **타깃형** → target-type *(Used 7x, First: Ch.999)*
+- **파스칼** → Pascal *(Used 7x, First: Ch.250)*
+- **토네이도** → Tornado *(Used 6x, First: Ch.43)*
+- **맨션** → mansion *(Used 6x, First: Ch.250)*
+- **다이브** → Dive *(Used 6x, First: Ch.273)*
+- **금강태** → Diamond Body *(Used 6x, First: Ch.283)*
+- **도어** → door *(Used 6x, First: Ch.283)*
+- **정격조종** → Remote Control *(Used 6x, First: Ch.314)*
+- **윈드커터** → Wind Cutter *(Used 5x, First: Ch.25)*
+- **섀도 월** → Shadow Wall *(Used 5x, First: Ch.81)*
+- **프레싱** → Pressing *(Used 5x, First: Ch.120)*
+- **음향 대포** → sonic cannon *(Used 5x, First: Ch.154)*
+- **요정부장** → Fairy Department Head *(Used 5x, First: Ch.196)*
+- **샤이닝 체인** → Shining Chain *(Used 5x, First: Ch.202)*
+- **헤이스트** → Haste *(Used 5x, First: Ch.236)*
+- **헤일로** → Halo *(Used 5x, First: Ch.253)*
+- **빙의** → possession *(Used 5x, First: Ch.279)*
+- **광자 계열** → photon field *(Used 4x, First: Ch.88)*
+- **라이트닝 볼트** → Lightning Bolt *(Used 4x, First: Ch.140)*
+- **반전** → reversal *(Used 4x, First: Ch.163)*
+- **투과** → penetration *(Used 4x, First: Ch.165)*
+- **파이어 월** → Fire Wall *(Used 4x, First: Ch.203)*
+- **화신술** → Incarnation *(Used 4x, First: Ch.314)*
+- **자기상 기억** → self-image memory *(Used 4x, First: Ch.327)*
+- **율의 파동** → Wave of Law *(Used 4x, First: Ch.336)*
+- **박요진** → sealing formation *(Used 4x, First: Ch.341)*
+- **에어 실드** → Air Shield *(Used 3x, First: Ch.25)*
+- **수면 마법** → sleep magic *(Used 3x, First: Ch.35)*
+- **전기 마법** → electrical magic *(Used 3x, First: Ch.39)*
+- **인비저빌러티** → Invisibility *(Used 3x, First: Ch.53)*
+- **프레스** → Press *(Used 3x, First: Ch.77)*
+- **어비스 메모리** → Abyss Memory *(Used 3x, First: Ch.98)*
+- **패트롤** → Patrol *(Used 3x, First: Ch.154)*
+- **레인보우 드롭** → Rainbow Drop *(Used 3x, First: Ch.154)*
+- **접기** → folding *(Used 3x, First: Ch.165)*
+- **하울링** → Howling *(Used 3x, First: Ch.183)*
+- **향기 마법** → scent magic *(Used 3x, First: Ch.236)*
+- **어스라이즈** → Earth Rise *(Used 3x, First: Ch.236)*
+- **초마력 증폭진** → super-magic amplification circle *(Used 3x, First: Ch.279)*
+- **파이어 미스트** → Fire Mist *(Used 3x, First: Ch.289)*
+- **영의 반경** → Spirit's Radius *(Used 3x, First: Ch.338)*
+- **검살** → sword destruction *(Used 2x, First: Ch.7)*
+- **단거리 순간 이동** → short-range teleportation *(Used 2x, First: Ch.24)*
+- **에어 네트** → Air Net *(Used 2x, First: Ch.34)*
+- **기폭 마법** → detonation magic *(Used 2x, First: Ch.41)*
+- **카우베어** → CowBear *(Used 2x, First: Ch.70)*
+- **퓨전 마법** → fusion magic *(Used 2x, First: Ch.77)*
+- **다크 스킨** → Dark Skin *(Used 2x, First: Ch.81)*
+- **마정석** → magic stone *(Used 2x, First: Ch.140)*
+- **일렉트릭 애로우** → Electric Arrow *(Used 2x, First: Ch.140)*
+- **리버스 테크닉 트리** → reverse technique tree *(Used 2x, First: Ch.163)*
+- **감각 계열** → sensory type/enhancement *(Used 2x, First: Ch.163)*
+- **외중력** → external gravity *(Used 2x, First: Ch.183)*
+- **어비스 계열** → Abyss-type *(Used 2x, First: Ch.211)*
+- **광자화 마법** → photonization magic *(Used 2x, First: Ch.215)*
+- **다크포트** → Darkfort *(Used 2x, First: Ch.215)*
+- **캔슬레이션** → Cancellation *(Used 2x, First: Ch.244)*
+- **어스 스킨** → Earth Skin *(Used 2x, First: Ch.244)*
+- **일렉트릭 맨션** → Electric Mansion *(Used 2x, First: Ch.250)*
+- **샤이닝 임팩트** → Shining Impact *(Used 2x, First: Ch.253)*
+- **옵스큐라** → Obscura *(Used 2x, First: Ch.257)*
+- **사운드 오브 사일런스** → Sound of Silence *(Used 2x, First: Ch.286)*
+- **이퀄라이징** → Equalizing *(Used 2x, First: Ch.288)*
+- **타기팅** → targeting *(Used 2x, First: Ch.289)*
+- **잭 오 랜턴** → Jack O'Lantern *(Used 2x, First: Ch.289)*
+- **암구** → Dark Sphere *(Used 2x, First: Ch.306)*
+- **광익** → Light Wings *(Used 2x, First: Ch.338)*
+- **옥왕박요진** → Jade Emperor's sealing formation *(Used 2x, First: Ch.343)*
+- **트리플** → triple *(Used 2x, First: Ch.346)*
+- **역전** → reversal *(Used 2x, First: Ch.346)*
+- **외도 마법** → forbidden magic *(Used 1x, First: Ch.20)*
+- **시혼술** → soul-calling arts *(Used 1x, First: Ch.20)*
+- **에테르 공명** → ether resonance *(Used 1x, First: Ch.20)*
+- **에어 슈트** → Air Suit *(Used 1x, First: Ch.25)*
+- **에어 체인** → Air Chain *(Used 1x, First: Ch.25)*
+- **물질이동 마법** → matter transportation magic *(Used 1x, First: Ch.41)*
+- **일루전** → illusion *(Used 1x, First: Ch.53)*
+- **적색 곰** → red bear *(Used 1x, First: Ch.70)*
+- **인젝션 마법** → injection magic *(Used 1x, First: Ch.74)*
+- **블로우** → Blow *(Used 1x, First: Ch.77)*
+- **앱솔루트 제로** → Absolute Zero *(Used 1x, First: Ch.86)*
+- **보존응축** → preservation condensation *(Used 1x, First: Ch.86)*
+- **글레이셔 보밍** → Glacier Bombing *(Used 1x, First: Ch.86)*
+- **빅뱅** → Big Bang *(Used 1x, First: Ch.98)*
+- **라이트닝 애로우** → Lightning Arrow *(Used 1x, First: Ch.140)*
+- **퓨어 계열** → pure-type *(Used 1x, First: Ch.140)*
+- **클리어 마법** → Clear magic *(Used 1x, First: Ch.148)*
+- **사이드루킹** → Sidelooking *(Used 1x, First: Ch.154)*
+- **신경 계열** → neural type/enhancement *(Used 1x, First: Ch.163)*
+- **재생 계열** → regeneration type *(Used 1x, First: Ch.163)*
+- **세포 활성화 빌드** → cellular activation build *(Used 1x, First: Ch.163)*
+- **에이오스** → Aeos *(Used 1x, First: Ch.183)*
+- **쉐이빙** → Shaving *(Used 1x, First: Ch.183)*
+- **매스 텔레포트** → Mass Teleport *(Used 1x, First: Ch.183)*
+- **용오름** → whirlwind/tornado *(Used 1x, First: Ch.4)*
+- **절대영도** → Absolute Zero *(Used 1x, First: Ch.999)*
+- **십자가 존** → cross zone *(Used 1x, First: Ch.999)*
+- **지향성 존** → directional zone *(Used 1x, First: Ch.999)*
+- **감각계 스키마** → sensory Schema *(Used 1x, First: Ch.999)*
+- **그래비티 체인** → Gravity Chain *(Used 1x, First: Ch.203)*
+- **빛의 스폿** → light spots *(Used 1x, First: Ch.203)*
+- **시그날** → Signal *(Used 1x, First: Ch.215)*
+- **빙염의 지옥** → Hell of Ice and Flame *(Used 1x, First: Ch.215)*
+- **초마력증폭진 아타락시아** → Super Magic Amplification Circle Ataraxia *(Used 1x, First: Ch.219)*
+- **다크 웜** → Dark Worm *(Used 1x, First: Ch.219)*
+- **거너** → gunner *(Used 1x, First: Ch.221)*
+- **힐링** → Healing *(Used 1x, First: Ch.221)*
+- **퓨리파이** → Purify *(Used 1x, First: Ch.221)*
+- **수명부** → lifespan book *(Used 1x, First: Ch.221)*
+- **리프팅 테스트** → Lifting Test *(Used 1x, First: Ch.232)*
+- **액티브 스킬** → active skill *(Used 1x, First: Ch.236)*
+- **일렉트릭 볼트** → Electric Bolt *(Used 1x, First: Ch.242)*
+- **이미지 카피** → Image Copy *(Used 1x, First: Ch.242)*
+- **커팅 플라워** → Cutting Flower *(Used 1x, First: Ch.242)*
+- **일렉트릭 쇼크** → Electric Shock *(Used 1x, First: Ch.242)*
+- **회전융합** → rotational fusion *(Used 1x, First: Ch.242)*
+- **봄블렛 배리어** → Bomblet Barrier *(Used 1x, First: Ch.244)*
+- **헤비 스톤** → Heavy Stone *(Used 1x, First: Ch.244)*
+- **슬러그** → Slug *(Used 1x, First: Ch.244)*
+- **프레셔 맨션** → Pressure Mansion *(Used 1x, First: Ch.250)*
+- **포톤 맨션** → Photon Mansion *(Used 1x, First: Ch.250)*
+- **아이스 스피어** → Ice Sphere *(Used 1x, First: Ch.250)*
+- **라이트닝 캐논** → Lightning Cannon *(Used 1x, First: Ch.250)*
+- **볼트 맨션** → Volt Mansion *(Used 1x, First: Ch.250)*
+- **용언** → dragon language *(Used 1x, First: Ch.250)*
+- **클리어** → Clear *(Used 1x, First: Ch.283)*
+- **파이어 선** → Fire Line *(Used 1x, First: Ch.97)*
+- **컨퓨즈** → Confuse *(Used 1x, First: Ch.298)*
+- **에고이스트-분노화** → Egoist - Wrath Form *(Used 1x, First: Ch.299)*
+- **릴핀** → Relfin *(Used 1x, First: Ch.299)*
+- **카왕크라** → Kawangkra *(Used 1x, First: Ch.306)*
+- **코코라 나무** → Cocora tree *(Used 1x, First: Ch.306)*
+- **오르토 균류** → Orto fungi *(Used 1x, First: Ch.306)*
+- **킬러플라워** → Killer Flower *(Used 1x, First: Ch.306)*
+- **한 줌의 씨앗** → A Handful of Seeds *(Used 1x, First: Ch.306)*
+- **생장 촉진** → Growth Acceleration *(Used 1x, First: Ch.306)*
+- **원소 배합** → Element Mixing *(Used 1x, First: Ch.306)*
+- **엑소브레인** → Exobrain *(Used 1x, First: Ch.314)*
+- **천폭** → Heaven Explosion *(Used 1x, First: Ch.320)*
+- **천보륜** → Heavenly Treasure Wheel *(Used 1x, First: Ch.320)*
+- **강령소혼술** → necromantic spirit summoning *(Used 1x, First: Ch.332)*
+- **빙결의 연무** → Freezing Mist *(Used 1x, First: Ch.338)*
+- **빙결의 눈보라** → Freezing Blizzard *(Used 1x, First: Ch.338)*
+- **광자조형술** → Photon Sculpture *(Used 1x, First: Ch.338)*
+- **소세계창유** → Micro-world Creation *(Used 1x, First: Ch.341)*
+- **오버 드라이브** → Overdrive *(Used 1x, First: Ch.341)*
+- **더블** → double *(Used 1x, First: Ch.346)*
+- **쿼드라** → quadruple *(Used 1x, First: Ch.346)*
+- **펜타** → pentuple *(Used 1x, First: Ch.346)*
+- **스케일 마법** → Scale Magic *(Used 1x, First: Ch.271)*
+- **광안** → Enlightened Eyes *(Used 1x, First: Ch.271)*
+
+## Organizations
+
+- **귀족** → nobility *(Used 138x, First: Ch.2)*
+- **왕국** → Kingdom *(Used 125x, First: Ch.2)*
+- **졸업반** → graduating class *(Used 72x, First: Ch.39)*
+- **오젠트** → Ozent *(Used 64x, First: Ch.6)*
+- **클래스 포** → Class Four *(Used 49x, First: Ch.21)*
+- **스피릿** → Spirit *(Used 47x, First: Ch.226)*
+- **클래스 파이브** → Class Five *(Used 45x, First: Ch.24)*
+- **카르미스** → Carmis *(Used 43x, First: Ch.4)*
+- **마법협회** → Magic Association *(Used 36x, First: Ch.74)*
+- **테라제** → Theraze *(Used 32x, First: Ch.267)*
+- **클래스 세븐** → Class Seven *(Used 26x, First: Ch.21)*
+- **초자연 심령과학 연구회** → Supernatural Paranormal Science Research Society *(Used 19x, First: Ch.55)*
+- **오젠트 가문** → Ogent family *(Used 17x, First: Ch.257)*
+- **용뢰** → Thunder Dragons *(Used 14x, First: Ch.74)*
+- **프리먼 조직** → Freeman organization *(Used 14x, First: Ch.126)*
+- **앵무 용병단** → Parrot Bandits *(Used 11x, First: Ch.146)*
+- **왕립 마법학교** → Royal Magic School *(Used 11x, First: Ch.250)*
+- **미르히 가문** → Mirhi family *(Used 10x, First: Ch.18)*
+- **에어하인** → Airhine *(Used 10x, First: Ch.226)*
+- **마도7걸** → Seven Deadly Sins *(Used 10x, First: Ch.273)*
+- **카르시스 수도회** → Carsis Order *(Used 9x, First: Ch.51)*
+- **블랙 매지셔** → Black Magician *(Used 8x, First: Ch.24)*
+- **교사회** → teachers' council *(Used 8x, First: Ch.241)*
+- **블랙 라인** → Black Line *(Used 8x, First: Ch.280)*
+- **앵무 도적단** → Parrot Bandits *(Used 7x, First: Ch.77)*
+- **스파투르** → Spatur *(Used 6x, First: Ch.288)*
+- **올리페르 학파** → Olifer School *(Used 5x, First: Ch.57)*
+- **발키리** → Valkyries *(Used 5x, First: Ch.280)*
+- **바스타드** → Bastard *(Used 4x, First: Ch.88)*
+- **중립파** → Neutral Faction *(Used 4x, First: Ch.277)*
+- **작전조** → strategy team *(Used 3x, First: Ch.35)*
+- **큐리아** → Curia *(Used 3x, First: Ch.276)*
+- **삼황계** → Three Imperial Courts *(Used 3x, First: Ch.311)*
+- **아케아니스 신단** → Archanis Divine Order *(Used 3x, First: Ch.332)*
+- **에를랑** → Erlang *(Used 2x, First: Ch.35)*
+- **초자연심령과학연구회** → Supernatural Paranormal Science Research Club *(Used 2x, First: Ch.41)*
+- **메르코다인 가문** → Mercordain family *(Used 2x, First: Ch.117)*
+- **감찰3부** → Inspection Department 3 *(Used 2x, First: Ch.108)*
+- **연금술 재단** → Alchemy Foundation *(Used 2x, First: Ch.140)*
+- **메르코다인** → Mercodyne *(Used 2x, First: Ch.257)*
+- **제령회** → Exorcist Society *(Used 2x, First: Ch.332)*
+- **알페아스 마법학교** → Alpheas Magic School *(Used 2x, First: Ch.343)*
+- **암흑 교단** → Dark Cult *(Used 2x, First: Ch.344)*
+- **울프 패거리** → Wolf gang *(Used 1x, First: Ch.4)*
+- **친위대** → fan clubs *(Used 1x, First: Ch.48)*
+- **교령회** → Spirit Church *(Used 1x, First: Ch.50)*
+- **여성인체 연구회** → Women's Anatomy Research Society *(Used 1x, First: Ch.53)*
+- **용뢰 예하** → under the Thunder Dragons *(Used 1x, First: Ch.88)*
+- **상아탑** → Ivory Tower *(Used 1x, First: Ch.174)*
+- **갈리앙트 자치 정부** → Galliant autonomous government *(Used 1x, First: Ch.999)*
+- **마사회** → carriage association *(Used 1x, First: Ch.999)*
+- **지역 상회** → local merchant association *(Used 1x, First: Ch.999)*
+- **신민관리 요정부 제73지부** → Divine Subject Management Fairy Department, 73rd Branch *(Used 1x, First: Ch.196)*
+- **징계위원회** → disciplinary committee *(Used 1x, First: Ch.241)*
+- **엘리트 예술인 99인회** → Elite Artists' Circle of 99 *(Used 1x, First: Ch.264)*
+- **성전** → Holy War *(Used 1x, First: Ch.280)*
+- **카이젠 검술 학교** → Kaizen Sword School *(Used 1x, First: Ch.344)*
+
+## Items
+
+- **책** → books *(Used 186x, First: Ch.1)*
+- **직도** → straight sword *(Used 57x, First: Ch.123)*
+- **외** → Oe *(Used 32x, First: Ch.314)*
+- **도끼** → axe *(Used 31x, First: Ch.1)*
+- **일화의 술** → wine of tales *(Used 22x, First: Ch.184)*
+- **오브제** → Objet *(Used 22x, First: Ch.216)*
+- **아르망** → Armang *(Used 17x, First: Ch.303)*
+- **루프** → Loop *(Used 16x, First: Ch.133)*
+- **드론** → drone *(Used 15x, First: Ch.179)*
+- **이스타스** → Estas *(Used 14x, First: Ch.53)*
+- **엘릭서** → elixir *(Used 10x, First: Ch.179)*
+- **건틀렛** → gauntlet *(Used 9x, First: Ch.289)*
+- **엑스드** → Exd *(Used 8x, First: Ch.179)*
+- **시그나** → Signa *(Used 8x, First: Ch.179)*
+- **마검 아르망** → Magic Sword Armand *(Used 8x, First: Ch.276)*
+- **사브르** → saber *(Used 7x, First: Ch.140)*
+- **촉수** → tentacle *(Used 7x, First: Ch.289)*
+- **아크** → Arc *(Used 6x, First: Ch.179)*
+- **철봉** → iron rod *(Used 5x, First: Ch.8)*
+- **에피네스** → Epiness *(Used 5x, First: Ch.187)*
+- **예거 가문의 마지막 절규** → The Last Cry of the Jaeger Family *(Used 5x, First: Ch.288)*
+- **아티팩트** → artifact *(Used 4x, First: Ch.10)*
+- **투명망토** → invisibility cloak *(Used 4x, First: Ch.53)*
+- **매일매일 선물** → Daily Gift *(Used 4x, First: Ch.274)*
+- **조명등** → lights *(Used 3x, First: Ch.35)*
+- **마법무구** → magical implements *(Used 3x, First: Ch.53)*
+- **승강기** → elevator *(Used 3x, First: Ch.205)*
+- **빛과 어둠의 서** → Book of Light and Darkness *(Used 3x, First: Ch.211)*
+- **수면의 오브제** → sleep Objet *(Used 3x, First: Ch.216)*
+- **미녀** → Beauty *(Used 3x, First: Ch.276)*
+- **쌍두마차** → two-horse carriage *(Used 2x, First: Ch.2)*
+- **사이렌** → siren *(Used 2x, First: Ch.35)*
+- **정령 감옥** → spirit prison *(Used 2x, First: Ch.187)*
+- **쇼크웨이브** → Shockwave *(Used 2x, First: Ch.215)*
+- **집 마차** → house carriage *(Used 2x, First: Ch.267)*
+- **옥스타민** → Oxstamine *(Used 2x, First: Ch.273)*
+- **캐스피** → Caspi *(Used 2x, First: Ch.273)*
+- **프레시 트뤼풀** → Fresh Truffle *(Used 2x, First: Ch.283)*
+- **실타래** → thread ball *(Used 2x, First: Ch.289)*
+- **오신장의 갑옷 세트** → Five Sacred Armor Set *(Used 1x, First: Ch.10)*
+- **회전식 스위치** → rotary switch *(Used 1x, First: Ch.35)*
+- **망원경** → binoculars *(Used 1x, First: Ch.35)*
+- **홀로그램 비전** → hologram vision *(Used 1x, First: Ch.53)*
+- **섬광탄** → flash bombs *(Used 1x, First: Ch.53)*
+- **연막탄** → smoke bombs *(Used 1x, First: Ch.53)*
+- **열쇠해제 장치** → lock-picking device *(Used 1x, First: Ch.55)*
+- **암흑의 정수** → Essence of Darkness *(Used 1x, First: Ch.74)*
+- **무지개 분수** → Rainbow Fountain *(Used 1x, First: Ch.121)*
+- **원초적 올가미** → Primal Snare *(Used 1x, First: Ch.108)*
+- **심판의 제단** → judgment altar *(Used 1x, First: Ch.138)*
+- **엑스마키나** → Ex Machina *(Used 1x, First: Ch.174)*
+- **칼라야** → Kalaya *(Used 1x, First: Ch.187)*
+- **흡혈의 오브제** → blood-sucking Objet *(Used 1x, First: Ch.216)*
+- **증오의 오브제** → hatred Objet *(Used 1x, First: Ch.216)*
+- **마스터 팔찌** → Master Bracelet *(Used 1x, First: Ch.244)*
+- **어디서나 폭신폭신** → Soft and Fluffy Everywhere *(Used 1x, First: Ch.274)*
+- **정령의 정수** → Elemental Essence *(Used 1x, First: Ch.274)*
+- **네메시스** → Nemesis *(Used 1x, First: Ch.276)*
+- **한 번만!** → Just Once! *(Used 1x, First: Ch.276)*
+- **철학자** → The Philosopher *(Used 1x, First: Ch.276)*
+- **영혼 없는 안마** → Soulless Massage *(Used 1x, First: Ch.276)*
+- **볼베어링** → ball bearing *(Used 1x, First: Ch.286)*
+- **극락곤** → Paradise Club *(Used 1x, First: Ch.320)*
+- **협정 서약** → Covenant Oath *(Used 1x, First: Ch.271)*
+
+## Concepts
+
+- **평** → pyeong *(Used 243x, First: Ch.41)*
+- **라** → Ra *(Used 158x, First: Ch.999)*
+- **정** → jeong *(Used 139x, First: Ch.206)*
+- **신** → shin *(Used 139x, First: Ch.206)*
+- **천재** → genius *(Used 114x, First: Ch.2)*
+- **검사** → swordsman *(Used 99x, First: Ch.2)*
+- **스키마** → Schema *(Used 82x, First: Ch.8)*
+- **대마법사** → Great Magician *(Used 79x, First: Ch.74)*
+- **스피릿 존** → Spirit Zone *(Used 70x, First: Ch.141)*
+- **평민** → commoner *(Used 61x, First: Ch.2)*
+- **직전** → direct heir *(Used 56x, First: Ch.7)*
+- **구보** → jogging *(Used 50x, First: Ch.24)*
+- **전지** → omniscience *(Used 50x, First: Ch.77)*
+- **섬광** → Flash *(Used 50x, First: Ch.122)*
+- **차단** → block *(Used 46x, First: Ch.35)*
+- **장벽** → barriers *(Used 41x, First: Ch.35)*
+- **하비스트** → Harvest *(Used 38x, First: Ch.86)*
+- **마라** → Mara *(Used 37x, First: Ch.192)*
+- **만 리** → ten thousand ri *(Used 33x, First: Ch.35)*
+- **공감각** → synesthesia *(Used 32x, First: Ch.3)*
+- **사방식** → Four-Direction Style *(Used 32x, First: Ch.21)*
+- **난이도** → difficulty *(Used 32x, First: Ch.35)*
+- **심령과학** → paranormal science *(Used 32x, First: Ch.41)*
+- **역전** → reversal *(Used 29x, First: Ch.35)*
+- **용병** → mercenaries *(Used 29x, First: Ch.137)*
+- **언로커** → Unlocker *(Used 29x, First: Ch.999)*
+- **전능** → omnipotence *(Used 28x, First: Ch.35)*
+- **신민** → divine subjects *(Used 28x, First: Ch.183)*
+- **탈락** → elimination *(Used 26x, First: Ch.35)*
+- **공인 6급** → certified 6th-grade *(Used 25x, First: Ch.20)*
+- **잔상** → afterimages *(Used 24x, First: Ch.47)*
+- **미로의 시공** → Labyrinth of Time and Space *(Used 24x, First: Ch.137)*
+- **화력** → firepower *(Used 23x, First: Ch.41)*
+- **발표회** → presentation *(Used 23x, First: Ch.41)*
+- **노르** → Norse *(Used 23x, First: Ch.183)*
+- **타깃형** → target form *(Used 21x, First: Ch.21)*
+- **관성** → inertia *(Used 21x, First: Ch.35)*
+- **제1계급** → First-class *(Used 20x, First: Ch.21)*
+- **로그** → logarithms *(Used 20x, First: Ch.47)*
+- **재인** → prodigy *(Used 19x, First: Ch.35)*
+- **루트** → route *(Used 19x, First: Ch.35)*
+- **루프** → loop *(Used 19x, First: Ch.126)*
+- **무의식** → unconscious *(Used 18x, First: Ch.35)*
+- **골드** → gold *(Used 18x, First: Ch.140)*
+- **연금술** → alchemy *(Used 17x, First: Ch.53)*
+- **방어형** → defensive form *(Used 16x, First: Ch.21)*
+- **이탈형** → separation form *(Used 16x, First: Ch.21)*
+- **서번트 신드롬** → savant syndrome *(Used 16x, First: Ch.40)*
+- **신의 입자** → divine particles *(Used 16x, First: Ch.77)*
+- **금강불괴** → Diamond-like Indestructibility *(Used 15x, First: Ch.120)*
+- **감사** → inspector *(Used 15x, First: Ch.241)*
+- **얼음 여왕** → Ice Queen *(Used 15x, First: Ch.326)*
+- **메르코다인** → Mercenary *(Used 14x, First: Ch.36)*
+- **케르고** → Kergo *(Used 14x, First: Ch.183)*
+- **여황** → Empress *(Used 14x, First: Ch.269)*
+- **제1왕자** → First Prince *(Used 14x, First: Ch.269)*
+- **축제** → festival *(Used 13x, First: Ch.35)*
+- **조너** → Zoner *(Used 13x, First: Ch.51)*
+- **자기상 기억** → self-image memory *(Used 13x, First: Ch.98)*
+- **그램** → gram *(Used 13x, First: Ch.140)*
+- **메카족** → Mecca race *(Used 13x, First: Ch.179)*
+- **기척** → presence *(Used 13x, First: Ch.999)*
+- **공격형** → offensive form *(Used 12x, First: Ch.21)*
+- **자괴감** → self-loathing *(Used 12x, First: Ch.35)*
+- **보상** → compensation *(Used 12x, First: Ch.35)*
+- **최후의 수단** → final measure *(Used 12x, First: Ch.35)*
+- **초상감** → supersensory perception *(Used 12x, First: Ch.50)*
+- **클래스 텐** → Class Ten *(Used 11x, First: Ch.18)*
+- **중위권** → middle group *(Used 11x, First: Ch.35)*
+- **광자화 이론** → photon theory *(Used 11x, First: Ch.41)*
+- **금강태** → Diamond Body *(Used 11x, First: Ch.214)*
+- **학술지** → academic journal *(Used 11x, First: Ch.239)*
+- **특파원** → correspondent *(Used 11x, First: Ch.241)*
+- **도굴꾼** → grave robber *(Used 11x, First: Ch.280)*
+- **부집사** → assistant butler *(Used 10x, First: Ch.6)*
+- **소요** → disturbance *(Used 10x, First: Ch.35)*
+- **기관 장치** → mechanisms *(Used 10x, First: Ch.36)*
+- **실기 시험** → practical exam *(Used 10x, First: Ch.41)*
+- **아귀** → hungry ghosts *(Used 10x, First: Ch.64)*
+- **군상** → Group Portrait *(Used 10x, First: Ch.86)*
+- **원주민** → natives *(Used 10x, First: Ch.138)*
+- **소용돌이 뱀** → whirlpool serpent *(Used 10x, First: Ch.184)*
+- **대천사** → archangel *(Used 10x, First: Ch.284)*
+- **오의** → secret technique *(Used 9x, First: Ch.7)*
+- **참가자** → participants *(Used 9x, First: Ch.35)*
+- **수행평가** → performance assessment *(Used 9x, First: Ch.41)*
+- **교사회의** → faculty meeting *(Used 9x, First: Ch.55)*
+- **네피림** → Nephilim *(Used 9x, First: Ch.203)*
+- **생명의 술** → wine of life *(Used 9x, First: Ch.204)*
+- **라이벌** → rival *(Used 9x, First: Ch.239)*
+- **십자가** → cross *(Used 8x, First: Ch.21)*
+- **열반** → nirvana *(Used 8x, First: Ch.48)*
+- **오버 파워** → overpowered *(Used 8x, First: Ch.77)*
+- **집사장** → head butler *(Used 8x, First: Ch.120)*
+- **베테랑** → veteran *(Used 8x, First: Ch.133)*
+- **앙케 라** → Anke Ra *(Used 8x, First: Ch.192)*
+- **메카 시스템** → Mecha System *(Used 8x, First: Ch.205)*
+- **연성** → transmutation *(Used 8x, First: Ch.244)*
+- **사신** → envoy *(Used 8x, First: Ch.260)*
+- **11단계** → 11th level *(Used 8x, First: Ch.283)*
+- **평집사** → servant/regular servant *(Used 7x, First: Ch.6)*
+- **꿈을 향한 첫걸음** → The First Step Toward a Dream *(Used 7x, First: Ch.9)*
+- **어둠 속에서** → In the Darkness *(Used 7x, First: Ch.11)*
+- **홀로그램** → hologram *(Used 7x, First: Ch.66)*
+- **금강승** → Diamond Vehicle *(Used 7x, First: Ch.120)*
+- **표층** → surface layer *(Used 7x, First: Ch.999)*
+- **케르고인** → Kergo people *(Used 7x, First: Ch.999)*
+- **스카우트** → scout *(Used 7x, First: Ch.239)*
+- **제1왕자 후보** → First Prince Candidate *(Used 7x, First: Ch.277)*
+- **화신의 주인** → Master of the Avatar *(Used 7x, First: Ch.303)*
+- **신적초월** → Divine Transcendence *(Used 7x, First: Ch.314)*
+- **육식** → carnivores *(Used 6x, First: Ch.4)*
+- **궁중 악사** → court musician *(Used 6x, First: Ch.11)*
+- **성광체** → sacred light body *(Used 6x, First: Ch.192)*
+- **초기화** → initialization *(Used 6x, First: Ch.204)*
+- **룰렛** → roulette *(Used 6x, First: Ch.211)*
+- **화신술** → Avatar Technique *(Used 6x, First: Ch.219)*
+- **오토마톤** → automaton *(Used 6x, First: Ch.250)*
+- **지침** → instructions *(Used 6x, First: Ch.274)*
+- **유기질** → organic material *(Used 6x, First: Ch.289)*
+- **초식** → herbivores *(Used 5x, First: Ch.4)*
+- **입방면체** → icosahedral polyhedron *(Used 5x, First: Ch.21)*
+- **파공음** → explosive sound *(Used 5x, First: Ch.24)*
+- **해프닝** → incident *(Used 5x, First: Ch.35)*
+- **곤두박질** → plummet headfirst *(Used 5x, First: Ch.35)*
+- **이론 시험** → theoretical exam *(Used 5x, First: Ch.41)*
+- **오버플로우** → Overflow *(Used 5x, First: Ch.57)*
+- **영겁의 성찰자** → Eternal Contemplator *(Used 5x, First: Ch.57)*
+- **비숍** → Bishop *(Used 5x, First: Ch.81)*
+- **상상 스키마** → imaginary Schema *(Used 5x, First: Ch.123)*
+- **도련님** → young master *(Used 5x, First: Ch.123)*
+- **각성제** → stimulant *(Used 5x, First: Ch.133)*
+- **감각계** → sensory-based *(Used 5x, First: Ch.137)*
+- **거핀의 문** → Gate of Guffin *(Used 5x, First: Ch.174)*
+- **독각귀** → unicorn beast *(Used 5x, First: Ch.179)*
+- **노르족** → Nor race *(Used 5x, First: Ch.179)*
+- **이단 사냥** → heretic hunting *(Used 5x, First: Ch.183)*
+- **해자** → moat *(Used 5x, First: Ch.999)*
+- **아카식 레코드** → Akashic Records *(Used 5x, First: Ch.209)*
+- **리프팅** → lifting *(Used 5x, First: Ch.236)*
+- **기록관** → recorder *(Used 5x, First: Ch.241)*
+- **행정집무관** → administrative executive *(Used 5x, First: Ch.260)*
+- **적대적 우호 관계** → Hostile Friendship *(Used 5x, First: Ch.273)*
+- **친자 확인 검사** → Paternity Test *(Used 5x, First: Ch.277)*
+- **삼황계** → Three Emperors *(Used 5x, First: Ch.280)*
+- **수장** → leader *(Used 5x, First: Ch.284)*
+- **인과의 수레바퀴** → The Wheel of Cause and Effect *(Used 5x, First: Ch.311)*
+- **심적초월** → Mental Transcendence *(Used 5x, First: Ch.341)*
+- **검술 사범** → swordsmanship instructor *(Used 4x, First: Ch.6)*
+- **별 모양** → star shape *(Used 4x, First: Ch.21)*
+- **폭음성** → explosive sounds *(Used 4x, First: Ch.35)*
+- **다이빙** → dive *(Used 4x, First: Ch.35)*
+- **쾌재** → rejoice *(Used 4x, First: Ch.35)*
+- **매서운 눈초리** → sharp eyes *(Used 4x, First: Ch.35)*
+- **무언의 압박** → silent pressure *(Used 4x, First: Ch.35)*
+- **삼총사** → trio *(Used 4x, First: Ch.48)*
+- **천사의 눈** → angel's eyes *(Used 4x, First: Ch.138)*
+- **아광속** → near-light speed *(Used 4x, First: Ch.141)*
+- **빌드** → build *(Used 4x, First: Ch.163)*
+- **베이스** → base *(Used 4x, First: Ch.163)*
+- **천외종** → outsiders *(Used 4x, First: Ch.184)*
+- **수면마** → sleep demon *(Used 4x, First: Ch.216)*
+- **이각 마라** → two-horned Mara *(Used 4x, First: Ch.216)*
+- **시분할** → Time Division *(Used 4x, First: Ch.253)*
+- **이천번 대결** → Two Thousand Times battle *(Used 4x, First: Ch.257)*
+- **캡슐화** → encapsulation *(Used 4x, First: Ch.273)*
+- **어쌔신** → Assassin *(Used 4x, First: Ch.277)*
+- **히트맨** → Hitman *(Used 4x, First: Ch.277)*
+- **양자택일의 함정** → The Trap of False Dichotomy *(Used 4x, First: Ch.277)*
+- **모태 의식** → primordial consciousness *(Used 4x, First: Ch.280)*
+- **장력** → tension *(Used 4x, First: Ch.289)*
+- **등가교환** → equivalent exchange *(Used 4x, First: Ch.97)*
+- **마신** → demon god *(Used 4x, First: Ch.303)*
+- **전투 마법사** → battle mage *(Used 4x, First: Ch.327)*
+- **공인 4급 마법사** → certified 4th-rank mage *(Used 3x, First: Ch.2)*
+- **절벽에서 뛰어내리기** → jumping off a cliff *(Used 3x, First: Ch.9)*
+- **공허함** → emptiness *(Used 3x, First: Ch.35)*
+- **진풍경** → spectacular scene *(Used 3x, First: Ch.35)*
+- **호승심** → competitive spirit *(Used 3x, First: Ch.35)*
+- **루틴** → routine *(Used 3x, First: Ch.35)*
+- **지식의 척추** → spine of knowledge *(Used 3x, First: Ch.39)*
+- **계산물리학** → computational physics *(Used 3x, First: Ch.40)*
+- **기폭 반응** → detonation reaction *(Used 3x, First: Ch.41)*
+- **반응식** → reaction formula *(Used 3x, First: Ch.41)*
+- **영혼전해** → soul transmission *(Used 3x, First: Ch.50)*
+- **트랜스 상태** → trance states *(Used 3x, First: Ch.50)*
+- **심리적 퇴행현상** → psychological regression *(Used 3x, First: Ch.50)*
+- **마법공학** → magical engineering *(Used 3x, First: Ch.53)*
+- **비공인 3급** → unofficial 3rd-grade *(Used 3x, First: Ch.81)*
+- **교구** → parish *(Used 3x, First: Ch.81)*
+- **공인 5급** → certified 5th-grade *(Used 3x, First: Ch.121)*
+- **근력 강화 검사** → strength enhancement test *(Used 3x, First: Ch.122)*
+- **광양자설** → photon theory *(Used 3x, First: Ch.93)*
+- **골드서클** → Gold Circle *(Used 3x, First: Ch.95)*
+- **가주님** → master *(Used 3x, First: Ch.123)*
+- **행동대장** → action captain *(Used 3x, First: Ch.133)*
+- **천사의 여덟 눈동자** → angel's eight eyes *(Used 3x, First: Ch.138)*
+- **전사의 후예** → descendant of warriors *(Used 3x, First: Ch.138)*
+- **신의 언어** → divine language *(Used 3x, First: Ch.138)*
+- **A급** → A-rank *(Used 3x, First: Ch.146)*
+- **케르고어** → Kergo *(Used 3x, First: Ch.164)*
+- **인과율 제1개체** → first entities of causality *(Used 3x, First: Ch.192)*
+- **나선의 요정** → Spiral Fairy *(Used 3x, First: Ch.193)*
+- **프랙탈** → fractal *(Used 3x, First: Ch.202)*
+- **인장력** → tensile force *(Used 3x, First: Ch.202)*
+- **일각 마라** → minor Mara *(Used 3x, First: Ch.203)*
+- **천사장** → seraph *(Used 3x, First: Ch.204)*
+- **드리모** → Drimo *(Used 3x, First: Ch.209)*
+- **샤이닝 보이** → Shining Boy *(Used 3x, First: Ch.232)*
+- **매치포인트** → match point *(Used 3x, First: Ch.239)*
+- **배후** → Mastermind *(Used 3x, First: Ch.277)*
+- **온갖 변수** → All Kinds of Variables *(Used 3x, First: Ch.290)*
+- **투사체** → projection *(Used 3x, First: Ch.298)*
+- **광안** → light eyes *(Used 3x, First: Ch.301)*
+- **늑대 부족** → wolf tribe *(Used 3x, First: Ch.321)*
+- **람무아이** → Rammuai *(Used 3x, First: Ch.321)*
+- **아가씨** → Miss/young lady *(Used 3x, First: Ch.323)*
+- **스나이퍼** → sniper *(Used 3x, First: Ch.327)*
+- **제령사** → exorcist *(Used 3x, First: Ch.332)*
+- **삼위일체** → Trinity *(Used 3x, First: Ch.332)*
+- **아킬레스건** → Achilles heel *(Used 3x, First: Ch.344)*
+- **남창** → male brothel/male prostitute *(Used 2x, First: Ch.4)*
+- **정령의 정수** → Essence of Spirits *(Used 2x, First: Ch.10)*
+- **인간 군상** → human constellation *(Used 2x, First: Ch.35)*
+- **반복 강박** → repetitive compulsion *(Used 2x, First: Ch.35)*
+- **완주** → completing the course *(Used 2x, First: Ch.35)*
+- **운동방정식** → equations of motion *(Used 2x, First: Ch.36)*
+- **기폭 마법사** → detonation mage *(Used 2x, First: Ch.41)*
+- **적색 곰** → red bear *(Used 2x, First: Ch.43)*
+- **리미트리스** → Limitless *(Used 2x, First: Ch.47)*
+- **모듈화** → modularization *(Used 2x, First: Ch.47)*
+- **고승** → high monks *(Used 2x, First: Ch.48)*
+- **몽크** → monk *(Used 2x, First: Ch.51)*
+- **빙결의 시이나** → Siena of Ice *(Used 2x, First: Ch.55)*
+- **구천** → nine heavens *(Used 2x, First: Ch.64)*
+- **미토콘드리아 빌드** → mitochondria build *(Used 2x, First: Ch.86)*
+- **궁수단장** → palace guard captain *(Used 2x, First: Ch.121)*
+- **엘자인 검술** → Elzaine swordsmanship *(Used 2x, First: Ch.122)*
+- **파동성** → wave nature *(Used 2x, First: Ch.88)*
+- **입자성** → particle nature *(Used 2x, First: Ch.88)*
+- **골드서클상** → Gold Circle Award *(Used 2x, First: Ch.93)*
+- **마도공학** → magi-engineering *(Used 2x, First: Ch.95)*
+- **케르고 언어** → Kergo language *(Used 2x, First: Ch.137)*
+- **전장의 악귀** → Demon of the Battlefield *(Used 2x, First: Ch.154)*
+- **거너** → gunner *(Used 2x, First: Ch.163)*
+- **빌드 업** → build up *(Used 2x, First: Ch.163)*
+- **옵션** → option *(Used 2x, First: Ch.163)*
+- **미토콘드리아** → mitochondria *(Used 2x, First: Ch.165)*
+- **체득** → mastery *(Used 2x, First: Ch.165)*
+- **케르고족** → Kergo race *(Used 2x, First: Ch.179)*
+- **정치범** → political prisoner *(Used 2x, First: Ch.999)*
+- **내벽** → inner wall *(Used 2x, First: Ch.999)*
+- **율법의 조율자** → harmonizers of law *(Used 2x, First: Ch.192)*
+- **단일개념체** → Single concept entity *(Used 2x, First: Ch.193)*
+- **통제관** → control officer *(Used 2x, First: Ch.203)*
+- **해킹** → hacking *(Used 2x, First: Ch.209)*
+- **마검사** → demonic swordsman *(Used 2x, First: Ch.214)*
+- **팔코아** → Falcoa *(Used 2x, First: Ch.221)*
+- **나찰** → rakshasa *(Used 2x, First: Ch.236)*
+- **킬로버스터** → kilobuster *(Used 2x, First: Ch.244)*
+- **돌아온 유리잔** → returned glass cup *(Used 2x, First: Ch.244)*
+- **오버플로** → overflow *(Used 2x, First: Ch.250)*
+- **2진수** → binary *(Used 2x, First: Ch.250)*
+- **어디서나 폭신폭신** → Soft and Fluffy Everywhere *(Used 2x, First: Ch.273)*
+- **집시** → gypsies *(Used 2x, First: Ch.274)*
+- **라디안** → radian *(Used 2x, First: Ch.274)*
+- **계약식** → Contract Type *(Used 2x, First: Ch.276)*
+- **트리플S** → Triple-S *(Used 2x, First: Ch.280)*
+- **안티테제** → antithesis *(Used 2x, First: Ch.298)*
+- **의식의 지배자** → Master of Consciousness *(Used 2x, First: Ch.299)*
+- **루시드 드림 자격증** → lucid dream certification *(Used 2x, First: Ch.299)*
+- **투구** → siege *(Used 2x, First: Ch.326)*
+- **옵트러스** → Optrus *(Used 2x, First: Ch.336)*
+- **율법자** → Lawgiver *(Used 2x, First: Ch.343)*
+- **중장보병** → heavy infantry *(Used 2x, First: Ch.346)*
+- **[List any new terms you encountered, format: korean_term** → english_translation *(Used 1x, First: Ch.2)*
+- **본질성** → essence *(Used 1x, First: Ch.3)*
+- **용오름** → whirlwind/tornado *(Used 1x, First: Ch.4)*
+- **국가 공인 3급 검사** → nationally certified 3rd-rank swordsman *(Used 1x, First: Ch.6)*
+- **정중동** → stillness-in-motion *(Used 1x, First: Ch.9)*
+- **파동방정식** → wave equations *(Used 1x, First: Ch.10)*
+- **공명 주파수** → resonance frequencies *(Used 1x, First: Ch.10)*
+- **피아노 소나타** → Piano Sonata *(Used 1x, First: Ch.11)*
+- **초견** → sight-reading *(Used 1x, First: Ch.11)*
+- **정격종지** → authentic cadence *(Used 1x, First: Ch.11)*
+- **1.7초** → 1.7 seconds *(Used 1x, First: Ch.11)*
+- **몰아일체** → unity of subject and object *(Used 1x, First: Ch.21)*
+- **물아일체** → unity of self and universe *(Used 1x, First: Ch.21)*
+- **사향고양** → musk cat *(Used 1x, First: Ch.24)*
+- **88개의 면** → 88 faces *(Used 1x, First: Ch.25)*
+- **제3계급** → 3rd rank *(Used 1x, First: Ch.35)*
+- **삼녀** → third daughter *(Used 1x, First: Ch.35)*
+- **방년 19세** → 19 years old *(Used 1x, First: Ch.35)*
+- **마라톤** → marathon *(Used 1x, First: Ch.35)*
+- **궤를 달리하다** → on a different level *(Used 1x, First: Ch.35)*
+- **끈질기다** → persistent *(Used 1x, First: Ch.35)*
+- **동반자살** → mutual destruction *(Used 1x, First: Ch.35)*
+- **고속 연계** → rapid linking *(Used 1x, First: Ch.35)*
+- **마법 공학자** → magical engineer *(Used 1x, First: Ch.39)*
+- **시로네이드** → Shironade *(Used 1x, First: Ch.39)*
+- **인생은 낙엽** → Life is Fallen Leaves *(Used 1x, First: Ch.40)*
+- **엄빠** → Modad *(Used 1x, First: Ch.40)*
+- **월말 평가** → monthly evaluation *(Used 1x, First: Ch.41)*
+- **졸업 준비** → graduation preparation *(Used 1x, First: Ch.43)*
+- **정신 분할** → mental division *(Used 1x, First: Ch.47)*
+- **제로백** → zero to sixty *(Used 1x, First: Ch.47)*
+- **초신성 폭발** → supernova explosion *(Used 1x, First: Ch.48)*
+- **니르바나** → Nirvana *(Used 1x, First: Ch.48)*
+- **선문답** → Zen dialogue *(Used 1x, First: Ch.48)*
+- **영혼의 이온화** → soul ionization *(Used 1x, First: Ch.50)*
+- **주교** → bishop *(Used 1x, First: Ch.51)*
+- **그림책** → picture book *(Used 1x, First: Ch.53)*
+- **이데아** → Idea *(Used 1x, First: Ch.57)*
+- **정복전쟁** → war of conquest *(Used 1x, First: Ch.64)*
+- **원혼** → vengeful spirits *(Used 1x, First: Ch.64)*
+- **아귀의 병사** → hungry ghost soldier *(Used 1x, First: Ch.66)*
+- **지식의 뼈대** → framework of knowledge *(Used 1x, First: Ch.77)*
+- **육뇌** → muscle memory *(Used 1x, First: Ch.86)*
+- **오젠트 검술** → Ozent swordsmanship *(Used 1x, First: Ch.122)*
+- **정신 혼인식** → proper wedding ceremony *(Used 1x, First: Ch.93)*
+- **제수씨** → sister-in-law *(Used 1x, First: Ch.95)*
+- **마도 생물학** → magi-biology *(Used 1x, First: Ch.95)*
+- **광자역학** → photon mechanics *(Used 1x, First: Ch.95)*
+- **광양자이론** → photon theory *(Used 1x, First: Ch.109)*
+- **섹터 레벨** → sector level *(Used 1x, First: Ch.123)*
+- **상납금** → tribute *(Used 1x, First: Ch.126)*
+- **해결사** → enforcer *(Used 1x, First: Ch.133)*
+- **스키마 빌드** → schema build *(Used 1x, First: Ch.137)*
+- **마도공학자** → magical engineer *(Used 1x, First: Ch.140)*
+- **벽력진** → lightning formation *(Used 1x, First: Ch.148)*
+- **신경계 빌드** → nervous system build *(Used 1x, First: Ch.165)*
+- **감각계 빌드** → sensory build *(Used 1x, First: Ch.165)*
+- **원감각** → primary senses *(Used 1x, First: Ch.165)*
+- **근감각** → proximate senses *(Used 1x, First: Ch.165)*
+- **진곡의 나팔** → trumpet of truth *(Used 1x, First: Ch.171)*
+- **맵 병기** → map weapon *(Used 1x, First: Ch.174)*
+- **제1신민** → First Divine Subjects *(Used 1x, First: Ch.183)*
+- **치외신권지대** → extraterritorial sanctuary *(Used 1x, First: Ch.183)*
+- **치외신권** → extraterritorial rights *(Used 1x, First: Ch.184)*
+- **공성 무기** → siege weapon *(Used 1x, First: Ch.999)*
+- **A급 범죄자** → A-grade criminal *(Used 1x, First: Ch.999)*
+- **B급 범죄자** → B-grade criminal *(Used 1x, First: Ch.999)*
+- **화산재** → volcanic ash *(Used 1x, First: Ch.999)*
+- **익랑** → corridor/wing *(Used 1x, First: Ch.999)*
+- **참배로** → pilgrimage path *(Used 1x, First: Ch.999)*
+- **암반** → bedrock *(Used 1x, First: Ch.999)*
+- **부식 가게** → grocery store *(Used 1x, First: Ch.999)*
+- **판잣집** → makeshift shack *(Used 1x, First: Ch.999)*
+- **원주민 자치 구역** → indigenous autonomous zone *(Used 1x, First: Ch.999)*
+- **유료 보관소** → paid storage facility *(Used 1x, First: Ch.999)*
+- **불갈퀴** → Fire Rake *(Used 1x, First: Ch.187)*
+- **유황지렁이** → sulfur worm *(Used 1x, First: Ch.187)*
+- **사념체** → thought-form *(Used 1x, First: Ch.192)*
+- **인과율 제2개체** → second entities of causality *(Used 1x, First: Ch.192)*
+- **율법의 수행자** → executors of law *(Used 1x, First: Ch.192)*
+- **포탈 통제관** → portal control officer *(Used 1x, First: Ch.204)*
+- **나선의 정령** → spiral spirit *(Used 1x, First: Ch.206)*
+- **형태소** → morphemes *(Used 1x, First: Ch.211)*
+- **신적 초월** → Divine Transcendence *(Used 1x, First: Ch.219)*
+- **시간의 시소** → seesaw of time *(Used 1x, First: Ch.219)*
+- **향기 마법사** → scent mage *(Used 1x, First: Ch.236)*
+- **전술훈련** → tactical training *(Used 1x, First: Ch.239)*
+- **그램버스터** → gram-buster *(Used 1x, First: Ch.244)*
+- **드래곤** → dragon *(Used 1x, First: Ch.250)*
+- **로컬 연산** → local calculation *(Used 1x, First: Ch.252)*
+- **1111번** → number 1111 *(Used 1x, First: Ch.252)*
+- **난수 변환** → random number conversion *(Used 1x, First: Ch.274)*
+- **법정대리인** → Legal Guardian *(Used 1x, First: Ch.277)*
+- **발설 금지 조항** → Disclosure Prohibition Clause *(Used 1x, First: Ch.277)*
+- **제타 함수** → Zeta function *(Used 1x, First: Ch.279)*
+- **칠왕성** → Seven Stars *(Used 1x, First: Ch.280)*
+- **카즈라 궁중 검술** → Kasula Court Swordsmanship *(Used 1x, First: Ch.283)*
+- **천왕조개** → Celestial King Clam *(Used 1x, First: Ch.286)*
+- **의태 능력자** → mimic *(Used 1x, First: Ch.289)*
+- **공인의 검술 유단자** → certified swordsman *(Used 1x, First: Ch.289)*
+- **업자** → dealer *(Used 1x, First: Ch.289)*
+- **신체 조율** → physical coordination *(Used 1x, First: Ch.289)*
+- **확신시키다** → suppression *(Used 1x, First: Ch.289)*
+- **연소 반응** → combustion reaction *(Used 1x, First: Ch.289)*
+- **자생** → regeneration *(Used 1x, First: Ch.289)*
+- **뇌하수체호르몬** → pituitary hormone *(Used 1x, First: Ch.289)*
+- **신경 안정 물질** → nerve stabilizing substance *(Used 1x, First: Ch.289)*
+- **신경안정제** → sedative *(Used 1x, First: Ch.290)*
+- **시간의 마법사** → Time Magician *(Used 1x, First: Ch.97)*
+- **전투마법사** → battle magician *(Used 1x, First: Ch.97)*
+- **1N** → 1N *(Used 1x, First: Ch.97)*
+- **정신 개조** → mental reconstruction *(Used 1x, First: Ch.298)*
+- **몽인** → dream person *(Used 1x, First: Ch.299)*
+- **척살령** → death decree *(Used 1x, First: Ch.303)*
+- **더블S급** → Double S-class *(Used 1x, First: Ch.303)*
+- **미토콘드리아 이브** → Mitochondrial Eve *(Used 1x, First: Ch.311)*
+- **매일매일 선물** → Daily Daily Gift *(Used 1x, First: Ch.311)*
+- **인형사** → puppeteer *(Used 1x, First: Ch.311)*
+- **무접합 관절 인형** → seamless joint dolls *(Used 1x, First: Ch.311)*
+- **삼매경** → samadhi *(Used 1x, First: Ch.320)*
+- **무기 소지 자격증** → weapon possession license *(Used 1x, First: Ch.321)*
+- **가주** → family head/master *(Used 1x, First: Ch.323)*
+- **율법의 수** → Number of Laws *(Used 1x, First: Ch.332)*
+- **7톤** → 7 Tons *(Used 1x, First: Ch.338)*
+- **화신체** → Incarnate Body *(Used 1x, First: Ch.338)*
+- **삼면 천수관세음** → Three-faced Thousand-armed Avalokiteshvara *(Used 1x, First: Ch.341)*
+- **2차 헌신** → second devotion *(Used 1x, First: Ch.341)*
+- **천수관세음** → Thousand-Armed Avalokiteshvara *(Used 1x, First: Ch.343)*
+- **앙케라** → Ankera *(Used 1x, First: Ch.343)*
+- **죽음의 마술사** → Death Magician *(Used 1x, First: Ch.344)*
+- **엘자인** → Elzain *(Used 1x, First: Ch.346)*
+- **이미르** → Ymir *(Used 1x, First: Ch.346)*
+- **17조** → Group 17 *(Used 1x, First: Ch.347)*
+- **악귀 수행** → demonic practice *(Used 1x, First: Ch.347)*
+- **벌크 업** → bulk-up *(Used 1x, First: Ch.347)*

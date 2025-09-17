@@ -7,8 +7,12 @@ Easy-to-use interface for rescuing failed chapters
 import sys
 import argparse
 from pathlib import Path
-from manual_chapter_parser import ManualChapterParser
-from batch_rescue_chapters import rescue_failed_chapters, interactive_rescue
+
+# Add parent directory to path to import from other script modules
+sys.path.append(str(Path(__file__).parent.parent))
+
+from analysis.manual_chapter_parser import ManualChapterParser
+from analysis.batch_rescue_chapters import rescue_failed_chapters, interactive_rescue
 
 def main():
     """Main CLI interface"""

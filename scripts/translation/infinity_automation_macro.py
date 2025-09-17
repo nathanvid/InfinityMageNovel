@@ -17,6 +17,8 @@ from infinity_response_parser import InfinityResponseParser
 
 class InfinityAutomationMacro:
     def __init__(self):
+
+        self.project_root = Path(__file__).parent.parent.parent
         # Initialize core components
         self.glossary_manager = InfinityGlossaryManager()
         self.prompt_generator = InfinityPromptGenerator(self.glossary_manager)
@@ -271,7 +273,8 @@ class InfinityAutomationMacro:
             print("\n📋 STEP 7: Copying Claude's response...")
             response = self.copy_claude_response()
 
-            with open(f"responses/prompt_answer{chapter_number}.txt", "w", encoding="utf-8") as f:
+            response_file_path = self.project_root / "data/responses/prompt_answer{chapter_number}.txt"
+            with response_file_path.open("w", encoding="utf-8") as f:
                 f.write(response if response else "No response captured")
             
             if not response:

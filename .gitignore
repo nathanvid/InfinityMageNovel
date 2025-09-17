@@ -31,6 +31,10 @@ RAG/character_profiles_db/*
 RAG/characs_profiles_db/*
 RAG/simple_rag_db/*
 RAG/test_db/*
+RAG/character_db/*
+
+# New RAG
+character_rag/*
 
 # IDE and tools
 .claude

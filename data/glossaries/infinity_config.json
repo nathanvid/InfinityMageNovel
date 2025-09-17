@@ -2,8 +2,8 @@
   "version": "1.0",
   "created_date": "2024-01-01",
   "paths": {
-    "korean_chapters_dir": "Infinity Mage Chapters 1-1277",
-    "translated_chapters_dir": "translated_chapters",
+    "korean_chapters_dir": "data/source/chapters_raw",
+    "translated_chapters_dir": "data/translated",
     "glossary_file": "translation_glossary.json",
     "progress_file": "translation_progress.json",
     "backup_dir": "backups"

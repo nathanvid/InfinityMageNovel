@@ -6,9 +6,14 @@ Finds failed chapters and attempts to rescue them using manual parsing
 
 import os
 import re
+import sys
 from pathlib import Path
-from manual_chapter_parser import ManualChapterParser
-from check_placeholder_chapters import check_placeholder_chapters
+
+# Add parent directory to path to import from other script modules
+sys.path.append(str(Path(__file__).parent.parent))
+
+from analysis.manual_chapter_parser import ManualChapterParser
+from analysis.check_placeholder_chapters import check_placeholder_chapters
 
 def find_response_files():
     """Find all response files that might contain failed chapters"""

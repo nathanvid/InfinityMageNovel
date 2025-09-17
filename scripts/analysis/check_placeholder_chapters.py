@@ -5,8 +5,13 @@ Identifies chapters with placeholder content that should be marked as failed
 """
 
 import os
+import sys
 from pathlib import Path
-from infinity_response_parser import InfinityResponseParser
+
+# Add parent directory to path to import from other script modules
+sys.path.append(str(Path(__file__).parent.parent))
+
+from translation.infinity_response_parser import InfinityResponseParser
 from infinity_glossary_manager import InfinityGlossaryManager
 
 def check_placeholder_chapters():

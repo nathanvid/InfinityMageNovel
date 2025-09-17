@@ -1,0 +1,1 @@
+# Infinity Mage Translation Scripts Package
